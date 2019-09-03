@@ -59,7 +59,7 @@ def find_past_teams(team, players):
   for franchise_name, count in sorted_other_franchises:
     top_other_franchise_players.append(
         (franchise_name, count, other_franchise_players[franchise_name]))
-  print("%s top 5 franchises: %s" % (team.name, top_other_franchise_players[0:5]))
+  print("%s (%s) top 5 franchises: %s" % (team.name, team.year, top_other_franchise_players[0:5]))
 
 cachedir = '/tmp/cuccache'
 if not os.path.exists(cachedir):
@@ -67,12 +67,14 @@ if not os.path.exists(cachedir):
 if not os.path.isdir(cachedir):
   exit('Cache dir error.')
 
-#TODO: URLs for other years / tournaments.
+#TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
 urls = [
 ('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams'),
+('CUC2018', 2018, url_prefix + 'cuc-2018-series/teams'),
 ('CUC2017', 2017, url_prefix + 'cuc-series/teams'),
 ('CUCM2016', 2016, url_prefix + 'cuc-mixed-2016/teams'),
+('CUC2016', 2016, url_prefix + 'cuc-2016/teams'),
 ('CUC2015', 2015, url_prefix + '2015-canadian-ultimate-championships/teams')
 # TODO: For 2014, rosters are not listed on the main page. Need to go to:
 # https://canadianultimate.com/en_ca/t/TEAMNAME/roster?division=4316
@@ -96,6 +98,7 @@ for event, year, url in urls:
 
       cookies = dict(tsid=sys.argv[1])
       requrl = url
+      print('downloading page %s' % pagenum)
       if pagenum > 1:
         requrl += '?page=%d' % pagenum
       response = requests.get(requrl, cookies=cookies)
