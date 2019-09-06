@@ -176,6 +176,31 @@ def _parse_args():
   return parser.parse_args(sys.argv[1:])
 
 
+def process_event(event, year, url):
+  pagenum = 1
+  # Upper bound of 20 to avoid spamming the site by accident.
+  while pagenum < 20:
+    requrl = url
+    if pagenum > 1:
+      requrl += '?page=%d' % pagenum
+    print(event, year, requrl)
+    contents = download_page(requrl, '%s-%02d' % (event, pagenum), args)
+
+    soup = BeautifulSoup(contents, "html.parser")
+
+    TEAM_DIV_CLASS = 'span4 media-item-wrapper spacer1'
+    team_divs = soup.find_all(attrs={'class': TEAM_DIV_CLASS})
+    if len(team_divs) == 0:
+      if pagenum == 1:
+        exit('No teams found on page %s.' % pagenum)
+      print('No more teams on page %d for url "%s".' % (pagenum, url))
+      break
+    for div in team_divs:
+      process_team(div, year, args)
+
+    pagenum += 1
+
+
 #TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
 urls = [
@@ -196,28 +221,7 @@ def main():
   args = _parse_args()
 
   for event, year, url in urls:
-    pagenum = 1
-    # Upper bound of 20 to avoid spamming the site by accident.
-    while pagenum < 20:
-      requrl = url
-      if pagenum > 1:
-        requrl += '?page=%d' % pagenum
-      print(event, year, requrl)
-      contents = download_page(requrl, '%s-%02d' % (event, pagenum), args)
-
-      soup = BeautifulSoup(contents, "html.parser")
-
-      TEAM_DIV_CLASS = 'span4 media-item-wrapper spacer1'
-      team_divs = soup.find_all(attrs={'class': TEAM_DIV_CLASS})
-      if len(team_divs) == 0:
-        if pagenum == 1:
-          exit('No teams found on page %s.' % pagenum)
-        print('No more teams on page %d for url "%s".' % (pagenum, url))
-        break
-      for div in team_divs:
-        process_team(div, year, args)
-
-      pagenum += 1
+    process_event(event, year, url)
 
   for team, players in all_teams.items():
     if str(team.year) not in args.years.split(','):
