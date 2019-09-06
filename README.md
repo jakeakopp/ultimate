@@ -9,6 +9,6 @@ To run, ensure you have Beautiful Soup 4 installed (pip3 install beatifulsoup4),
 
 For the first run, you will need to pass an additional argument - your login cookie from the CUC website. To get this, log in to canadianultimate.com, then grab the tsid cookie value (in Chrome, go to chrome://settings/cookies/detail?site=canadianultimate.com and grab the "Content" for the tsid cookie). e.g.:
 
-`python3 cucteams.py AwAizIlHh7HmjNWqVEL1ow0VHKk23nqH`
+`python3 cucteams.py --tsid_cookie AwAizIlHh7HmjNWqVEL1ow0VHKk23nqH`
 
-Subsequent runs do not require the cookie because the pages are cached.
+Subsequent runs do not require the cookie because the pages are cached. Note that attempting to download everything in one run will likely trigger rate limiting from canadianultimate.com. If this happens, the cache will persist, so you can just wait a minute and re-run each time this happens.
