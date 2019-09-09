@@ -101,8 +101,11 @@ def find_past_teams(team, players):
   for franchise_name, count in sorted_other_franchises:
     top_other_franchise_players.append(
         (franchise_name, count, other_franchise_players[franchise_name]))
-  print("\n%s (%s) top 5 franchises: %s" %
-        (team.name, team.year, top_other_franchise_players[0:5]))
+  s = []
+  for franchise_name, count, players in top_other_franchise_players[0:5]:
+    s.append('%s (%s): %s  ' % (franchise_name, count, ', '.join(players)))
+  print("\n%s (%s) top 5 franchises:  \n%s" % (
+      team.name, team.year, '  \n'.join(s)))
 
 
 def _parse_args():

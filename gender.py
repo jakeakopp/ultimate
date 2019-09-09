@@ -169,6 +169,14 @@ manual_data = {
 }
 
 
+# Ideas for future work:
+#  - Masters division seems different (more equal) - separate out.
+#  - Calculate Gini coefficients for each team.
+#  - Look at leaders, e.g.
+#    - How many women in top 5 for each team?
+#    - Rank of highest-scoring woman on team.
+#    - Ratio of points scored by each team's N highest-scoring
+#      men/women/players.
 def main():
   args = _parse_args()
 

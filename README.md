@@ -18,9 +18,9 @@ gender.py scrapes the Ultimate Canada website for genders, scrapes the stats web
 
 ### 2019 Gender Data
 #### Overall Stats
-Female goals, assists: 1062, 511
-Male goals, assists:   1582, 2113
-Ratio (male-to-female): goals: 1.4896421845574388, assists: 4.135029354207436
+Female goals, assists: 1062, 511  
+Male goals, assists:   1582, 2113  
+Ratio (male-to-female): goals: 1.49, assists: 4.14
 
 #### Per-team tables
 
