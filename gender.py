@@ -39,7 +39,7 @@ class Stats(object):
 
 
 # Map from team to (map of player to stats).
-all_teams = dict()#collections.defaultdict(collections.defaultdict(list))
+all_teams = dict()
 
 
 def process_team_game(team_table):

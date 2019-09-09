@@ -18,16 +18,19 @@ class Error404(Exception):
   pass
 
 
-def download_page(url, cachefilename, tsid_cookie=None):
+def download_page(url, cachefilename, tsid_cookie=None, tsid_required=False):
   cachefile = os.path.join(CACHEDIR, cachefilename)
   if os.path.exists(cachefile):
     with open(cachefile) as f:
       contents = f.read()
       if contents == '404':
-        raise Error404
+        raise Error404(url)
       return contents
 
   print('downloading %s' % url)
+
+  if tsid_required and (tsid_cookie is None or tsid_cookie == ''):
+    raise Exception('Specify --tsid_cookie to download pages.')
 
   cookies = dict()
   if (tsid_cookie is not None) and (tsid_cookie != ''):
@@ -51,7 +54,7 @@ def download_page(url, cachefilename, tsid_cookie=None):
 Player = collections.namedtuple('Player', ['player_name', 'url', 'gender'])
 
 
-def process_team(team_div, year, tsid, all_teams):
+def process_team(team_div, year, tsid, all_teams, all_players=None):
   team_name = team_div.find_all('h3')[0].get_text()
 
   player_link_class = (
@@ -69,10 +72,14 @@ def process_team(team_div, year, tsid, all_teams):
     players = cluster.find_all('a')
     for player in players:
       player_url = player.get('href')[9:]
+      if all_players:
+        all_players[player_url].append(team)
       all_teams[team].append(Player(player.text, player_url, gender))
 
+  return team
 
-def process_event(event, year, url, tsid, all_teams):
+
+def process_event(event, year, url, tsid, all_teams, all_players=None):
   pagenum = 1
   # Upper bound of 20 to avoid spamming the site by accident.
   while pagenum < 20:
@@ -80,7 +87,7 @@ def process_event(event, year, url, tsid, all_teams):
     if pagenum > 1:
       requrl += '?page=%d' % pagenum
     print(event, year, requrl)
-    contents = download_page(requrl, '%s-%02d' % (event, pagenum), tsid)
+    contents = download_page(requrl, '%s-%02d' % (event, pagenum), tsid, True)
 
     soup = BeautifulSoup(contents, "html.parser")
 
@@ -92,7 +99,7 @@ def process_event(event, year, url, tsid, all_teams):
       print('No more teams on page %d for url "%s".' % (pagenum, url))
       break
     for div in team_divs:
-      process_team(div, year, tsid, all_teams)
+      process_team(div, year, tsid, all_teams, all_players)
 
     pagenum += 1
 
