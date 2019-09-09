@@ -72,7 +72,7 @@ def process_team(team_div, year, tsid, all_teams, all_players=None):
     players = cluster.find_all('a')
     for player in players:
       player_url = player.get('href')[9:]
-      if all_players:
+      if all_players is not None:
         all_players[player_url].append(team)
       all_teams[team].append(Player(player.text, player_url, gender))
 
