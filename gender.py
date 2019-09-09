@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 
+# Calculate gender-based stats for CUC events.
+
 import argparse
 import collections
 import sys
 from bs4 import BeautifulSoup
+from tabulate import tabulate
 
 import lib
 
@@ -45,7 +48,6 @@ all_teams = dict()
 def process_team_game(team_table):
   team_name = team_table.find('b').text
   if team_name not in all_teams:
-    print("new team:", team_name)
     all_teams[team_name] = dict()
   team = all_teams[team_name]
   stats_table = team_table.find_all('table')[1]
@@ -69,6 +71,34 @@ def process_team_game(team_table):
 def process_game(team1_table, team2_table):
   process_team_game(team1_table)
   process_team_game(team2_table)
+
+
+TeamStats = collections.namedtuple('TeamStats',
+    ['team_name', 'point_ratio', 'assist_ratio', 'goal_ratio', 'f_goals',
+     'f_assists', 'm_goals', 'm_assists'])
+
+
+def calculate_per_team_gender_ratios(team_name, team):
+  f_goals = 0
+  f_assists = 0
+  m_goals = 0
+  m_assists = 0
+  for player in team.values():
+    if player.gender == 'F':
+      f_goals += player.stats.goals
+      f_assists += player.stats.assists
+    elif player.gender == 'M':
+      m_goals += player.stats.goals
+      m_assists += player.stats.assists
+    else:
+      raise Exception('No gender for player:', player)
+
+  goal_ratio = float(m_goals) / float(f_goals)
+  assist_ratio = float(m_assists) / float(f_assists)
+  point_ratio = float(m_assists + m_goals) / float(f_assists + f_goals)
+
+  return TeamStats(team_name, point_ratio, assist_ratio, goal_ratio, f_goals,
+                   f_assists, m_goals, m_assists)
 
 
 def calculate_overall_gender_ratios(all_teams):
@@ -129,7 +159,6 @@ def get_matching_player(player_name, g_team):
     raise Exception('multimatch for player %s: %s' % (player_name, multimatch))
 
   return match
-  #raise Exception('did not find %s in %s' % (player_name, g_team))
 
 
 manual_data = {
@@ -173,9 +202,34 @@ def main():
         player.gender = match.gender
 
   calculate_overall_gender_ratios(all_teams)
+  all_team_stats = []
+  for team_name, team in all_teams.items():
+    all_team_stats.append(calculate_per_team_gender_ratios(team_name, team))
+
+  def row(team_stats):
+    return (team_stats.team_name, '%.2f' % team_stats.assist_ratio,
+            '%.2f' % team_stats.goal_ratio, '%.2f' % team_stats.point_ratio)
+
+  headers = ['Team', 'Assist Ratio', 'Goal Ratio', 'Point Ratio']
+
+  points_table = [row(t) for t in
+                  sorted(all_team_stats, key=lambda team: team.point_ratio)]
+  print('\nSorted By Points:\n%s' %
+        tabulate(points_table, headers, tablefmt='github'))
+
+  assists_table = [row(t) for t in
+                   sorted(all_team_stats, key=lambda team: team.assist_ratio)]
+  print('\nSorted By Assists:\n%s' %
+        tabulate(assists_table, headers, tablefmt='github'))
+
+  goals_table = [row(t) for t in
+                 sorted(all_team_stats, key=lambda team: team.goal_ratio)]
+  print('\nSorted By Goals:\n%s' %
+        tabulate(goals_table, headers, tablefmt='github'))
 
   if len(all_not_found_players) > 0:
     print('Failed to find players:', all_not_found_players)
+
 
 if __name__ == '__main__':
   main()
