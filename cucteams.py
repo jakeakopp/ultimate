@@ -144,7 +144,7 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
     writer = csv.writer(f)
     for player_url, teams in players_to_teams.items():
       row = [player_url]
-      for team in teams:
+      for team in sorted(teams, key=lambda t: t.name+t.url+str(t.year)):
         row += [team.name, team.url, team.year]
       writer.writerow(row)
 
@@ -162,7 +162,7 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
     writer = csv.writer(f)
     for player_url, franchises in players_to_franchises.items():
       row = [player_url]
-      for franchise in franchises:
+      for franchise in sorted(franchises, key=lambda f: f.name+f.url):
         row += [franchise.name, franchise.url]
       writer.writerow(row)
 
