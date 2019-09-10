@@ -22,18 +22,13 @@ PLAYER_LINK_CLASS = (
 
 processed_franchises = dict()
 
-Franchise = collections.namedtuple('Franchise', ['name', 'url'])
-
 
 def create_franchise(name, url):
-  if url == 'bod-1':
-    # Somehow BoD has no 'bod', just 'bod-1'.
-    return Franchise(name, url)
   # Match anything ending in a dash and one or two digits.
   m = re.match('(.*)-\d\d?$', url)
   if m is None:
-    return Franchise(name, url)
-  return Franchise(name, m.group(1))
+    return lib.Franchise(name, url)
+  return lib.Franchise(name, m.group(1))
 
 
 # There are often multiple "different" teams which are the same team in
@@ -46,15 +41,11 @@ def load_players_for_franchise(franchise, players_to_franchises, tsid_cookie):
   if franchise in processed_franchises:
     return
 
-  if franchise.url in ['firefly', 'firefly-2']:
-    print('loading firefly')
   i = 0
   have_results = False
   # Upper bound of 30 to avoid spamming the site by accident.
   # Note that there are 28 different registrations for "Phoenix".
   while i < 30:
-    if franchise.url in ['firefly', 'firefly-2']:
-      print('%s' % i)
     url_name = franchise.url
     if i > 0:
       url_name += '-%d' % i
@@ -64,18 +55,12 @@ def load_players_for_franchise(franchise, players_to_franchises, tsid_cookie):
       page = lib.download_page(
           url, '%s-roster' % url_name, tsid_cookie, tsid_required=True)
     except lib.Error404:
-      if franchise.url in ['firefly', 'firefly-2']:
-        print('404')
       if not have_results:
-        if franchise.url in ['firefly', 'firefly-2']:
-          print('not yet')
         # Some teams (e.g. BoD) don't have a version without a -N suffix. Some
         # (Firefly) doen't have -1 either. Just ignore 404s until we've actually
         # got something.
         i += 1
         continue
-      if franchise.url in ['firefly', 'firefly-2']:
-        print('have something')
       break
 
     have_results = True
@@ -85,7 +70,7 @@ def load_players_for_franchise(franchise, players_to_franchises, tsid_cookie):
     for row in rows:
       for player_soup in row.find_all('a', attrs={'class': PLAYER_LINK_CLASS}):
         player_url = player_soup.get('href')[9:]
-        players_to_franchises[player_url].append(franchise)
+        players_to_franchises[player_url].add(franchise)
 
     i += 1
 
@@ -172,7 +157,7 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
         row += [player.player_name, player.url, player.gender]
       writer.writerow(row)
 
-  # player url to []Franchise
+  # player url to []lib.Franchise
   with open(os.path.join(parsed_data_dir, 'players_to_franchises.csv'), 'w') as f:
     writer = csv.writer(f)
     for player_url, franchises in players_to_franchises.items():
@@ -181,58 +166,6 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
         row += [franchise.name, franchise.url]
       writer.writerow(row)
 
-
-def load_parsed_data(parsed_data_dir):
-  players_to_teams = dict()
-  teams_to_players = dict()
-  players_to_franchises = dict()
-
-  # player url to []lib.Team
-  with open(os.path.join(parsed_data_dir, 'players_to_teams.csv')) as f:
-    reader = csv.reader(f)
-    for row in reader:
-      if len(row) < 1:
-        continue
-      player_url = row[0]
-      teams = []
-      i = 1
-      while i < len(row):
-        teams.append(lib.Team(row[i], row[i+1], row[i+2]))
-        i += 3
-
-      players_to_teams[player_url] = teams
-
-  # lib.Team to []lib.Player
-  with open(os.path.join(parsed_data_dir, 'teams_to_players.csv')) as f:
-    reader = csv.reader(f)
-    for row in reader:
-      if len(row) < 3:
-        continue
-      team = lib.Team(row[0], row[1], row[2])
-      players = []
-      i = 3
-      while i < len(row):
-        players.append(lib.Player(row[i], row[i+1], row[i+2]))
-        i += 3
-
-      teams_to_players[team] = players
-
-  # player url to []Franchise
-  with open(os.path.join(parsed_data_dir, 'players_to_franchises.csv')) as f:
-    reader = csv.reader(f)
-    for row in reader:
-      if len(row) < 1:
-        continue
-      player_url = row[0]
-      franchises = []
-      i = 1
-      while i < len(row):
-        franchises.append(Franchise(row[i], row[i+1]))
-        i += 2
-
-      players_to_franchises[player_url] = franchises
-
-  return players_to_teams, teams_to_players, players_to_franchises
 
 #TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
@@ -255,12 +188,12 @@ def main():
 
   all_teams = collections.defaultdict(list)
   all_players = collections.defaultdict(list)
-  players_to_franchises = collections.defaultdict(list)
+  players_to_franchises = collections.defaultdict(set)
 
   if args.parsed_data_dir and os.path.exists(args.parsed_data_dir):
     print('Loading pre-parsed data from %s.' % args.parsed_data_dir)
-    all_players, all_teams, players_to_franchises = load_parsed_data(
-        args.parsed_data_dir)
+    lib.load_parsed_data(
+        args.parsed_data_dir, all_players, all_teams, players_to_franchises)
   else:
     for event, year, url in urls:
       lib.process_event(event, year, url, args.tsid_cookie, all_teams, all_players)

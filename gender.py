@@ -4,6 +4,7 @@
 
 import argparse
 import collections
+import os
 import sys
 from bs4 import BeautifulSoup
 from tabulate import tabulate
@@ -15,6 +16,9 @@ def _parse_args():
   parser.add_argument(
       '--tsid_cookie', type=str, default='',
       help='tsid cookie value to use to access canadianultimate.com.')
+  parser.add_argument(
+      '--parsed_data_dir', type=str, default='parsed_data',
+      help='Directory containing the data, already downloaded and parsed.')
 
   return parser.parse_args(sys.argv[1:])
 
@@ -31,6 +35,7 @@ class Player(object):
   def __repr__(self):
     return str(self)
 
+
 class Stats(object):
   def __init__(self):
     self.assists = 0
@@ -41,11 +46,7 @@ class Stats(object):
     return str(self)
 
 
-# Map from team to (map of player to stats).
-all_teams = dict()
-
-
-def process_team_game(team_table):
+def process_team_game(team_table, all_teams):
   team_name = team_table.find('b').text
   if team_name not in all_teams:
     all_teams[team_name] = dict()
@@ -68,9 +69,9 @@ def process_team_game(team_table):
     team[player_name].stats.goals += int(tds[3].text)
 
 
-def process_game(team1_table, team2_table):
-  process_team_game(team1_table)
-  process_team_game(team2_table)
+def process_game(team1_table, team2_table, all_teams):
+  process_team_game(team1_table, all_teams)
+  process_team_game(team2_table, all_teams)
 
 
 TeamStats = collections.namedtuple('TeamStats',
@@ -180,6 +181,9 @@ manual_data = {
 def main():
   args = _parse_args()
 
+  # Map from team to (map of player to stats).
+  all_teams = dict()
+
   event_url = 'https://frisbee.gravato.eu/cuc2019mix/'
   event_name = 'CUC2019'
   for i in range(1,127):#TODO: end when the teams are ? vs ?
@@ -190,12 +194,16 @@ def main():
 
     content_div = soup.find('div', attrs={'class': 'content'})
     tds = content_div.table.tr.find_all('td', recursive=False)
-    process_game(tds[0], tds[2])
+    process_game(tds[0], tds[2], all_teams)
 
   url_prefix = 'https://canadianultimate.com/en_ca/e/'
   all_teams_g = collections.defaultdict(list)
-  lib.process_event('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams',
-                    args.tsid_cookie, all_teams_g)
+  if args.parsed_data_dir and os.path.exists(args.parsed_data_dir):
+    print('Loading pre-parsed data from %s.' % args.parsed_data_dir)
+    lib.load_parsed_data(args.parsed_data_dir, None, all_teams_g, None)
+  else:
+    lib.process_event('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams',
+                      args.tsid_cookie, all_teams_g)
 
   for team_name, team in all_teams.items():
     g_team = get_matching_team(team_name, all_teams_g)

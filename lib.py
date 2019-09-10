@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import collections
+import csv
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -12,7 +13,10 @@ if not os.path.exists(CACHEDIR):
 if not os.path.isdir(CACHEDIR):
   exit('Cache dir error.')
 
+Player = collections.namedtuple('Player', ['player_name', 'url', 'gender'])
 Team = collections.namedtuple('Team', ['name', 'url', 'year'])
+Franchise = collections.namedtuple('Franchise', ['name', 'url'])
+
 
 class Error404(Exception):
   pass
@@ -51,7 +55,55 @@ def download_page(url, cachefilename, tsid_cookie=None, tsid_required=False):
   return contents
 
 
-Player = collections.namedtuple('Player', ['player_name', 'url', 'gender'])
+def load_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
+                     players_to_franchises):
+  if players_to_teams is not None:
+    # player url to []Team
+    with open(os.path.join(parsed_data_dir, 'players_to_teams.csv')) as f:
+      reader = csv.reader(f)
+      for row in reader:
+        if len(row) < 1:
+          continue
+        player_url = row[0]
+        teams = []
+        i = 1
+        while i < len(row):
+          teams.append(Team(row[i], row[i+1], row[i+2]))
+          i += 3
+
+        players_to_teams[player_url] = teams
+
+  if teams_to_players is not None:
+    # Team to []Player
+    with open(os.path.join(parsed_data_dir, 'teams_to_players.csv')) as f:
+      reader = csv.reader(f)
+      for row in reader:
+        if len(row) < 3:
+          continue
+        team = Team(row[0], row[1], row[2])
+        players = []
+        i = 3
+        while i < len(row):
+          players.append(Player(row[i], row[i+1], row[i+2]))
+          i += 3
+
+        teams_to_players[team] = players
+
+  if players_to_franchises is not None:
+    # player url to set(Franchise)
+    with open(os.path.join(parsed_data_dir, 'players_to_franchises.csv')) as f:
+      reader = csv.reader(f)
+      for row in reader:
+        if len(row) < 1:
+          continue
+        player_url = row[0]
+        franchises = []
+        i = 1
+        while i < len(row):
+          franchises.append(Franchise(row[i], row[i+1]))
+          i += 2
+
+        players_to_franchises[player_url] = franchises
 
 
 def process_team(team_div, year, tsid, all_teams, all_players=None):
