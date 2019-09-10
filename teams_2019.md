@@ -13,10 +13,10 @@ Spawn (3): andrea-patterson, nat-deveau, jd-lejeune
 
 BoD (2019) top 5 franchises:  
 Cherry Bomb (6): audrey-lavallee, genevieve-merat, david-therriault, mathieu-brisebois-boies, olivier-thibaudeau-1, samuel-arsenault    
-CUFM - Vénus (6): catherine-ferland, lauren-hunt, melanie-bosse, valerie-parent, louis-pierre-lauzon, mathieu-brisebois-boies    
 Vénus (6): catherine-ferland, lauren-hunt, melanie-bosse, valerie-parent, louis-pierre-lauzon, mathieu-brisebois-boies    
 FUEL (4): audrey-lavallee, david-therriault, olivier-thibaudeau-1, robert-battaglia    
-CUFM - Vintage (3): francoise-delisle, rosemary-carlton, simone-vogel  
+Mystik (3): francoise-delisle, genevieve-merat, naomi-jackson    
+Vintage (3): francoise-delisle, rosemary-carlton, simone-vogel  
 
 Firefly (2019) top 5 franchises:  
 Mint (6): amanda-mills-1, candice-lui, ellen-truong, jennifer-campbell-1, jingting-ma, stacey-teetaert    
@@ -26,14 +26,14 @@ Banana Cutters (3): amy-tran, ellen-truong, danny-nguyen
 Torque (3): jason-the-2, johnathan-niziol, jonathan-boman-1  
 
 Flux (2019) top 5 franchises:  
+Whiskeyjacks (8): aaron-dobson, bobby-staniforth, eric-mckenna, justin-wilkes, mark-macinnes, ray-c, thomas-kuhn, tyler-trapp    
 Prairie Fire (5): brae-anne-mcarthur, connie-lee, onalee-orchard-1, rhiannon-kuhn, chris-artibello    
 Lit (3): alana-schick, chris-artibello, david-burdziuk    
-CUFM - Vintage (3): alexa-lavergne, frederique-asselin, marjolaine-bourget    
 Vintage (3): alexa-lavergne, frederique-asselin, marjolaine-bourget    
-Terra (2): connie-lee, onalee-orchard-1  
+Flurry (2): amanda-ho-1, jennifer-beck-2  
 
 Gaia Sale (2019) top 5 franchises:  
-General Strike (8): brad-davidson, jordan-chochinov, kyle-parker, mark-eldridge, scott-jones-1, tyler-chochinov, weichi-truong, yacine-bara-1    
+General Strike (9): brad-davidson, jordan-chochinov, jordan-kovacs, kyle-parker, mark-eldridge, scott-jones-1, tyler-chochinov, weichi-truong, yacine-bara-1    
 Mint (6): debbie-froese, delaney-vun, lindsay-walker-1, martha-hinton, megan-chopyk, melanie-stevens    
 Torque (5): bhavesh-mistry, brad-davidson, lee-crierie, mark-semenek, weichi-truong    
 Flood (5): brad-davidson, lee-crierie, mark-semenek, weichi-truong, yacine-bara-1    
@@ -49,9 +49,9 @@ Blackfish (3): clayton-howlett, ryley-breiddal, scott-craig
 Kitchen Party (2019) top 5 franchises:  
 Salty (5): breagh-wallebeck, catherine-macphail, cyra-belbin, erika-turner, leanda-delaney    
 Borderline (5): dave-bowes, georg-hofmann, nick-bartlett, ryan-stewart-1, stuart-macdonald-1    
+Anchor (2): cyra-belbin, jeremy-smith-5    
 The Collective (2): erika-turner, leanda-delaney    
-Red Circus (2): georg-hofmann, paul-rogers-1    
-New Scotland Blues (1): breagh-wallebeck  
+Red Circus (2): georg-hofmann, paul-rogers-1  
 
 Mastadon (2019) top 5 franchises:  
 Zephyr (4): alexandra-chu, caren-rose, jennifer-lee-2, tracy-ellis    
@@ -78,8 +78,8 @@ Qold (2019) top 5 franchises:
 Quest (10): cindy-dupras, fanny-rouleau, marie-laurence-f-laberge, masse-julie, alexandre-dion, alexandre-st-onge, david-dupras, luc-harvey, mathieu-desmarais, simon-belanger-2    
 Qub (7): cindy-dupras, fanny-rouleau, helene-paradis, lydia-lebel, marianne-pilon, marianne-roberge, ultimate-quebec-1    
 Quantum (7): dave-lepage-1, david-petitpas, luc-harvey, patrick-langlois, pierre-benoit-allard, pierre-luc-delagrave, vincent-marquis-1    
-Quasar (4): helene-paradis, lydia-lebel, marie-pierre-huot, masse-julie    
-QrinQué (4): masse-julie, david-petitpas, mathieu-desmarais, ultimate-quebec-1  
+Quasar (5): helene-paradis, lydia-lebel, marie-pierre-huot, masse-julie, ultimate-quebec-1    
+Quake (5): alexandre-st-onge, david-petitpas, pierre-benoit-allard, simon-belanger-2, ultimate-quebec-1  
 
 ReUnion (2019) top 5 franchises:  
 Max Power (12): amanda-moore-1, jamie-galloway, melissa-dunseith, vikki-shimoda, alex-smith-7, andrew-milne, chris-bracht, david-shimoda, gary-paskewich-1, sandy-mclachlin, sean-henderson-1, tom-jennings    
@@ -91,32 +91,32 @@ Terra (5): emily-shepard, melissa-dunseith, michelle-chandler-1, pamela-yiu, vik
 TLDR (2019) top 5 franchises:  
 Eclipse (5): jennifer-muldoon, kirsten-querbach, megan-robb, sarah-mcdonald, stephanie-verbit    
 Iron Crow (4): jared-cohen-1, ken-maclean-1, mike-belanger, patrick-legare    
-Quick & Dirty (2): jennifer-muldoon, kirsten-querbach    
 The Grind (2): jennifer-muldoon, kirsten-querbach    
-Nebula (2): sarah-mcdonald, stephanie-verbit  
+Quick & Dirty (2): jennifer-muldoon, kirsten-querbach    
+Stella B (2): sarah-mcdonald, stephanie-verbit  
 
 ## Open Masters
 
 Carbon (2019) top 5 franchises:  
 CarJam (23): ben-burke-1, brett-seibel, chris-reid, colin-schellenberg, cory-millar-1, curtis-barranoik, derryk-boyd, garvin-cheung-1, giffin-symko, greg-adamson, jackson-ho, jason-unger, jordan-west, luis-de-la-torre, michael-stoddard, patrick-macquarrie, paul-graff, sean-bernard, steve-enns-1, steven-laffin-1, trevor-lestage, wesley-ng, william-au-1    
 Rogue Hippo (9): ben-burke-1, chris-reid, derryk-boyd, giffin-symko, greg-adamson, luis-de-la-torre, patrick-macquarrie, trevor-lestage, wesley-ng    
+Alberta Flatball Club (5): luis-de-la-torre, michael-stoddard, paul-graff, sean-bernard, steven-laffin-1    
 Still (1): curtis-barranoik    
-Red Circus (1): michael-stoddard    
-Throwback (1): patrick-macquarrie  
+Red Circus (1): michael-stoddard  
 
 Endgame (2019) top 5 franchises:  
+Spectrum (9): bryan-krawchyshyn, byron-chamberlain-1, jason-saygnavong, jeremy-hebert, joey-leonard, matthew-mulrooney, michael-quinn-2, rolie-ryan, will-clark    
 Phantoms (7): akihide-yoshikawa, david-jenniex, jeremy-hebert, martin-glazer, rob-levis, rolando-barbadillo, steve-winters    
-Spectrum (6): jeremy-hebert, joey-leonard, matthew-mulrooney, michael-quinn-2, rolie-ryan, will-clark    
-Carbon (5): byron-chamberlain-1, jeremy-hebert, martin-glazer, rolie-ryan, will-clark    
 CarJam (5): byron-chamberlain-1, jeremy-hebert, martin-glazer, rolie-ryan, will-clark    
+Carbon (5): byron-chamberlain-1, jeremy-hebert, martin-glazer, rolie-ryan, will-clark    
 Lit (1): barney-barnowski-2  
 
 Queen City Kings (2019) top 5 franchises:  
 Ledge (5): greg-smith-2, james-millar-1, james-topinka, jody-langan, jon-schmidt    
 Torque (2): dwayne-mcfaddin, jeff-yuen    
 Flood (2): dwayne-mcfaddin, jeff-yuen    
-Spitfire (1): dwayne-mcfaddin    
-Intrepid (1): dwayne-mcfaddin  
+Intrepid (1): dwayne-mcfaddin    
+Spitfire (1): dwayne-mcfaddin  
 
 Still (2019) top 5 franchises:  
 Phoenix (12): andy-corey, brent-gerhart, colin-green, dan-benvenuti, erik-hunter, jan-gorski, ken-alexander, luke-phelan, mathew-berg, matt-hogel, matthew-cole, scott-westwell    
@@ -135,9 +135,9 @@ Crash (1): jonathan-hines
 West Edmonton Maulers (2019) top 5 franchises:  
 Little Lebowski Urban Achievers (3): chris-raeside, eugene-wong, jason-wang-3    
 Pipe Dream (3): eugene-wong, jason-wang-3, scott-pillsbury    
+Grizzle (3): jeff-sill, michael-bowie, simon-feely-1    
 Tyrannosaurus Rad (2): michael-bowie, ryan-hayward    
-Blackfish (1): alan-macfarlane    
-Muriqui (1): alan-macfarlane  
+Blackfish (1): alan-macfarlane  
 
 ## Women's Masters
 
@@ -145,15 +145,15 @@ Muriqui (1): alan-macfarlane
 Prairie Fire (9): charis-fung, hayley-lueke-1, jackie-deller, jennifer-nicholls, jenny-breaks, jill-kowalchuk, johanna-elias, joyce-wong, nicole-desjardins    
 Rogue Hippo (8): emily-noton, jen-blaser, kirsten-taylor, krista-macdonald, stacey-yuen, tanya-beasley, victoria-girardo, wendy-sligl    
 Throwback (7): jen-blaser, jennifer-mcmillan, jennifer-nicholls, joyce-wong, stacey-yuen, victoria-girardo, wendy-sligl    
-Little Lebowski Urban Achievers (2): alexandra-wattamaniuk, jennifer-nicholls    
-Zephyr (2): alexandra-wattamaniuk, emily-noton  
+Wild (4): charis-fung, jenny-breaks, jill-kowalchuk, nicole-desjardins    
+Flurry (4): heather-lindstrom, kirsten-taylor, krista-macdonald, tanya-beasley  
 
 Annie Oakley (2019) top 5 franchises:  
 Prairie Fire (14): alison-van-de-laak, emeline-lamond, jana-schissel, jeni-gamracy, jennifer-jenkins, jennifer-tuffs, mary-ann-clark, melanie-aikenhead, natalya-mcfarlane, shirley-tso, terra-renton-2, terri-lee-oleniuk, tina-ho, vicky-barnowski    
-Spectrum (7): alexandra-turecek, emeline-lamond, jennifer-jenkins, mary-ann-clark, megan-gatzsch, terra-renton-2, vicky-barnowski    
+Spectrum (9): alexandra-turecek, alison-van-de-laak, emeline-lamond, jennifer-jenkins, mary-ann-clark, megan-gatzsch, melanie-aikenhead, terra-renton-2, vicky-barnowski    
 MASH (2): jennifer-jenkins, sherry-stewart-ryan    
-The Collective (1): andrea-bombala    
-Tyrannosaurus Rad (1): andrea-bombala  
+Wild (2): mary-ann-clark, tina-ho    
+Aurora (1): andrea-bombala  
 
 Artemis (2019) top 5 franchises:  
 Wendigo (3): karla-janina-lim, katrina-cheung, virginia-watson    
@@ -162,19 +162,19 @@ Homegirl (2): celia-brogan, katalin-toreky-paziuk-1
 Little Lebowski Urban Achievers (1): brianna-mersey-1    
 Homegrown (1): celia-brogan  
 
-CUFM - Vintage (2019) top 5 franchises:  
-Vintage (24): agnes-monseur-1, alexandra-paille, anne-robitaille, caroline-dore, catherine-gadbois, christine-chin, club-ultimate-villeray, eve-gervais-quenneville-1, gabrielle-beaudoin-1, genevieve-lamarche-moore, guylaine-girard, isabelle-bigras, isabelle-toutant, jessica-richard-1, joelle-pion-massicotte, joelle-tremblay, marie-christine-morisset, marie-eve-trudel, melanie-prescott-gagnon, natasha-dumont-carey, noemie-latendresse, sarah-bouchard-cyr-1, suzanne-wavroch, raynald-nemours    
+Vintage (2019) top 5 franchises:  
 Storm (14): alexandra-paille, catherine-gadbois, gabrielle-beaudoin-1, genevieve-lamarche-moore, guylaine-girard, isabelle-toutant, jessica-richard-1, joelle-pion-massicotte, joelle-tremblay, marie-christine-morisset, melanie-prescott-gagnon, natasha-dumont-carey, noemie-latendresse, sarah-bouchard-cyr-1    
 Mystik (11): alexandra-paille, eve-gervais-quenneville-1, genevieve-lamarche-moore, isabelle-bigras, jessica-richard-1, joelle-pion-massicotte, joelle-tremblay, marie-christine-morisset, natasha-dumont-carey, noemie-latendresse, sarah-bouchard-cyr-1    
-CUFM - Vénus (9): alexandra-paille, catherine-gadbois, club-ultimate-villeray, eve-gervais-quenneville-1, gabrielle-beaudoin-1, joelle-pion-massicotte, marie-christine-morisset, marie-eve-trudel, natasha-dumont-carey    
-Vénus (9): alexandra-paille, catherine-gadbois, club-ultimate-villeray, eve-gervais-quenneville-1, gabrielle-beaudoin-1, joelle-pion-massicotte, marie-christine-morisset, marie-eve-trudel, natasha-dumont-carey  
+Vénus (9): alexandra-paille, catherine-gadbois, club-ultimate-villeray, eve-gervais-quenneville-1, gabrielle-beaudoin-1, joelle-pion-massicotte, marie-christine-morisset, marie-eve-trudel, natasha-dumont-carey    
+Vega (6): caroline-dore, club-ultimate-villeray, isabelle-bigras, jessica-richard-1, marie-christine-morisset, sarah-bouchard-cyr-1    
+Borderline (3): genevieve-lamarche-moore, jessica-richard-1, noemie-latendresse  
 
 Lore (2019) top 5 franchises:  
 MMV (7): carolina-vargas, dong-ling-chen, jennifer-dale-1, kat-johnson, laura-stanley, morgan-leech, stephanie-schwartz    
-Zen (5): carolina-vargas, dong-ling-chen, jennifer-dale-1, kat-johnson, stephanie-schwartz    
 Thrift Shop (5): carolina-vargas, helen-osullivan, jennifer-dale-1, kat-johnson, mary-anne-kwan    
+Zen (5): carolina-vargas, dong-ling-chen, jennifer-dale-1, kat-johnson, stephanie-schwartz    
 Lily (3): carolina-vargas, gail-russel, heidi-christensen    
-Quick & Dirty (1): catherine-chao  
+Nox (2): gail-russel, nicole-james  
 
 lowercase (2019) top 5 franchises:  
 Stella (7): allison-verney-sward, brianna-jaffray, brianna-vandergriendt, jessie-robinson-2, kate-achtell, lauren-polowyk-1, marie-christine-jacques-1    
@@ -185,8 +185,8 @@ TFT (4): courtney-benvenuti-1, emma-thorpe-1, marie-christine-jacques-1, rebecca
 
 Nebula (2019) top 5 franchises:  
 Eclipse (5): andrea-proulx, cheryl-wadasinghe-1, clare-gee, marie-claude-lacombe, vanessa-lyon    
-Wicked East (2): cheryl-wadasinghe-1, clare-gee    
 Stella B (2): cheryl-wadasinghe-1, clare-gee    
+Wicked East (2): cheryl-wadasinghe-1, clare-gee    
 Max Power (1): andrea-proulx    
 Thrift Shop (1): clare-gee  
 
@@ -198,55 +198,55 @@ Shhippos (4): ellen-schelew-1, eva-cham-1, katie-berezan-1, louisa-thue
 Sneaky House Hippos (3): ashlee-davison, devra-waldman-1, eva-cham-1  
 
 Quasar (2019) top 5 franchises:  
-CUFM - Vénus (4): catherine-viau, cynthia-bazinet, joanie-kim-dolbec-bradette, linh-ma    
 Vénus (4): catherine-viau, cynthia-bazinet, joanie-kim-dolbec-bradette, linh-ma    
 Quest (2): annik-rochefort, melanie-brassard    
 Qarma 2017 (2): audrey-hamel, stephanie-rochon    
+Cherry Bomb (2): cynthia-bazinet, linh-ma    
 Mystik (2): cynthia-bazinet, linh-ma  
 
 Throwback (2019) top 5 franchises:  
-Flurry (10): amy-nichols-3, carla-laidlaw, danielle-enns, disa-brownfield, erika-heiberg, erin-eacott, kristen-flath, lindsey-monderman, merilie-reynolds-1, michelle-ng    
+Flurry (15): amy-nichols-3, angeline-quek, carla-laidlaw, danielle-enns, disa-brownfield, emma-kartes, erika-heiberg, erin-eacott, kaitlin-odonnell, kristen-flath, lindsey-monderman, merilie-reynolds-1, michelle-ng, tricia-jenkins, vanessa-burke    
 Rogue Hippo (4): amy-nichols-3, disa-brownfield, kaitlin-odonnell, kristen-flath    
 MASH (2): angeline-quek, shazma-mithani    
-Local 613 (1): emily-sangster    
-Raft (1): emily-sangster  
+Spectrum (1): angeline-quek    
+Stella A (1): emily-sangster  
 
 ## Mixed
 
 Amiral (2019) top 5 franchises:  
 Battleship (4): karl-pigeon, philippe-babeu, samuel-morin, sebastien-lavigne    
 EXO (1): sophie-lemay-lheureux    
-NSOM 2 (1): minh-dat-lam    
 FUEL (1): minh-dat-lam    
-NSOM (1): minh-dat-lam  
+NSOM (1): minh-dat-lam    
+NSOM 2 (1): minh-dat-lam  
 
 Anchor (2019) top 5 franchises:  
 Salty (5): adria-quigley, jennie-korus, katie-gordon-1, laurel-dykun, tanis-trainor    
 Red Circus (5): andrew-johnston, brent-wallace, chris-gordon-2, gavin-gray, tyler-smith-3    
 New Scotland Blues (3): aaron-liu, evan-mercer, greer-hunt    
-Wreckhouse (2): tracey-dyer, greer-hunt    
-Jerk Factory (2): andrew-johnston, chris-gordon-2  
+Flurry (2): gillian-shay, victoria-brewer    
+Wreckhouse (2): tracey-dyer, greer-hunt  
 
 Axiom (2019) top 5 franchises:  
 Skerj (3): heather-colterman, kristin-martin, rebecca-kawamura    
-Thrift Shop (1): heather-colterman    
+Force (1): aly-tkachenko    
 Lily (1): heather-colterman    
-Uproar Open (1): alexandre-dsouza    
-MMV (1): alexandre-dsouza  
+Thrift Shop (1): heather-colterman    
+Uproar Open (1): alexandre-dsouza  
 
 Battleship (2019) top 5 franchises:  
 Amiral (3): alexandra-joannisse, jessica-robillard, gabriel-roy-2    
 Sherbrooke Gentlemen's CLub (3): adam-gauvin, kevin-guillemette, raphael-nadeau    
-CUFM - Vénus (2): beatrice-ip-yam-2, genevieve-richard-1    
 Vénus (2): beatrice-ip-yam-2, genevieve-richard-1    
-Animals (2): genevieve-richard-1, kevin-guillemette  
+Animals (2): genevieve-richard-1, kevin-guillemette    
+Mockingbird (2): kevin-guillemette, vincent-houle  
 
 Crank (2019) top 5 franchises:  
 Stella A (3): ainsley-shannon, corinne-dunwoody, heather-wallace    
 Raft (3): heather-wallace, pascal-michaud-1, travis-davidson    
+Shrike (3): brian-perry-1, colin-scarffe, david-hew-wing    
 Stella B (2): ainsley-shannon, alyssa-mainwood    
-Eclipse (2): heather-wallace, renee-gauvin    
-Wicked West (2): jennifer-rivada, rachel-sherwood  
+Fable (2): corinne-dunwoody, tamir-stulberg-1  
 
 Crux (2019) top 5 franchises:  
 PPF (3): becky-abrametz, melissa-vandersluis, serena-jennings    
@@ -260,21 +260,21 @@ Wendigo (2): michelle-cho, vanessa-mensink
 Refinery (2): andrew-kilback, campbell-brooks    
 Mastadon (2): myles-lu, ryan-sherriff-2    
 Blackfish (2): ryan-grant, thomas-rowe    
-Zen (1): amanda-sheppard  
+Lily (1): amanda-sheppard  
 
 Force (2019) top 5 franchises:  
 Zen (4): jennifer-lam-2, salina-chan-1, mark-tran, wallace-jiang    
 Midnight Release (3): bryan-spekkers-1, scott-painter, tyler-sadler    
 Union (2): bryan-spekkers-1, daniel-huynh-1    
 ROY (2): daniel-huynh-1, wallace-jiang    
-TOX6ix (1): farra-kurniawan  
+Lotus (1): farra-kurniawan  
 
 Iceberg (2019) top 5 franchises:  
 Battleship (7): marie-pier-bisson-c, pascale-bisson, danny-desbiens-alary, fabrice-lucien, francois-xavier-hotte, frederick-parenteau, nicolas-vanasse    
 Sherbrooke Gentlemen's CLub (6): danny-desbiens-alary, francois-xavier-hotte, nicolas-champagne, nicolas-vanasse, philippe-st-louis, theo-laroche-1    
 Mockingbird (5): fabrice-lucien, felix-antoine-daigle, francois-xavier-hotte, frederick-parenteau, nicolas-vanasse    
-EXO (4): emilie-st-pierre, h-skrotzky-boisvert, marie-pier-bisson-c, fabrice-lucien    
-Iris (3): emilie-st-pierre, h-skrotzky-boisvert, janique-arsenault  
+Iris (4): emilie-st-pierre, h-skrotzky-boisvert, janique-arsenault, julie-daviau    
+EXO (4): emilie-st-pierre, h-skrotzky-boisvert, marie-pier-bisson-c, fabrice-lucien  
 
 Khaos (2019) top 5 franchises:  
 Crash (10): brittany-edgett, heather-neary, nina-ramic, adam-lazenby, andrew-savage, christopher-mckie, daniel-balzerson, neil-thomas, thomas-flynn-1, trevor-king    
@@ -284,18 +284,18 @@ Local 613 (3): brittany-edgett, nina-ramic, trevor-king
 Midnight Release (3): heather-neary, jenn-leroux, krista-kotwa  
 
 LAB (2019) top 5 franchises:  
-CUFM - Vintage (8): anne-sophie-lenglet, frederique-desbiens-blais, janick-st-cyr, julie-beaulac, julie-blais, julie-landry, julie-tremblay-mons, melissa-poulin-cadovius    
 Vintage (8): anne-sophie-lenglet, frederique-desbiens-blais, janick-st-cyr, julie-beaulac, julie-blais, julie-landry, julie-tremblay-mons, melissa-poulin-cadovius    
 Mockingbird (7): andre-arsenault, antoine-lepagnol, christophe-tremblay-joncas-1, jean-philippe-riopel, kevin-quinlan-1, miguel-goderre-1, steve-bonneau    
 Montreal Old Star (6): anne-sophie-lenglet, caroline-cadotte, julie-tremblay-mons, antoine-lepagnol, philippe-thivierge, simon-ayotte    
-Sriracha (5): frederique-desbiens-blais, janick-st-cyr, julie-beaulac, julie-landry, eric-preseault  
+Sriracha (5): frederique-desbiens-blais, janick-st-cyr, julie-beaulac, julie-landry, eric-preseault    
+Iris (4): caroline-cadotte, julie-landry, melissa-poulin-cadovius, jean-philippe-riopel  
 
 Lit (2019) top 5 franchises:  
 Nonsuch (2): kendra-borgford, nigel-batchelor    
+Wild (2): sarah-ankerman, sarah-kapiczowski    
 Prairie Fire (1): heather-shields    
 Red River Rebellion (1): kendra-borgford    
-Wild (1): sarah-kapiczowski    
-Silverbacks (1): alex-scott  
+Goose (1): alex-scott  
 
 Local 613 (2019) top 5 franchises:  
 Surge (2): hesham-kamal, peter-galbraith    
@@ -306,17 +306,17 @@ Uproar Open (1): curtis-campbell-1
 
 Pretty Boys and Handsome Girls (2019) top 5 franchises:  
 Critical Mass (5): josh-kerr, oren-binnun, samuel-beardsell, william-medwick, zack-hawley    
+Fusion (3): angelu-mae-galvez, jada-lim, kaycee-hunt    
 Masters of Flying Objects (MOFO) (3): kaycee-hunt, maddie-schwartz, josh-kerr    
-Red River Rebellion (2): amber-steinke, hillary-rempel-1    
-Manitou (2): jarrett-hamm, william-medwick    
-Surge (1): selina-liang  
+General Strike (3): samuel-beardsell, will-konrad, william-medwick    
+Red River Rebellion (2): amber-steinke, hillary-rempel-1  
 
 Quakers (2019) top 5 franchises:  
+Quake (11): alexandre-beaulieu, carl-saulnier-gagnon, felix-marceau, gabriel-vadnais, marc-andre-perreault-1, michael-gravel, pier-alexandre-reid, ultimate-quebec-1, vincent-lavoie, william-fafard-turcotte, william-landry    
 Qub (10): ariane-pepin-1, cleo-dube-1, isabelle-morneau-grenier, julia-topart, rosalie-champagne-cote, sabrina-jean-girard, sandrine-boucher, veronique-lorquet, felix-marceau, ultimate-quebec-1    
 QrinQué (10): genevieve-beaudoin, isabelle-morneau-grenier, sabrina-jean-girard, sandrine-boucher, valerie-turcotte-3, carl-saulnier-gagnon, gabriel-vadnais, jerome-camire-bernier, michael-gravel, ultimate-quebec-1    
-Quake (10): alexandre-beaulieu, carl-saulnier-gagnon, felix-marceau, gabriel-vadnais, marc-andre-perreault-1, michael-gravel, pier-alexandre-reid, vincent-lavoie, william-fafard-turcotte, william-landry    
 Quest (7): marie-helene-germain-1, alexandre-beaulieu, carl-saulnier-gagnon, david-poirier, marc-andre-perreault-1, michael-gravel, william-landry    
-Origine Open (2): cleo-dube-1, ultimate-quebec-1  
+Origine Women (2): cleo-dube-1, ultimate-quebec-1  
 
 Quest (2019) top 5 franchises:  
 QrinQué (11): amelie-gagnon, andreanne-proulx, marie-eve-lessard, stephanie-gauthier, alexis-frenette-lorrion, francois-nadeau, jean-simon-garneau, jeremy-durand-1, marc-andre-champagne, mathieu-mercier, patrick-girard-1    
@@ -337,13 +337,13 @@ Nagano '98 (5): birkley-davis-2, lucy-chow, andrew-leo, josh-meron-2, trevor-hen
 PPF (4): birkley-davis-2, jerry-hwang-1, kristen-dearden, lucy-chow    
 Phoenix (4): adam-oadonnell, kielan-way, kinley-gee, scott-graham-2    
 Grand Trunk (3): andrew-leo, owen-armstrong-5, samuel-paiva    
-Crash (2): kristen-dearden, adam-oadonnell  
+GOAT (3): jeff-lindquist, samuel-paiva, trevor-henry-1  
 
 Spawn (2019) top 5 franchises:  
 The Collective (4): becky-chasse, christina-coulombe, emily-hawkins, sam-munn    
 Jerk Factory (2): breton-mcphee, joel-beck    
-High Tide Open (2): jamie-fitzgerald, seth-porter    
 High Tide Women (2): jamie-fitzgerald, seth-porter    
+High Tide Open (2): jamie-fitzgerald, seth-porter    
 Red Circus (1): breton-mcphee  
 
 T.T (2019) top 5 franchises:  
@@ -351,18 +351,18 @@ Blackfish (7): brennan-seid, graeme-barber-1, jazz-groden-gilchrist, justin-ho, 
 Mio Grape (3): brennan-seid, justin-ho, nicholas-yun    
 Cannibals (2): grace-freiheit, taylor-nadon-1    
 Zephyr (2): kimberly-ho, wendy-lebreton    
-Refinery (2): jazz-groden-gilchrist, michael-yi  
+Mastadon (2): wendy-lebreton, carlos-ks-ieong  
 
 Thunder (2019) top 5 franchises:  
 Crash (4): laura-anne-tuck, adam-van-ymeren, greg-taylor-3, jake-redekopp    
 Goose (4): adam-van-ymeren, alex-bedley-1, ben-saleh-1, shaun-guerin    
+Uproar Open (2): aurelie-sinclair, sean-rowe    
 PPF BEEs (1): alyssa-short    
-Thrift Shop (1): laura-anne-tuck    
-Wendigo (1): marcie-chaudet  
+Thrift Shop (1): laura-anne-tuck  
 
 Trail Mix (2019) top 5 franchises:  
-Quick & Dirty (5): christine-leung, elena-ung, graeme-henderson, michael-roberts-2, ryan-dorosch    
 The Grind (5): christine-leung, elena-ung, graeme-henderson, michael-roberts-2, ryan-dorosch    
+Quick & Dirty (5): christine-leung, elena-ung, graeme-henderson, michael-roberts-2, ryan-dorosch    
 Backdraft (4): christine-leung, jocelyn-blazey, kerri-kightley, michael-roberts-2    
 NoBS (4): emily-dunford, laura-wiese, jeff-steele, jonathan-brunetti    
 Max Power (4): laura-wiese, chris-loat, gareth-cawley, jeff-steele  
@@ -391,14 +391,15 @@ ROY (2): daniel-ngai, stephen-pristupa
 ## Open
 
 Alberta Flatball Club (2019) top 5 franchises:  
+Whiskeyjacks (5): alex-ramadan, ethan-christensen, john-russell, tierney-fitzgerald, tyler-hochhalter    
 Rogue Hippo (4): andrew-dirgo, everett-greenways, michael-elliott, troy-redshaw    
 Bunny Thugs (2): justice-paul, sean-fortosky    
 Furious George (1): dave-hochhalter    
-Carbon (1): eric-bedard    
-CarJam (1): eric-bedard  
+GOAT (1): dave-hochhalter  
 
 Berta Flatball Club (2019) top 5 franchises:  
 Rogue Hippo (6): cameron-remus-1, garret-hollis, greg-wentworth, jayden-platt-1, jeff-hatton, nicholas-babiak    
+Alberta Flatball Club (4): eric-hochhalter, garret-hollis, jason-kully-1, travis-kundert    
 Whitefish (1): han-bai    
 Phantoms (1): jeff-hatton  
 
@@ -406,26 +407,26 @@ Blackfish (2019) top 5 franchises:
 Refinery (4): aaron-chan-1, clement-yip, jack-mills, tyus-chow    
 Eclipse Open (4): edward-guo, hunter-juhasz, karim-jamal, nicholas-cheng    
 Goomba Gang (4): jordan-zhao, nicholas-lin, ryan-hoy, victor-cheng    
-Banana Cutters (3): edward-guo, nicholas-lin, ryan-hoy    
-Rolling Thunder Open (2): karim-jamal, tyus-chow  
+Furious George (3): aaron-loach, edward-guo, sam-creed-1    
+Banana Cutters (3): edward-guo, nicholas-lin, ryan-hoy  
 
 BOAT (2019) top 5 franchises:  
 Energy (6): brian-tran, cameron-knox-1, dylan-fonseca, maharai-mitchell-1, matthew-lam-2, robert-sun    
-Uproar Open (4): brian-tran, dylan-fonseca, robert-sun, vishal-nikam    
+Uproar Open (5): brian-tran, dylan-fonseca, maharai-mitchell-1, robert-sun, vishal-nikam    
 ROY (4): dylan-fonseca, micheal-kukucska, raoul-tanyan, vishal-nikam    
 COAT (4): liam-macarthur, micah-tam-1, micheal-kukucska, mohammed-alhadid    
 Maverick (3): darren-wan, matthew-lam-2, vivek-philips  
 
 Club M - Magma (2019) top 5 franchises:  
-Club M - Manic (1): clubm-ultimate    
+Titane (Open) (8): antoine-faucher, charles-guay, charles-richards, etienne-lamarche, jacob-duquette, raphael-lalonde-landry, raphael-salvas, ywan-cohonner    
+Club M - Manic (2): clubm-ultimate, henri-labonte    
 Club M - MESA (1): clubm-ultimate    
 Cherry Bomb (1): dany-fortin    
-Zen (1): gabriel-gefter    
 Uproar Open (1): gabriel-gefter  
 
 Club M - Manic (2019) top 5 franchises:  
+Club M - Magma (12): bryan-mallette, ciprian-iorga, clubm-ultimate, daniel-vogt, david-comeau-cadieux, dylan-lacombe-burgoyne, edouard-levesque, farouk-oussaada, guillaume-castelain-1, jean-francois-morin, jean-philippe-hamel, mohamed-chrouh    
 Magma (3): daniel-vogt, edouard-levesque, philippe-poitras    
-Club M - Magma (2): clubm-ultimate, edouard-levesque    
 Cherry Bomb (2): jean-philippe-hamel, thomas-lalonde-landry    
 Refinery (1): brenden-kadota    
 T-Rex (1): charles-trepanier-bettez-1  
@@ -437,9 +438,9 @@ Thunder (1): curtis-reason
 Energy (1): ganish-narain  
 
 DNA (2019) top 5 franchises:  
+Vortex Open (12): abeer-lamba, brandon-grant, declan-bacha, gagan-chatha, harrison-van-beest, jason-ruperto, jordan-dhillon, justin-falconer-chow, karsten-harder, ken-malana, lucas-pangan-1, selwyn-credo    
 Refinery (6): anthony-kwan, jonathan-he, keaton-wong, nam-dang, nathan-kolakovic, russell-hamilton    
 Blackfish (6): brandon-grant, eric-teng, gagan-chatha, jordan-dhillon, levi-jeske, russell-hamilton    
-Vortex Open (5): brandon-grant, declan-bacha, gagan-chatha, jordan-dhillon, karsten-harder    
 Vortex Women (5): brandon-grant, declan-bacha, gagan-chatha, jordan-dhillon, karsten-harder    
 Whitefish (4): aidan-lau, jonathan-he, keaton-wong, sam-but  
 
@@ -466,17 +467,17 @@ NADS (2): adrian-yearwood, toly-vasilyev-2
 
 Grand Trunk (2019) top 5 franchises:  
 ROY (11): daniel-wong-1, galvin-cho, jake-turcotte, justin-lem, kelvin-huang, larry-zhou, matt-kishi, owen-robinson-2, pavel-shering, riley-lublow, torja-istiaque    
-Uproar Open (4): campbell-armstrong-1, kelvin-huang, torja-istiaque, vincent-bulloch    
-BOAT (3): adam-turcotte, jake-turcotte, lawrence-mak-1    
+Uproar Open (5): campbell-armstrong-1, john-huang, kelvin-huang, torja-istiaque, vincent-bulloch    
+BOAT (4): adam-turcotte, jake-turcotte, john-huang, lawrence-mak-1    
 Energy (2): john-huang, lawrence-mak-1    
-Refinery (1): christopher-chan  
+TORO Open (1): campbell-armstrong-1  
 
 Houndd (2019) top 5 franchises:  
 Backdraft (13): bill-westlake, daniel-pepler-3, drew-wilson-1, jake-pilkey, jamie-millage, justin-greaves, kenneth-magill, kevin-jay, kyle-hunter, lp-blouin, ryan-poloz, stephen-pepler-1, travis-puckrin    
 Legendairy (8): bill-westlake, daniel-pepler-3, jake-pilkey, jared-canfield, kenneth-magill, ryan-poloz, stephen-pepler-1, travis-puckrin    
 Stud (6): jamie-millage, jared-canfield, ketan-vasudeva, lp-blouin, nick-ormel, tyrus-jay    
 Grand Trunk (3): daniel-pepler-3, jamie-millage, nathan-hsieh    
-BOAT (2): justin-cheung, taylor-los  
+BOAT (3): justin-cheung, stephen-pepler-1, taylor-los  
 
 Maverick (2019) top 5 franchises:  
 Goose (9): adison-oliver, derek-mcconomy, franklin-liu, john-agda, jonathan-moyer, ken-dunbar, marcus-kretz, tav-gayle, theo-wan    
@@ -486,11 +487,11 @@ COAT (2): edmund-un, matthew-wong-3
 Viper (2): ken-dunbar, tav-gayle  
 
 Phoenix (2019) top 5 franchises:  
+Shrike (6): david-colic, erich-phang-lyn, jonah-munoz, khalid-al-zahrani, matt-obrien-1, ryan-wallace    
 Ignite (4): benjamin-cheer, jonah-munoz, luca-lafontaine, ryan-wallace    
 Maverick (4): carson-turner, christopher-taylor, jon-hallett, walker-gee-2    
 Raft (3): luca-lafontaine, ryan-wallace, walker-gee-2    
-Grand Trunk (2): braedan-robinson, greg-ellis-3    
-Nor'Easter (1): alec-arsenault  
+Grand Trunk (2): braedan-robinson, greg-ellis-3  
 
 Quake (2019) top 5 franchises:  
 Quest (7): antoine-rousseau, dominic-bartolacci, dominic-savard, dorian-laverdiere, eric-dion-1, francis-breton-1, marc-andre-berthiaume-2    
@@ -517,15 +518,15 @@ RUT (2019) top 5 franchises:
 Ledge (3): chris-brennan, matt-gazda, reid-nystuen    
 Max Power (1): cole-digel    
 Bunny Thugs (1): cole-digel    
-Red River Rebellion (1): shayne-pfeifer    
-Critical Mass (1): shayne-pfeifer  
+Queen City Kings (1): jon-imhoff    
+Red River Rebellion (1): shayne-pfeifer  
 
 Shrike (2019) top 5 franchises:  
 Ignite (9): alex-cameron-1, ben-scott-3, chris-lay, colin-porter, desmond-staples, francois-veilleux, jake-lochhead, matthew-norman, simon-walker    
 Scorch (3): colin-porter, desmond-staples, matthew-norman    
-Force (1): kayle-campbell    
-Raft (1): luke-krolak    
-Still (1): mathew-berg  
+Force (2): connor-bailey-1, kayle-campbell    
+BOAT (1): kayle-campbell    
+Raft (1): luke-krolak  
 
 Too Bad (2019) top 5 franchises:  
 Zen (5): arthur-yan, christopher-wang, david-ip, jay-ramos, marcel-frenette-corniellis    
@@ -535,11 +536,11 @@ MMV (1): donald-kwok
 Goose (1): elan-swartz-1  
 
 Whiskeyjacks (2019) top 5 franchises:  
-Spectrum (4): alex-dunnett, bryan-slauko, eko-wangsawidjaya, tyler-williams-1    
+Spectrum (5): alex-dunnett, bryan-slauko, craig-macphee, eko-wangsawidjaya, tyler-williams-1    
 Lit (4): arthur-lau, joe-lin, keith-letendre, tyler-sobry    
 Phantoms (4): bryan-slauko, keith-letendre, mike-szwarz-1, tyler-williams-1    
-Carbon (1): bryan-slauko    
-CarJam (1): bryan-slauko  
+CarJam (1): bryan-slauko    
+Carbon (1): bryan-slauko  
 
 ## Women's
 
@@ -550,17 +551,17 @@ Lotus (6): alena-papayanis, christine-jurychuk, jeannette-quach, jenna-mcleod, j
 Nagano '98 (6): jeannette-quach, jordan-meron, lauren-kimura, miriam-tingle, sarah-bobak-1, sarah-innes    
 Lily (4): jeannette-quach, jenna-mcleod, miriam-tingle, nicolette-bertsch  
 
-CUFM - Vénus (2019) top 5 franchises:  
-Vénus (26): alessia-vinet, camille-couture, catherine-demers, catherine-goulet, celine-huang, cloe-riel, club-ultimate-villeray, emmanuelle-veci, eve-masse, ines-petard-1, isabelle-lupena, julia-bisson, laura-arbique, lianne-campbell, maeve-reimer, maude-laniel-ducharme-1, maude-roy, melissa-gougeon, sanni-be, sarah-dabouz, sasha-lemaire-st-gelais, valerie-plante, veronica-ortega, victoria-trahan, louis-pierre-lauzon, mathieu-brisebois-boies    
+Vénus (2019) top 5 franchises:  
 Volt (10): camille-couture, celine-huang, club-ultimate-villeray, emmanuelle-veci, eve-masse, ines-petard-1, laura-arbique, maeve-reimer, sarah-dabouz, victoria-trahan    
 Mystik (5): camille-couture, cloe-riel, maude-laniel-ducharme-1, sarah-dabouz, sasha-lemaire-st-gelais    
 Storm (3): catherine-goulet, laura-arbique, valerie-plante    
+Titane (Women) (2): alessia-vinet, maude-roy    
 Cherry Bomb (2): catherine-demers, mathieu-brisebois-boies  
 
 Flurry (2019) top 5 franchises:  
 Rogue Hippo (9): anita-hansen, danielle-dugan, elisha-brooks, erin-bethune-1, evie-varelas, robyn-bosnyak, sarah-au, taleana-huff, theresa-mesdag    
-Flux (1): theresa-mesdag    
 Spawn (1): theresa-mesdag    
+Flux (1): theresa-mesdag    
 Prairie Blaze (1): yeanna-he  
 
 Foxx (2019) top 5 franchises:  
@@ -571,25 +572,25 @@ Lily (2): christine-zhang, kelly-anne-fagan
 Stud (1): ashleigh-millage  
 
 Fusion (2019) top 5 franchises:  
+MOFO (Masters Of Flying Objects) Women's Team (4): breanna-warren, carmen-lee, kiersten-hilland-2, laura-hatch    
 Nonsuch (2): amy-lam, maya-diaz-hammond    
 Red River Rebellion (2): breanna-warren, kiersten-hilland-2    
-MOFO (Masters Of Flying Objects) Women's Team (2): carmen-lee, laura-hatch    
 Masters of Flying Objects (MOFO) (2): karen-hatch, mckenzie-hayward    
 Mint (1): britney-griffiths  
 
 Iris (2019) top 5 franchises:  
 Storm (5): alexandra-abboud-1, alison-fischer-1, catherine-poirier, gabrielle-ouellet, marie-andree-pambrun-1    
 Mystik (3): catherine-poirier, chloe-emond, isabelle-lemay    
-CUFM - Vénus (3): chloe-emond, laure-drouin-jacques, nyna-prevost    
 Vénus (3): chloe-emond, laure-drouin-jacques, nyna-prevost    
-Stella (2): alisha-zhao, melissa-dunbar-1  
+Stella (2): alisha-zhao, melissa-dunbar-1    
+Capitals (2): alisha-zhao, melissa-dunbar-1  
 
 Koi (2019) top 5 franchises:  
 Wendigo (5): janny-chan-1, jessica-lai, kimberly-ng, melissa-woodward, reanne-bowlby    
 Uproar Open (3): emma-young, jessica-giltrap, tammy-do    
 Zephyr (3): junisa-nguyen, petra-stephen-1, reanne-bowlby    
 Rolling Thunder Women (2): chloe-lang, tammy-do    
-Crash (1): emily-camuso  
+Vintage Women (1): chloe-lang  
 
 Korra (2019) top 5 franchises:  
 Ledge (6): bobbi-anderson, caitlin-brock, gee-lee, kaylan-berg, robbi-humble, steffany-salloum    
@@ -606,8 +607,8 @@ Stella (3): cassie-berquist, sam-lee-6, stephanie-cole-1
 Eclipse (2): cassie-berquist, vanessa-mann  
 
 Nox (2019) top 5 franchises:  
-Zen (2): agatha-hodsman, chelsea-jackson    
 Thrift Shop (2): agatha-hodsman, deanne-tanzer    
+Zen (2): agatha-hodsman, chelsea-jackson    
 Max Power (2): agatha-hodsman, anthony-slater-1    
 Lily (2): kaity-williams, stephanie-kimmerle    
 Lotus (2): kaity-williams, stephanie-kimmerle  
@@ -616,8 +617,8 @@ PPF (2019) top 5 franchises:
 PPF BEEs (4): albany-turner, fiona-nielen, izabela-batko, sydney-dunbar    
 Lotus (2): agnes-chu, emma-currie    
 Lily (2): emma-currie, samantha-hale    
-Wicked West (1): fiona-nielen    
-Stella B (1): fiona-nielen  
+Crux (2): hannah-sholtz, kristen-tam    
+Wicked West (1): fiona-nielen  
 
 Sneaky House Hippos (2019) top 5 franchises:  
 Zephyr (8): amy-luo, janelle-siwa, jessie-bell, julia-zhou, karie-holst-1, katherine-lee, kelly-wunderlich, serena-tam    
@@ -631,14 +632,14 @@ Stella A (9): cassandra-jaffray-1, danielle-cantal, dominique-rioux, isabelle-be
 Wicked West (4): anika-gnaedinger, emily-scott-2, jessica-stockbrugger, wynne-gee    
 Raft (3): anika-gnaedinger, brittney-cooke, hannah-lewis    
 Capitals (3): kaylee-sparks, samantha-green-1, vivianne-fortin    
-Nor'Easter (2): mike-lee-1, tim-ambery  
+Luna Ultimate (2): amelia-keenan-2, rachel-ng  
 
 TOX6ix (2019) top 5 franchises:  
 Zen (3): bethany-wong, lucy-chu, maggie-li    
+TORO Junior Women (3): jade-huangfu, jazmin-ulalan, tyama-lyall    
 Backdraft (3): sabrina-chapman-1, andrew-gosbee, carter-chin    
-Capitals (2): jessie-wu, joey-cheung    
 Lotus (2): jessie-wu, joey-cheung    
-Stud (2): sabrina-chapman-1, carter-chin  
+Capitals (2): jessie-wu, joey-cheung  
 
 Traffic (2019) top 5 franchises:  
 Zephyr (5): brianne-wager, jessica-rockliff, jessie-tai, katie-hikida, sophia-chan    
@@ -650,6 +651,6 @@ Rolling Thunder Women (2): brianne-wager, jessie-tai
 Wild (2019) top 5 franchises:  
 Prairie Fire (3): elise-tissandier, eva-tam, tze-yuin-tay    
 Lit (2): meghanne-uptigrove, natasha-pye    
+Fable (2): meghanne-uptigrove, melissa-bernstein-1    
 Spectrum (2): monica-walsh, tze-yuin-tay    
-Cannons: Junior Women (1): elise-tissandier    
-CUFM - Vénus (1): heather-ambery  
+Cannons: Junior Women (1): elise-tissandier  

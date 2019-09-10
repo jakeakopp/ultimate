@@ -198,10 +198,16 @@ def main():
     for event, year, url in urls:
       lib.process_event(event, year, url, args.tsid_cookie, all_teams, all_players)
 
-    for team in all_teams:
-      load_players_for_franchise(
-          create_franchise(team.name, team.url), players_to_franchises,
-          args.tsid_cookie)
+    for team, players in all_teams.items():
+      franchise = create_franchise(team.name, team.url)
+      # For some reason certain players appear on the roster for the event, but
+      # not on the "all time" roster. None of these seem to appear on the stats
+      # site, so they're probably not relevant, but we include them here for
+      # completeness.
+      for player in players:
+        players_to_franchises[player.url].add(franchise)
+      # Load the rest of the players from the "all time" roster.
+      load_players_for_franchise(franchise, players_to_franchises, args.tsid_cookie)
 
     write_parsed_data(args.parsed_data_dir, all_players, all_teams,
                       players_to_franchises)

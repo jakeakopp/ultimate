@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-CACHEDIR = '/tmp/cuccache'
+CACHEDIR = '.cache'
 if not os.path.exists(CACHEDIR):
   os.mkdir(CACHEDIR)
 if not os.path.isdir(CACHEDIR):
@@ -108,6 +108,8 @@ def load_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
 
 def process_team(team_div, year, tsid, all_teams, all_players=None):
   team_name = team_div.find_all('h3')[0].get_text()
+  if team_name.startswith('CUFM - '):
+    team_name = team_name[len('CUFM - '):]
 
   player_link_class = (
       'media-item-tile media-item-tile-normal media-item-tile-cover')
