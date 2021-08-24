@@ -40,7 +40,7 @@ def download_page(url, cachefilename, tsid_cookie=None, tsid_required=False):
   if (tsid_cookie is not None) and (tsid_cookie != ''):
     cookies['tsid'] = tsid_cookie
 
-  response = requests.get(url, cookies=cookies)
+  response = requests.get(url, cookies=cookies, verify=False)
   if response.status_code == 404:
     with open(cachefile, 'w') as f:
       f.write('404')

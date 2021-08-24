@@ -9,7 +9,6 @@ import csv
 import operator
 import os
 import re
-import requests
 import sys
 from bs4 import BeautifulSoup
 
@@ -170,6 +169,8 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
 #TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
 urls = [
+('UC_Invite_2021', 2021, url_prefix + 'uc-invitational-senior/teams'),
+('UC_Invite_2021_Masters', 2021, url_prefix + 'uc-invitational-masters/teams'),
 ('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams'),
 ('CUC2018', 2018, url_prefix + 'cuc-2018-series/teams'),
 ('CUC2017', 2017, url_prefix + 'cuc-series/teams'),
