@@ -47,11 +47,11 @@ pascale-bisson,Battleship,battleship,Iceberg,iceberg,Mystik,mystik,Storm,storm,T
 erika-bergeron,Battleship,battleship,T-Rex,t-rex
 francois-xavier-hotte,Battleship,battleship,Iceberg,iceberg,Mockingbird,mockingbird,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 gabriel-parent,Battleship,battleship,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club
-danny-desbiens-alary,Battleship,battleship,Iceberg,iceberg,NSOM,nsom,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
+danny-desbiens-alary,Battleship,battleship,Iceberg,iceberg,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 remi-babeu,Battleship,battleship,Magma,magma
 frederick-parenteau,Battleship,battleship,Iceberg,iceberg,Mockingbird,mockingbird,No In Cut,no-in-cut
 christopher-maxfield,Battleship,battleship
-philippe-poitras,Battleship,battleship,BoD,bod,Club M - Manic,club-m-manic,Iceberg,iceberg,Magma,magma,Mephisto,mephisto,Mockingbird,mockingbird,NSOM,nsom
+philippe-poitras,Battleship,battleship,BoD,bod,Club M - Manic,club-m-manic,Iceberg,iceberg,Magma,magma,Mephisto,mephisto,Mockingbird,mockingbird
 arnaud-chiasson-poirier,Battleship,battleship,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 nicolas-vanasse,Animals,animals,Battleship,battleship,Iceberg,iceberg,Mockingbird,mockingbird,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 fabrice-lucien,Battleship,battleship,EXO,exo,Iceberg,iceberg,Mockingbird,mockingbird
@@ -144,6 +144,7 @@ carlie-sorgini,Crash,crash,Thunder,thunder
 daiana-spataru-1,Crash,crash,Khaos,khaos,Thunder,thunder
 heather-neary,Crash,crash,Khaos,khaos,Midnight Release,midnight-release,Notorious KWG,notorious-kwg,Union,union
 julia-peden,Crash,crash,Khaos,khaos,Lotus,lotus,PPF,ppf,TORO Open,toro
+kathryn-marcelino,Crash,crash,PPF,ppf,TOX6ix,tox6ix
 kristen-dearden,Crash,crash,PPF,ppf,SOUP,soup
 kristen-tam,Crash,crash,Crux,crux,PPF,ppf
 lauren-green,Crash,crash,Khaos,khaos,PPF,ppf
@@ -171,11 +172,11 @@ dayna-walls,Crash,crash,PPF,ppf
 emily-ritz-1,Crash,crash,Notorious KWG,notorious-kwg
 michelle-wilfong,Crash,crash,Lotus,lotus
 christa-connolly,Crash,crash
-serena-jennings,Crash,crash,Crux,crux,PPF,ppf,Wild,wild
+serena-jennings,Crash,crash,Crux,crux,PPF,ppf,Wildish,wild
 emily-havercroft,Crash,crash
 lindsey-pardys,Crash,crash,Notorious KWG,notorious-kwg,Queen Ps,queen-ps,Thrift Shop,thrift-shop
 amanda-raimbault,Crash,crash,Notorious KWG,notorious-kwg
-laura-anne-tuck,Crash,crash,Thrift Shop,thrift-shop,Thunder,thunder
+laura-anne-tuck,Crash,crash,Notorious KWG,notorious-kwg,Thrift Shop,thrift-shop,Thunder,thunder
 megan-bailey,Crash,crash
 suzanne-gallant,Braun Squad,braun-squad,Crash,crash,Quick & Dirty,quick-dirty,The Grind,quick-dirty
 audrey-fu,Crash,crash,MMV,mmv,Thunder,thunder
@@ -196,7 +197,7 @@ matthew-havercroft,Crash,crash,Maverick,maverick,Notorious KWG,notorious-kwg
 matthew-kariatsumari,BOAT,boat,Crash,crash,Maverick,maverick
 john-eric-pardys,Crash,crash,Notorious KWG,notorious-kwg
 jordan-atchison,Crash,crash,Goose,goose,Maverick,maverick,Union,union
-adam-oadonnell,Crash,crash,Maverick,maverick,Phoenix,phoenix,SOUP,soup
+adam-oadonnell,Crash,crash,GOAT,goat,Maverick,maverick,Phoenix,phoenix,SOUP,soup
 nathan-hunter,Crash,crash
 everett-walls,Crash,crash,Goose,goose,Lit,lit
 cameron-bruggeman,Crash,crash
@@ -210,7 +211,7 @@ andrew-gallant-1,Braun Squad,braun-squad,Crash,crash,Quick & Dirty,quick-dirty,T
 greg-taylor-3,Crash,crash,Thunder,thunder
 zachary-huber,BOAT,boat,Crash,crash,Maverick,maverick
 wayne-root,Crash,crash,Notorious KWG,notorious-kwg
-patrick-tuck,Crash,crash,Notorious KWG,notorious-kwg,ROY,roy,Roy,roy,Silverbacks,the-silverbacks,Thunder,thunder
+patrick-tuck,Crash,crash,Notorious KWG,notorious-kwg,ROY,roy,Silverbacks,the-silverbacks,Thunder,thunder
 tom-kelly-1,Crash,crash,Too Bad,too-bad
 owen-watt,Crash,crash,Phoenix,phoenix
 cameron-nugent,Crash,crash,Maverick,maverick
@@ -219,7 +220,7 @@ jake-redekopp,Crash,crash,Thunder,thunder
 peter-mullen,Crash,crash,Thunder,thunder
 brad-froese,Crash,crash
 trevor-king,Crash,crash,Khaos,khaos,Local 613,local-613,Notorious KWG,notorious-kwg
-adam-van-ymeren,Crash,crash,Critical Mass,critical-mass,Goose,goose,Thunder,thunder
+adam-van-ymeren,Crash,crash,Critical Mass,critical-mass,Goose,goose,Notorious KWG,notorious-kwg,Thunder,thunder
 jonathan-hines,Crash,crash,Viper,viper
 thomas-flynn-1,Crash,crash,Goose,goose,Khaos,khaos,Notorious KWG,notorious-kwg,Thunder,thunder
 hamish-gibson,Blackfish,blackfish,Crash,crash
@@ -258,6 +259,7 @@ ryan-tanner-1,Crux,crux
 yannick-castonguay-page,Crux,crux,Jerk Factory,jerk-factory
 doris-chang,Fable,fable,Wise Ninjas,wise-ninjas
 grace-huang-3,Fable,fable
+hazel-pangilinan,Eclipse Women,eclipse-women,Fable,fable,Mischief Women,mischief-women
 jessica-davies-1,Fable,fable
 meghan-kemp-gee-1,Fable,fable
 natalie-cheah,Fable,fable,Koi,koi
@@ -267,28 +269,32 @@ stefanie-del-gobbo,Fable,fable,Local 613,local-613
 trisha-roberson-1,Fable,fable,Forever Young,forever-young,Zephyr,zephyr
 yumi-wong,Fable,fable
 alexander-truong-1,Fable,fable
-allan-zacca,Fable,fable
+allan-zacca,Fable,fable,Forever Young,forever-young
 andrew-kilback,Fable,fable,Refinery,refinery,Vortex Open,vortex,Vortex Women,vortex
+benoit-dupras,Fable,fable
 christopher-eng,Fable,fable
 daniel-sax,Fable,fable
 gyorgy-aponte,Fable,fable
 kevin-lu-2,Fable,fable,Refinery,refinery
 michael-godfrey-1,Fable,fable,NoBS,nobs,Zen,zen
+michael-luongo,Fable,fable,Refinery,refinery,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 myron-loke,Fable,fable
-shawn-huynh,Endgame,endgame,Fable,fable,ROY,roy,ReUnion,reunion,Roy,roy,Tombstone,tombstone,Zen,zen
+shawn-huynh,Endgame,endgame,Fable,fable,ROY,roy,ReUnion,reunion,Tombstone,tombstone,Zen,zen
 bailee-davis,Force,force
 caitlind-lusty,Force,force,Max Power,vax-power
 carly-munce,Force,force
 farra-kurniawan,Force,force,Lotus,lotus,ReUnion,reunion,TOX6ix,tox6ix
-janice-lui,Bingo & Chill,bingo-chill,Force,force,Max Power,vax-power,Trail Mix,trail-mix
+janice-lui,Bingo & Chill,bingo-chill,Force,force,Max Power,vax-power,Still,still,Trail Mix,trail-mix
 jennifer-lam-2,Force,force,Zen,zen
 jess-jia,Force,force,TOX6ix,tox6ix,Trail Mix,trail-mix
 rebecca-mesburis,Force,force,TORO Junior Women,toro-open,Union,union
 andrew-clark-3,Force,force
 bryan-spekkers-2,Force,force
-daniel-huynh-1,Force,force,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Union,union
+daniel-huynh-1,Force,force,Grand Trunk,grand-trunk,ROY,roy,Union,union
 jake-letheren,Force,force,TORO Open,toro
 jesse-robertson-1,Force,force,Max Power,vax-power,NADS,nads,Shepherds,shepherds
+matt-hofing,Force,force,Maverick,maverick
+peter-aloussis,Force,force
 scott-painter,Force,force,Midnight Release,midnight-release
 teagan-boyle,Force,force
 thomas-black,Force,force,Goose,goose,Grand Trunk,grand-trunk,Khaos,khaos,Maverick,maverick,Union,union
@@ -349,6 +355,7 @@ decebal-michaud-1,Ignite,ignite,Local 613,local-613,Raft,raft
 hesham-kamal,Local 613,local-613,Surge,surge
 jean-luc-st-laurent,Critical Mass,critical-mass,Local 613,local-613
 jonathon-de-leyer,Local 613,local-613
+mitchell-wheatley,Local 613,local-613
 peter-galbraith,Local 613,local-613,Surge,surge
 rian-mcgrouther,Local 613,local-613,Midnight Release,midnight-release,TORO Junior Women,toro-open
 andrew-carroll,GOAT,goat,Local 613,local-613,Surge,surge,Union,union
@@ -371,7 +378,7 @@ sarah-cain,Local 613,local-613
 catherine-normandeau,Local 613,local-613
 carly-hills,Local 613,local-613,Surge,surge
 allison-collard,Local 613,local-613
-paula-wong,Korra,korra,Local 613,local-613,Prairie Fire,dyna,Surge,surge,Traffic,traffic,Wild,wild
+paula-wong,Korra,korra,Local 613,local-613,Prairie Fire,dyna,Surge,surge,Traffic,traffic,Wildish,wild
 matt-rothwell,Local 613,local-613,Too Bad,too-bad
 thomas-lu,Local 613,local-613
 viet-tran-2,Local 613,local-613
@@ -386,13 +393,13 @@ miles-wilson-1,Local 613,local-613,Max Power,vax-power,Surge,surge
 matt-slonetsky,Local 613,local-613,Surge,surge
 curtis-campbell-1,Houndd,houndd,Local 613,local-613,TORO Junior Women,toro-open,Uproar Open,uproar
 fraser-titley,Local 613,local-613
-steven-jefferys,Blackfish,blackfish,Local 613,local-613,Too Bad,too-bad
+steven-jefferys,Blackfish,blackfish,Local 613,local-613
 daniel-van-willigen,Local 613,local-613
-jared-westreich,Local 613,local-613,ROY,roy,Roy,roy
+jared-westreich,Local 613,local-613,ROY,roy
 kyle-thompson,Backdraft,backdraft,Local 613,local-613
 mike-cabral,Local 613,local-613
 mihajlo-antonijevic,Grand Trunk,grand-trunk,Local 613,local-613,Surge,surge
-benjamin-blackford,Blackfish,blackfish,Local 613,local-613,ROY,roy,Roy,roy,Too Bad,too-bad
+benjamin-blackford,Blackfish,blackfish,Local 613,local-613,ROY,roy,Too Bad,too-bad
 andrew-hickman,Local 613,local-613
 braedan-robinson,Grand Trunk,grand-trunk,Local 613,local-613,Phoenix,phoenix,Too Bad,too-bad
 leo-burns-scully,Local 613,local-613
@@ -403,19 +410,19 @@ gordon-wilson,Local 613,local-613
 patricia-wilson-1,Local 613,local-613
 amber-steinke,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,Red River Rebellion,red-river-rebellion
 angelu-mae-galvez,Fusion,fusion,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
-breanne-yozenko,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 hillary-rempel-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,Red River Rebellion,red-river-rebellion
 kaycee-hunt,Fusion,fusion,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+lindsay-marshall,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,Red River Rebellion,red-river-rebellion
 maddie-schwartz,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
-braxton-mcintosh-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+olivia-zhou,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+brayden-nemetchek-2,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+elliot-wong,Club M - MESA,club-m-mesa,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 ethan-chochinov,Grand Trunk,grand-trunk,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 josh-kerr,Critical Mass,critical-mass,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
-kyle-thomson,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 liam-sawatzky,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 matthew-page-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 will-konrad,General Strike,general-strike,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 william-medwick,Critical Mass,critical-mass,General Strike,general-strike,Manitou,manitou,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
-zack-hawley,Critical Mass,critical-mass,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 samuel-de-caria,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 jamaal-winston,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 maggie-wen,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
@@ -428,6 +435,7 @@ hailey-yozenko,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girl
 jane-hirose-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 jada-lim,Fusion,fusion,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 carissa-ness-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+breanne-yozenko,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 alex-newton,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 katiana-mastin-1,Fusion,fusion,Nonsuch,nonsuch,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 stephenie-ganz,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
@@ -441,6 +449,7 @@ nathan-wilson-2,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,
 quin-rusnak,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 el-fatih-jamal-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 ethan-kovacs,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+braxton-mcintosh-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 mark-carlson,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 oren-binnun,Critical Mass,critical-mass,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,Zen,zen
 lucky-paras,BOAT,boat,Energy,energy,Manitou,manitou,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
@@ -449,12 +458,13 @@ nigel-batchelor,Firefly,firefly,Lit,lit,Nonsuch,nonsuch,PBHG,pretty-boys-and-han
 tony-khamphavong-1,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 kirk-wright,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 samuel-beardsell,Critical Mass,critical-mass,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+zack-hawley,Critical Mass,critical-mass,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 matthew-artemiuk-2,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
+kyle-thomson,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 jarrett-hamm,Manitou,manitou,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 nick-peters,Critical Mass,critical-mass,Manitou,manitou,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 bailey-jablonski-armstrong,Fusion,fusion,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,Red River Rebellion,red-river-rebellion
 katya-mackling,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
-elliot-wong,Club M - MESA,club-m-mesa,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 jacob-meiklejohn-1,Critical Mass,critical-mass,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 stefan-berube,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
 jared-lehotsky,Critical Mass,critical-mass,Flux,flux,General Strike,general-strike,PBHG,pretty-boys-and-handsome-girls,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls
@@ -465,9 +475,9 @@ catherine-bouchard,Qub,qub,Quest 2021,quest-2021
 catherine-carrier,Iris,iris,QrinQué,qrinque,Quasar,quasar,Quest 2021,quest-2021,Quest,quest
 florence-bouchard,Qub,qub,Quest 2021,quest-2021,Quest,quest
 julie-lemelin,Quest 2021,quest-2021,Quest,quest
-kim-ly-bui,Mystik,mystik,Quest 2021,quest-2021,Quest,quest
+kim-ly-bui,MaQramée,maqramee,Mystik,mystik,Quest 2021,quest-2021,Quest,quest
 laurence-drouin,Qub,qub,Quest 2021,quest-2021,Quest,quest
-maggie-musclow,Qub,qub,Quest 2021,quest-2021,Quest,quest,Wild,wild
+maggie-musclow,Qub,qub,Quest 2021,quest-2021,Quest,quest,Wildish,wild
 marie-therese-veillette-matte,Qarma 2017,qarma-2017,Qub,qub,Quest 2021,quest-2021
 maude-gagnon,Quest 2021,quest-2021,Quest,quest
 stephanie-marchand,Quasar,quasar,Quest 2021,quest-2021
@@ -479,8 +489,8 @@ jean-simon-garneau,QrinQué,qrinque,Quest 2021,quest-2021,Quest,quest
 kim-beauregard,Quest 2021,quest-2021,Quest,quest
 marc-andre-champagne,QrinQué,qrinque,Quest 2021,quest-2021,Quest,quest
 sony-duguay-1,QrinQué,qrinque,Quake,quake,Quest 2021,quest-2021
+mathieu-mercier,QrinQué,qrinque,Quack,quack,Quake,quake,Quantum,quantum,Quest 2021,quest-2021,Quest,quest
 joelle-deblois,QrinQué,qrinque,Quest 2021,quest-2021
-stephanie-gauthier,QrinQué,qrinque,Qub 2021,qub-2021,Quest 2021,quest-2021,Quest,quest
 alexandre-beaulieu,Quake,quake,Quakers,quakers,Quest 2021,quest-2021,Quest,quest
 pierre-olivier-hardy,Quake,quake,Quest 2021,quest-2021,Quest,quest
 patrick-girard-1,QrinQué,qrinque,Quest 2021,quest-2021,Quest,quest
@@ -502,6 +512,7 @@ zoe-luke-1,Red Flag,red-flag
 alexander-lam,Banana Cutters,fight-club,Eclipse Open,eclipse-open,Mio Grape,mio-grape,Red Flag,red-flag
 andrew-ling,Blackfish,blackfish,Grand Trunk,grand-trunk,Jerk Factory,pogey-train,NADS,nads,Red Flag,red-flag
 edward-guo,Banana Cutters,fight-club,Blackfish,blackfish,Eclipse Open,eclipse-open,Eclipse Women,eclipse-women,Furious George,furious-george,Red Flag,red-flag
+justin-podnar,Red Flag,red-flag,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 kevin-tong,DNA,dna,Red Flag,red-flag,Vortex Open,vortex,Vortex Women,vortex
 koji-suzuki-1,Red Flag,red-flag
 kyle-tsia,Blackfish,blackfish,Goldfish,fishblack,Red Flag,red-flag
@@ -510,6 +521,7 @@ mat-goodkey,Furious George,furious-george,Phoenix,phoenix,Red Flag,red-flag
 neo-debroux,Eclipse Open,eclipse-open,Red Flag,red-flag
 nicolas-choy,Blackfish,blackfish,Goldfish,fishblack,Red Flag,red-flag,Refinery,refinery
 peter-yu,Banana Cutters,fight-club,Blackfish,blackfish,Furious George,furious-george,Goomba Gang,best-coast,Mio Grape,mio-grape,Red Flag,red-flag
+ryan-hoy,Banana Cutters,fight-club,Blackfish,blackfish,Goomba Gang,best-coast,Red Flag,red-flag
 sam-creed-1,Blackfish,blackfish,Furious George,furious-george,Red Flag,red-flag
 beatrice-couture,Red Fox,red-fox
 cassandre-gervais,EXO,exo,Red Fox,red-fox
@@ -519,6 +531,7 @@ marianne-fortier,Red Fox,red-fox
 marianne-thibodeau,Animals,animals,EXO,exo,Gaïa,gaia,Red Fox,red-fox
 mathilde-renaud,Gaïa,gaia,Red Fox,red-fox,Uproar Open,uproar
 maude-prevost,Animals,animals,Red Fox,red-fox
+antoine-dube,Red Fox,red-fox
 antoine-lambert,Gaïa,gaia,Red Fox,red-fox
 charles-lambert-1,Red Fox,red-fox
 dominick-dussault,Animals,animals,Red Fox,red-fox
@@ -530,31 +543,32 @@ corinne-ellyson,EXO,exo,Red Fox,red-fox
 nicolas-beaulieu,Red Fox,red-fox
 jean-daniel-dube,Gaïa,gaia,Gentlement's Club 2,gentlements-club-2,Red Fox,red-fox
 andrea-dietz-1,Luna Ultimate,luna-ultimate,Spawn,spawn
-becky-chasse,Spawn,spawn,The Collective,the-collective
-christina-coulombe,Spawn,spawn,The Collective,the-collective
+becky-chasse,Spawn,spawn,Still,still,The Collective,the-collective
 emily-hawkins,Spawn,spawn,The Collective,the-collective
 emma-plant,Spawn,spawn
 flora-hay,Spawn,spawn
 gaelyn-mcmackin,Spawn,spawn
 kathryn-campbell-1,Spawn,spawn
+molly-gallibois,Spawn,spawn
 rachel-aske,Spawn,spawn
-darin-wigley,Spawn,spawn
 djordje-lepir,Spawn,spawn
 donnie-mcphee,Borderline,borderline,Spawn,spawn
 dragan-veselinovic,Spawn,spawn
 dustin-smith-2,Spawn,spawn
 jacob-savoie-1,Spawn,spawn
 joel-beck,Jerk Factory,jerk-factory,Spawn,spawn
+jonathan-murray,Spawn,spawn
 leland-morehouse,Spawn,spawn
+luke-ogrady-2,Spawn,spawn
 mark-oconnor-1,High Tide Open,team-nb,High Tide Women,team-nb,Spawn,spawn
 seth-porter,High Tide Open,team-nb,High Tide Women,team-nb,Spawn,spawn
-shaun-williams,Spawn,spawn
 lucie-lavoie,Spawn,spawn
-andrea-patterson,1778 AT,tbd-207,Spawn,spawn,The Collective,the-collective
+andrea-patterson,1778 AT,tbd-207,Spawn,spawn,Still,still,The Collective,the-collective
 tanner-phillips,Borderline,borderline,Jerk Factory,jerk-factory,Jerk Factory,pogey-train,Spawn,spawn
 katie-marti,Homegirl,homegirl,Spawn,spawn
 theresa-mesdag,Flurry,flurry,Flux,flux,Rogue Hippo,rogue-hippo,Spawn,spawn
 brittany-fairweather,Salty,salty,Spawn,spawn
+christina-coulombe,Spawn,spawn,The Collective,the-collective
 julie-baglole,Spawn,spawn
 ginny-steeves-1,Spawn,spawn
 marie-claude-lavigne-albert,Animals,animals,Spawn,spawn
@@ -575,8 +589,7 @@ landon-urquhart-1,Spawn,spawn
 darren-clark,Borderline,borderline,Jerk Factory,jerk-factory,Jerk Factory,pogey-train,Phoenix,phoenix,Spawn,spawn
 breton-mcphee,Jerk Factory,jerk-factory,Red Circus,red-circus,Spawn,spawn
 jamie-fitzgerald,High Tide Open,team-nb,High Tide Women,team-nb,Spawn,spawn
-jonathan-murray,Spawn,spawn
-ronald-siu,Grand Trunk,grand-trunk,Spawn,spawn,Union,union
+ronald-siu,Grand Trunk,grand-trunk,Max Power,vax-power,Spawn,spawn,Union,union
 alex-brewster,Spawn,spawn
 robyn-lattie,Spawn,spawn,The Collective,the-collective
 maggie-mccarthy-1,Spawn,spawn
@@ -631,6 +644,7 @@ kayla-zhu-1,T.T,tt
 kelly-luk,Eclipse Women,eclipse-women,T.T,tt
 krystie-lee,Forever Young,forever-young,T.T,tt
 lily-huang,T.T,tt
+lydia-rasmusens-1,Forever Young,forever-young,T.T,tt
 nancy-yang,T.T,tt,The Super Friends,the-super-friends,Vortex Open,vortex,Vortex Women,vortex
 sarah-zhang,Eclipse Women,eclipse-women,Mischief Women,mischief-women,T.T,tt
 aldrich-fruto-1,Forever Young,forever-young,T.T,tt
@@ -642,10 +656,11 @@ jacob-mundo,Blackfish,blackfish,T.T,tt
 jazz-groden-gilchrist,Blackfish,blackfish,Goldfish,fishblack,Refinery,refinery,T.T,tt
 peter-liang,Forever Young,forever-young,T.T,tt
 samuel-lam,Eclipse Open,eclipse-open,Rolling Thunder Open,rolling-thunder-open,T.T,tt
+william-ieong,Fable,fable,T.T,tt
 alyne-azucena,Backdraft,backdraft,Lotus,lotus,Union,union
 danielle-leung,Lotus,lotus,Max Power,max-power,ReUnion,reunion,Union,union,Zen,zen
 emma-seaborn,Max Power,max-power,TORO Junior Women,toro-open,TORO Open,toro,Union,union,lowercase,lowercase
-emma-thorpe-1,PPF,ppf,TFT,tft,Union,union,lowercase,lowercase
+emma-thorpe-1,PPF,ppf,ReUnion,reunion,TFT,tft,Union,union,lowercase,lowercase
 jacqueline-man-1,Max Power,max-power,PPF,ppf,ReUnion,reunion,Union,union
 jamee-nepom,TOX6ix,tox6ix,Union,union
 leah-tackaberry-giddens,TORO Junior Women,toro-open,TOX6ix,tox6ix,Union,union,Uproar Open,uproar
@@ -656,7 +671,7 @@ sarah-lam,Union,union,Zen,zen
 andy-kay,Union,union
 bryan-yue,Grand Trunk,grand-trunk,Max Power,max-power,Nagano '98,nagano-98,Union,union
 cameron-dunning,Max Power,max-power,NoBS,nobs,Union,union,Zen,zen
-chase-heinemann,ROY,roy,Roy,roy,Too Bad,too-bad,Union,union,Zen,zen
+chase-heinemann,ROY,roy,Too Bad,too-bad,Union,union,Zen,zen
 david-murray,Grand Trunk,grand-trunk,Too Bad,too-bad,Union,union
 eric-blanchard,BoD,bod,Max Power,max-power,TFT,tft,Union,union
 jeff-mcclelland,Backdraft,backdraft,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Union,union
@@ -671,8 +686,8 @@ erin-dahlke,Union,union
 kate-jardine,ReUnion,reunion,Union,union
 jamie-galloway,Max Power,max-power,ReUnion,reunion,Union,union
 melanie-henderson-1,NoBS,nobs,Union,union
-chris-bracht,Best Before,best-before,Max Power,max-power,Max Power,team-name,Midnight Release,midnight-release,NoBS,nobs,ReUnion,reunion,Union,union
-andrew-milne,Best Before,best-before,Max Power,max-power,Max Power,team-name,Midnight Release,midnight-release,ReUnion,reunion,Union,union
+chris-bracht,Best Before,best-before,Max Power,max-power,Max Power,team-name,Midnight Release,midnight-release,NoBS,nobs,ReUnion,reunion,Tombstone,tombstone,Union,union
+andrew-milne,Best Before,best-before,Max Power,max-power,Max Power,team-name,Max Power,vax-power,Midnight Release,midnight-release,ReUnion,reunion,Union,union
 matt-kirk,Best Before,best-before,Max Power,max-power,Midnight Release,midnight-release,NoBS,nobs,Union,union
 david-shimoda,Best Before,best-before,Max Power,max-power,Max Power,team-name,NoBS,nobs,ReUnion,reunion,Union,union
 matt-chellew,Midnight Release,midnight-release,Shepherds,shepherds,Union,union
@@ -681,7 +696,7 @@ scott-innes,Max Power,vax-power,Trail Mix,trail-mix,Union,union
 sandy-mclachlin,Max Power,max-power,Max Power,team-name,Midnight Release,midnight-release,NoBS,nobs,ReUnion,reunion,Union,union
 steven-lee-2,Midnight Release,midnight-release,Tombstone,tombstone,Union,union
 sean-henderson,Union,union
-michael-jones-4,GOAT,goat,Union,union
+michael-jones-4,GOAT,goat,Max Power,vax-power,Union,union
 sachin-raina,GOAT,goat,Union,union
 mateusz-bocian,BOAT,boat,Grand Trunk,grand-trunk,Max Power,max-power,Union,union
 dilhan-kuru,Best Before,best-before,ReUnion,reunion,Union,union
@@ -708,10 +723,10 @@ troe-weston,Fable,fable,Furious George,furious-george,Homegirl,homegirl,Mastadon
 lindsay-earle-1,Midnight Release,midnight-release,ReUnion,reunion,Union,union,Zephyr,zephyr
 sky-powell,Maverick,maverick,Union,union
 rhyin-newell,Best Before,best-before,Braun Squad,braun-squad,Goose,goose,Grand Trunk,grand-trunk,Maverick,maverick,ReUnion,reunion,Union,union,Zen,zen
-daniel-wong-1,Grand Trunk,grand-trunk,Midnight Release,midnight-release,ROY,roy,Roy,roy,Union,union
+daniel-wong-1,Grand Trunk,grand-trunk,Midnight Release,midnight-release,ROY,roy,Union,union
 eamonn-pinto-1,Grand Trunk,grand-trunk,Union,union
 kevin-rabichow-1,Union,union
-nathaniel-faries,Maverick,maverick,Union,union,Zen,zen
+nathaniel-faries,Maverick,maverick,Union,union
 madeleine-channen,Union,union,Zen,zen
 destin-mcquillan,Max Power,vax-power,Quick & Dirty,quick-dirty,TOX6ix,tox6ix,The Grind,quick-dirty,Union,union
 alyona-koulanova-3,Union,union
@@ -719,9 +734,9 @@ emily-tran,TORO Open,toro,TOX6ix,tox6ix,Union,union,Zen,zen
 mikael-zappetti,BOAT,boat,Grand Trunk,grand-trunk,Union,union
 jeffrey-woo-2,Union,union
 david-kaufman-1,Maverick,maverick,Union,union
-kevin-chao,Blackfish,blackfish,Goose,goose,Grand Trunk,grand-trunk,Too Bad,too-bad,Union,union
+kevin-chao,BOAT,boat,Blackfish,blackfish,Goose,goose,Grand Trunk,grand-trunk,Union,union
 nikko-gaston,Trail Mix,trail-mix,Union,union
-keegan-lee-newbury,BOAT,boat,TORO Junior Women,toro-open,Union,union,Uproar Open,uproar,Zen,zen
+keegan-lee-newbury,TORO Junior Women,toro-open,Union,union,Uproar Open,uproar,Zen,zen
 stephanie-malcher,ReUnion,reunion,Union,union
 rebecca-babcock-1,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Union,union
 sarah-granziol,Lotus,lotus,ReUnion,reunion,Union,union,Zen,zen
@@ -749,12 +764,16 @@ gleb-podorozhniy,Union,union
 dyakov-roman,Union,union
 luka-grubin,Union,union
 celina-tran,Lily,lily,TOX6ix,tox6ix,Zen,zen
+emilija-krudzite,MMV,mmv,Zen,zen
 isabelle-pacleb,MMV,mmv,TORO Junior Women,toro-open,Uproar Open,uproar,Zen,zen
+jacqui-hayworth,Dinner At 4,dinner-at,MMV,mmv,TOX6ix,tox6ix,Zen,zen
 jenny-chen,Crux,crux,PPF,ppf,TOX6ix,tox6ix,Zen,zen
 lindsay-chong-1,Magmarok,magmarok,Zen,zen
 melanie-tran,Zen,zen
+samantha-esteves,PPF,ppf,Zen,zen
 hugo-lynch,MMV,mmv,Zen,zen
-larry-zhou,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Zen,zen
+jenson-lam,Zen,zen
+larry-zhou,Grand Trunk,grand-trunk,ROY,roy,Zen,zen
 mark-tran,Force,force,MMV,mmv,NoBS,nobs,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Zen,zen
 mason-westfall,Zen,zen
 robert-jackson-4,MMV,mmv,Zen,zen
@@ -774,16 +793,16 @@ brandon-neild,Force,force,NADS,nads,Zen,zen
 kevin-groniger,Zen,zen
 shawn-lee-1,Max Power,max-power,Zen,zen
 jason-chan-1,Best Before,best-before,Max Power,max-power,Max Power,team-name,Zen,zen
-nicolas-zuniga,ROY,roy,Roy,roy,Zen,zen
+nicolas-zuniga,ROY,roy,Zen,zen
 kieran-bol,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Trail Mix,trail-mix,Zen,zen
 matthew-machina,Max Power,max-power,Zen,zen
-marc-hodges,NoBS,nobs,Silverbacks,the-silverbacks,Zen,zen
+marc-hodges,NoBS,nobs,Silverbacks,the-silverbacks,Still,still,Zen,zen
 tom-jennings-1,Zen,zen
 marcel-frenette-corniellis,Max Power,max-power,Max Power,team-name,Max Power,vax-power,Too Bad,too-bad,Zen,zen
-gareth-cawley,Best Before,best-before,Max Power,max-power,Max Power,vax-power,Trail Mix,trail-mix,Zen,zen
+gareth-cawley,Best Before,best-before,Max Power,max-power,Max Power,vax-power,Still,still,Trail Mix,trail-mix,Zen,zen
 blue-mcclellan-1,Zen,zen
-wallace-jiang,BOAT,boat,Force,force,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Zen,zen
-christopher-wang,Max Power,max-power,ROY,roy,Roy,roy,Too Bad,too-bad,Zen,zen
+wallace-jiang,BOAT,boat,Force,force,Grand Trunk,grand-trunk,ROY,roy,Zen,zen
+christopher-wang,Max Power,max-power,ROY,roy,Too Bad,too-bad,Zen,zen
 julie-kwan,Lily,lily,Terra,terra,Thrift Shop,thrift-shop,Zen,zen
 jennifer-lam-1,Lily,lily,Zen,zen
 agatha-hodsman,Backdraft,backdraft,Max Power,max-power,NoBS,nobs,Nox,nox,Thrift Shop,thrift-shop,Zen,zen
@@ -792,9 +811,9 @@ jonathan-brunetti,NoBS,nobs,Trail Mix,trail-mix,Zen,zen
 oski-turanoglu,MMV,mmv,Zen,zen
 bill-li,MMV,mmv,NoBS,nobs,Zen,zen
 nicholas-ong-1,Zen,zen
-jason-wu-2,COAT,coat,ROY,roy,Roy,roy,Too Bad,too-bad,Zen,zen
-finlay-dsilva,BOAT,boat,ROY,roy,Roy,roy,Zen,zen
-kevin-lam-3,Too Bad,too-bad,Zen,zen
+jason-wu-2,COAT,coat,ROY,roy,Too Bad,too-bad,Zen,zen
+finlay-dsilva,BOAT,boat,ROY,roy,Zen,zen
+kevin-lam-3,BOAT,boat,Too Bad,too-bad,Zen,zen
 da-yu,Nonsuch,nonsuch,Zen,zen
 erik-luft,Zen,zen
 chris-wang-1,Zen,zen
@@ -811,10 +830,10 @@ rob-grundy,Max Power,max-power,Max Power,team-name,TORO Open,toro,Uproar Open,up
 alex-brittain-boisvert,Backdraft,backdraft,Zen,zen
 adam-clay,Zen,zen
 wesley-gardner,Zen,zen
-bill-banaag,BOAT,boat,ROY,roy,Roy,roy,Zen,zen
+bill-banaag,BOAT,boat,ROY,roy,Zen,zen
 david-wu-1,Zen,zen
 chelsea-jackson-1,Zen,zen
-carolina-vargas,Lily,lily,Lore,lore,MMV,mmv,Thrift Shop,thrift-shop,Zen,zen
+carolina-vargas,Lily,lily,Lore,lore,MMV,mmv,Queen Ps,queen-ps,Thrift Shop,thrift-shop,Zen,zen
 viki-nguyen-1,Lily,lily,Lotus,lotus,Zen,zen
 raphaela-so,Nox,nox,Zen,zen
 hilary-lam,Zen,zen
@@ -823,9 +842,9 @@ jay-ramos,Too Bad,too-bad,Zen,zen
 darrel-nantais,MMV,mmv,Max Power,max-power,Max Power,team-name,Zen,zen
 daniel-jacobs,Zen,zen
 ian-kwan,Zen,zen
-david-ip,ROY,roy,Roy,roy,Too Bad,too-bad,Zen,zen
+david-ip,ROY,roy,Too Bad,too-bad,Zen,zen
 cody-johnson-2,MMV,mmv,Zen,zen
-ian-bone,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Zen,zen
+ian-bone,Grand Trunk,grand-trunk,ROY,roy,Zen,zen
 enoch-chan,Zen,zen
 michaela-hershberger-1,Zen,zen
 janelle-roby,Zen,zen
@@ -833,7 +852,6 @@ sarah-floyd-1,Crux,crux,Max Power,max-power,NoBS,nobs,Zen,zen
 veronica-wong,NoBS,nobs,Zen,zen
 sarah-baxendale,Zen,zen
 julie-dewolf,1778 AT,tbd-207,TOX6ix,tox6ix,Zen,zen
-jacqui-hayworth,MMV,mmv,TOX6ix,tox6ix,Zen,zen
 marisa-hart,TOX6ix,tox6ix,Trail Mix,trail-mix,Zen,zen
 sabrina-wu,Zen,zen
 vivian-liu,Crux,crux,Nox,nox,TOX6ix,tox6ix,Zen,zen
@@ -858,27 +876,30 @@ kelly-smith,TORO Junior Women,toro-open,TORO Open,toro,Zen,zen
 colin-thompson-1,MMV,mmv,Zen,zen
 jacob-edwards-schell-1,Zen,zen
 david-so,Banana Cutters,fight-club,Magma,magma,Zen,zen
-stephen-pristupa,ROY,roy,Roy,roy,Zen,zen
+stephen-pristupa,ROY,roy,Zen,zen
 bryan-tran-1,MMV,mmv,Trail Mix,trail-mix,Zen,zen
 eric-palmitesta,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Trail Mix,trail-mix,Zen,zen
 jekeb-dawson,Camp X 2019 Open,camp-x,Stud,synergy,Zen,zen
 arthur-yan,Too Bad,too-bad,Zen,zen
-daniel-ngai,ROY,roy,Roy,roy,Zen,zen
+daniel-ngai,ROY,roy,Zen,zen
 andrew-h-2,BOAT,boat,Zen,zen
-cassie-wong,Max Power,max-power,TOX6ix,tox6ix,Zen,zen
+cassie-wong,Dinner At 4,dinner-at,Max Power,max-power,Still,still,TOX6ix,tox6ix,Zen,zen
 alexandre-bedard,Alberta Flatball Club,alberta-flatball-club
 brad-dawson,Alberta Flatball Club,alberta-flatball-club
 brendan-lacy,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,aberta-flatball-club
 bryn-mcdougald,Alberta Flatball Club,alberta-flatball-club
 cesar-montes-martinez,Alberta Flatball Club,alberta-flatball-club
 cole-niawchuk,Alberta Flatball Club,alberta-flatball-club
-dave-hochhalter,Alberta Flatball Club,alberta-flatball-club,Furious George,furious-george,GOAT,goat
+dave-hochhalter,Alberta Flatball Club,alberta-flatball-club,CarJam,carbon,Carbon,carbon,Furious George,furious-george,GOAT,goat
 eric-bedard,Alberta Flatball Club,alberta-flatball-club,CarJam,carbon,Carbon,carbon
 ishaq-lee-son,Alberta Flatball Club,alberta-flatball-club
+jayden-platt-1,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,aberta-flatball-club,Rogue Hippo,rogue-hippo
 jordan-vogel-1,Alberta Flatball Club,alberta-flatball-club
+justin-keough,Alberta Flatball Club,alberta-flatball-club
 korey-kobylka,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,aberta-flatball-club
 landon-lavoie,Alberta Flatball Club,alberta-flatball-club,Cannons: Junior Open,cannons-m,Lit,lit
 mark-unterschultz,Alberta Flatball Club,alberta-flatball-club,CarJam,carbon,Carbon,carbon
+matthew-hoehne,Alberta Flatball Club,alberta-flatball-club
 nigel-lendsay,Alberta Flatball Club,alberta-flatball-club,Bunny Thugs,bunny-thugs
 quin-greenaway,Alberta Flatball Club,alberta-flatball-club
 ryan-lacy-2,Alberta Flatball Club,alberta-flatball-club
@@ -919,9 +940,9 @@ taylor-nadon-1,Blackfish,blackfish,Cannibals,cannibals,T.T,tt
 samson-hoy,Blackfish,blackfish,Furious George,furious-george,Mio Grape,mio-grape,Mischief Open,mischief-open
 nicholas-okuma,Blackfish,blackfish
 alex-jew,Blackfish,blackfish,Eclipse Open,eclipse-open,Eclipse Women,eclipse-women,Mischief Open,mischief-open,Mischief Women,mischief-women,Refinery,refinery,Rolling Thunder Open,rolling-thunder-open,Rolling Thunder Women,rolling-thunder-women,Vanguard Open,misfit-4-open
-joshua-tan-1,Blackfish,blackfish,Mio Grape,mio-grape,ROY,roy,Roy,roy
+joshua-tan-1,Blackfish,blackfish,Mio Grape,mio-grape,ROY,roy
 taylor-nadon,Blackfish,blackfish,Furious George,furious-george,Happy Campers,happy-campers
-carson-clark-1,Blackfish,blackfish,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+carson-clark-1,Blackfish,blackfish,Grand Trunk,grand-trunk,ROY,roy
 nicholas-lin,Banana Cutters,fight-club,Blackfish,blackfish,Goomba Gang,best-coast,Mio Grape,mio-grape
 francisco-mogollon,Blackfish,blackfish,Forever Young,forever-young,Homegrown,homegrown
 kevin-schellenberg,Blackfish,blackfish
@@ -937,7 +958,7 @@ rumi-tejpar-1,Blackfish,blackfish,Furious George,furious-george
 graeme-barber,Blackfish,blackfish
 brian-baker-1,Blackfish,blackfish,Mastadon,mastadon
 james-rankin,Blackfish,blackfish,Homegrown,homegrown
-kevin-tian-1,Blackfish,blackfish,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+kevin-tian-1,Blackfish,blackfish,Grand Trunk,grand-trunk,ROY,roy
 alan-macfarlane,Blackfish,blackfish,Muriqui,vancouver-masters,West Edmonton Maulers,west-edmonton-maulers
 graham-landon,Blackfish,blackfish
 keanen-grant,Blackfish,blackfish
@@ -968,7 +989,6 @@ brian-nguyen,Banana Cutters,fight-club,Blackfish,blackfish,Goomba Gang,best-coas
 maximilian-leibersberger,Blackfish,blackfish
 lok-tin-lam,Blackfish,blackfish,Homegrown,homegrown,Refinery,refinery
 kevin-chu,Banana Cutters,fight-club,Blackfish,blackfish,Mio Grape,mio-grape
-ryan-hoy,Banana Cutters,fight-club,Blackfish,blackfish,Goomba Gang,best-coast
 pierre-yves-lavertu,Blackfish,blackfish,Furious George,furious-george,Mephisto,mephisto,Montreal Old Star,montreal-old-star,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
 ryan-sun,Blackfish,blackfish
 jonah-lee-ash,Blackfish,blackfish,Furious George,furious-george,Refinery,refinery
@@ -1002,76 +1022,18 @@ derek-cheng,Blackfish,blackfish
 moby-espitia,Blackfish,blackfish
 david-whitney-brown,Blackfish,blackfish,Regiment,regiment,Victoria Gulls n' Buoys,victoria-gull-n-buoys
 david-neilson,Blackfish,blackfish,Furious George,furious-george,Happy Campers,happy-campers
-alvin-lee-1,BOAT,boat,COAT,coat
-ben-klar,BOAT,boat
-brian-tran,BOAT,boat,Energy,energy,Uproar Open,uproar
-ganish-narain,BOAT,boat,COAT,coat,Energy,energy,Uproar Open,uproar
-jack-park-1,BOAT,boat
-jacob-white-10,BOAT,boat
-kavin-sritharan,BOAT,boat
-liam-macarthur,BOAT,boat,COAT,coat
-lucas-mckeown,BOAT,boat,Goose,goose
-martin-shiu,BOAT,boat
-martin-sieniawski,BOAT,boat,COAT,coat
-matthew-lam-1,BOAT,boat,Uproar Open,uproar
-micheal-kukucska,BOAT,boat,COAT,coat,Phantoms,phantoms,ROY,roy,Roy,roy,TORO Junior Women,toro-open
-mohammed-alhadid,BOAT,boat,COAT,coat
-nawid-mehrpoor,BOAT,boat,TORO Open,toro
-peter-lam,BOAT,boat,Energy,energy,Uproar Open,uproar
-taylor-chung,BOAT,boat,COAT,coat
-wilson-pan,BOAT,boat,COAT,coat
-jake-turcotte,BOAT,boat,Grand Trunk,grand-trunk,NoBS,nobs,ROY,roy,Roy,roy
-taylor-los,BOAT,boat,Houndd,houndd,Maverick,maverick
-rui-carvalho-1,BOAT,boat,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-varoon-gupta,BOAT,boat,Energy,energy,Uproar Open,uproar
-benny-huynh,BOAT,boat
-jonathan-chung,BOAT,boat,Grand Trunk,grand-trunk,Maverick,maverick,ROY,roy,Roy,roy
-steven-kariatsumari-1,BOAT,boat
-justin-cheung,BOAT,boat,Houndd,houndd
-evan-wong,BOAT,boat
-adam-turcotte,BOAT,boat,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
-abdullah-saleem,BOAT,boat,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-lawrence-mak-1,BOAT,boat,Energy,energy,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
-cameron-knox-1,BOAT,boat,Energy,energy
-ravin-ramnarain,BOAT,boat
-robert-godfrey,BOAT,boat,ROY,roy,Roy,roy
-henry-so,BOAT,boat
-jonathan-waterman-1,BOAT,boat
-alan-alford,BOAT,boat
-alexandre-dubois,Club M - Magma,club-m-magma
-antoine-debien,Club M - Magma,club-m-magma
-antoine-fortier,Club M - Magma,club-m-magma
-benjamin-gasseau,Club M - Magma,club-m-magma
-bo-chi-zhang,Club M - Magma,club-m-magma,Titane (Open),titane-open
-charles-graton,Club M - Magma,club-m-magma
-christian-taboada,Club M - Magma,club-m-magma
-felix-cote-dubuc,Club M - Magma,club-m-magma
-francois-duchesneau,Borderline,borderline,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma
-hubert-barrette-laganiere,Club M - Magma,club-m-magma
-hugo-fournier-1,Club M - Magma,club-m-magma
-justin-sabetti,Club M - Magma,club-m-magma
-louis-philippe-crepeau,Club M - Magma,club-m-magma
-moreno-miguel,Club M - Magma,club-m-magma
-nathan-osman,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma
-nicola-teolis,Club M - Magma,club-m-magma
-philippe-kirouac-1,Club M - Magma,club-m-magma
-raffael-cinq-mars,Club M - Magma,club-m-magma
-simon-vervaet,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
-stephane-beniak,Club M - Magma,club-m-magma
-natan-courchesne,Club M - Magma,club-m-magma
-francois-laplante,Club M - Magma,club-m-magma
-walker-singleton,Club M - Magma,club-m-magma
-zachary-mann,Club M - Magma,club-m-magma,Titane (Open),titane-open
-rayan-zarrouky,Arsenic (Open),arsenic-open,Club M - Magma,club-m-magma
-ludovic-cao,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
-clubm-ultimate,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
 charles-guay-1,Club M - Manic,club-m-manic,Titane (Open),titane-open
 ciprian-iorga,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic,Mephisto,mephisto
+clubm-ultimate,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
 farouk-oussaada,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic,Titane (Open),titane-open
 henri-labonte,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
 jeremie-giard,Arsenic (Open),arsenic-open,Club M - Manic,club-m-manic,Titane (Open),titane-open
 jonathan-baril,Arsenic (Open),arsenic-open,Club M - Manic,club-m-manic,Titane (Open),titane-open
+julien-poitras-plante,Club M - Manic,club-m-manic,Mephisto,mephisto
+ketan-vasudeva,Club M - Manic,club-m-manic,Houndd,houndd,Stud,synergy
+liam-mckeown,Club M - MESA,club-m-mesa,Club M - Manic,club-m-manic
 louis-pierre-lauzon,BoD,bod,Club M - Manic,club-m-manic,Mephisto,mephisto,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,Titane (Open),titane-open,Vénus,venus
+ludovic-cao,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
 nicolas-plante-henry,Club M - Manic,club-m-manic
 paul-hooley,Club M - Manic,club-m-manic
 philippe-le-bourdais-1,Club M - Manic,club-m-manic
@@ -1132,15 +1094,22 @@ mark-lloyd-1,General Strike,general-strike
 kyle-parker,Gaia Sale,gaia-sale,General Strike,general-strike
 tyler-chochinov,Gaia Sale,gaia-sale,General Strike,general-strike,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 jordan-chochinov,Gaia Sale,gaia-sale,General Strike,general-strike
+adrian-yearwood,GOAT,goat,NADS,nads,Uproar Open,uproar
+andrew-ouchterlony,GOAT,goat
+ben-pries-1,GOAT,goat
 cameron-harris-2,GOAT,goat,Max Power,max-power,TFT,tft
 dan-lafrance,BOAT,boat,GOAT,goat,Skerj,skerj
+eli-park,GOAT,goat,TORO Open,toro
 geoff-powell,GOAT,goat
 iain-mackenzie,GOAT,goat,Grand Trunk,grand-trunk
 isaiah-masek-kelly,GOAT,goat,Grand Trunk,grand-trunk,Nagano '98,nagano-98
+james-lewis-3,GOAT,goat,SOUP,soup,TORO Junior Women,toro-open
 jaret-meron,GOAT,goat,Grand Trunk,grand-trunk,Nagano '98,nagano-98,Too Bad,too-bad
 jason-huynh-1,GOAT,goat,TORO Junior Women,toro-open
-jason-lam-1,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+jason-lam-1,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy
 jonathan-edwards-4,GOAT,goat
+kevin-jay,Backdraft,backdraft,GOAT,goat,Houndd,houndd
+kieran-charnock,GOAT,goat,TORO Junior Women,toro-open,Uproar Open,uproar
 luc-comire-1,GOAT,goat,TORO Junior Women,toro-open
 marijo-zlatic,GOAT,goat,Nagano '98,nagano-98,Quick & Dirty,quick-dirty,The Grind,quick-dirty
 michael-mackenzie-1,GOAT,goat,TORO Junior Women,toro-open
@@ -1171,19 +1140,24 @@ brock-carling-1,GOAT,goat
 edward-york-1,GOAT,goat
 michael-stabback-1,GOAT,goat
 bryan-phillips,GOAT,goat
+abdullah-saleem,BOAT,boat,Grand Trunk,grand-trunk,ROY,roy
 blake-harriott,Goose,goose,Grand Trunk,grand-trunk
 christopher-chan,Grand Trunk,grand-trunk,Refinery,refinery
 edmund-un,COAT,coat,Energy,energy,Grand Trunk,grand-trunk,Maverick,maverick
-galvin-cho,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+galvin-cho,Grand Trunk,grand-trunk,ROY,roy
 ian-bone-1,Grand Trunk,grand-trunk
-jason-li-1,Grand Trunk,grand-trunk,MMV,mmv
+jake-turcotte,BOAT,boat,Grand Trunk,grand-trunk,NoBS,nobs,ROY,roy
 jason-liu-2,Grand Trunk,grand-trunk
 john-huang,BOAT,boat,Energy,energy,Grand Trunk,grand-trunk,TORO Junior Women,toro-open,Uproar Open,uproar
+jonathan-chung,BOAT,boat,Grand Trunk,grand-trunk,Maverick,maverick,ROY,roy
 josh-bone,Grand Trunk,grand-trunk
 keith-mcrae-1,Grand Trunk,grand-trunk
+kelvin-huang,Grand Trunk,grand-trunk,ROY,roy,TORO Junior Women,toro-open,Uproar Open,uproar
 matthew-gulbronson-1,Grand Trunk,grand-trunk,Maverick,maverick
 nathan-hsieh,Grand Trunk,grand-trunk,Houndd,houndd,Refinery,refinery
 nelson-le,Crux,crux,Grand Trunk,grand-trunk,Trail Mix,trail-mix
+riley-lublow,Grand Trunk,grand-trunk,ROY,roy
+rui-carvalho-1,BOAT,boat,Grand Trunk,grand-trunk,ROY,roy
 jaleel-paje,Bingo & Chill,bingo-chill,Grand Trunk,grand-trunk
 hirochika-katano,Grand Trunk,grand-trunk
 hugh-knapp-1,Furious George,furious-george,Grand Trunk,grand-trunk
@@ -1191,8 +1165,8 @@ noah-vanduzer,Grand Trunk,grand-trunk,Skerj,skerj
 jordan-ing-chen,Grand Trunk,grand-trunk,Midnight Release,midnight-release
 zach-young,Grand Trunk,grand-trunk,Too Bad,too-bad
 carlos-zambrano,BOAT,boat,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
-matt-kishi,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-owen-robinson-2,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+matt-kishi,Grand Trunk,grand-trunk,ROY,roy
+owen-robinson-2,Grand Trunk,grand-trunk,ROY,roy
 will-turner-1,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
 ryan-keyfitz,Grand Trunk,grand-trunk,Max Power,vax-power
 dante-reino,Grand Trunk,grand-trunk
@@ -1211,7 +1185,7 @@ tim-chapman-smith,Grand Trunk,grand-trunk
 andrew-watts,Grand Trunk,grand-trunk,Quick & Dirty,quick-dirty,The Grind,quick-dirty
 loic-dalle-1,Grand Trunk,grand-trunk
 keith-sutherland-1,Grand Trunk,grand-trunk
-evan-morgoch,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+evan-morgoch,Grand Trunk,grand-trunk,ROY,roy
 oleksandr-stakhovskyi,Grand Trunk,grand-trunk
 kyle-patrick,Grand Trunk,grand-trunk
 calum-mackenzie,Grand Trunk,grand-trunk
@@ -1235,18 +1209,19 @@ thomson-mcknight,GOAT,goat,Grand Trunk,grand-trunk,Nagano '98,nagano-98
 aaron-short,Grand Trunk,grand-trunk
 greer-hunt,Anchor,anchor-ultimate,Grand Trunk,grand-trunk,New Scotland Blues,beast,Red Circus,red-circus,Regiment,regiment,Wreckhouse,wreckhouse
 matthew-jones-4,Grand Trunk,grand-trunk
-wesley-tin,Grand Trunk,grand-trunk,Maverick,maverick,ROY,roy,Roy,roy
+wesley-tin,Grand Trunk,grand-trunk,Maverick,maverick,ROY,roy
 ben-leung,Grand Trunk,grand-trunk,Max Power,max-power
-samuel-paiva,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,SOUP,soup
+samuel-paiva,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy,SOUP,soup
 danyal-amjad,Grand Trunk,grand-trunk
 gabriel-brown,Grand Trunk,grand-trunk
 paul-tatulea,GOAT,goat,Grand Trunk,grand-trunk
 jamie-millage,Backdraft,backdraft,Grand Trunk,grand-trunk,Houndd,houndd,Stud,synergy
 toly-vasilyev-2,GOAT,goat,Grand Trunk,grand-trunk,NADS,nads
 daniel-pepler-3,Backdraft,backdraft,Grand Trunk,grand-trunk,Houndd,houndd,Legendairy,legendairy
-william-peckham,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-shintaro-tsukamoto,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Shrike,shrike,TORO Junior Women,toro-open,Uproar Open,uproar
-mike-haddock,Grand Trunk,grand-trunk,Quick & Dirty,quick-dirty,ROY,roy,Roy,roy,The Grind,quick-dirty
+william-peckham,Grand Trunk,grand-trunk,ROY,roy
+shintaro-tsukamoto,Grand Trunk,grand-trunk,ROY,roy,Shrike,shrike,TORO Junior Women,toro-open,Uproar Open,uproar
+adam-turcotte,BOAT,boat,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
+mike-haddock,Grand Trunk,grand-trunk,Quick & Dirty,quick-dirty,ROY,roy,The Grind,quick-dirty
 nikolay-eliseev,Grand Trunk,grand-trunk
 ivan-peng,Grand Trunk,grand-trunk,Houndd,houndd
 george-ahumah,Grand Trunk,grand-trunk
@@ -1255,15 +1230,15 @@ cooper-brotman,Grand Trunk,grand-trunk,Nor'Easter,noreaster,Quick & Dirty,quick-
 aidyn-kopilmae-smith,Grand Trunk,grand-trunk
 willem-maessen,Grand Trunk,grand-trunk
 honza-novak,Grand Trunk,grand-trunk
-michael-huang,Goomba Gang,best-coast,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-derek-fan,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-greg-mallett-1,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
+michael-huang,Goomba Gang,best-coast,Grand Trunk,grand-trunk,ROY,roy
+derek-fan,GOAT,goat,Grand Trunk,grand-trunk,ROY,roy
+greg-mallett-1,Grand Trunk,grand-trunk,ROY,roy
 wesley-george,Grand Trunk,grand-trunk
 patrick-pham,Club M - MESA,club-m-mesa,Grand Trunk,grand-trunk,NSOM 1,nothing-sexier-than-old-montrealers-nsom
 nick-skrypek,Grand Trunk,grand-trunk
 josh-meron-1,Grand Trunk,grand-trunk
 kristofer-chambers,Grand Trunk,grand-trunk,TORO Junior Women,toro-open,Uproar Open,uproar
-vladan-ilic,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,TORO Junior Women,toro-open
+vladan-ilic,Grand Trunk,grand-trunk,ROY,roy,TORO Junior Women,toro-open
 owen-armstrong-5,Grand Trunk,grand-trunk,SOUP,soup,TORO Junior Women,toro-open,Uproar Open,uproar
 austin-ha,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
 rhys-toogood,Grand Trunk,grand-trunk,Phoenix,phoenix,TORO Junior Women,toro-open,Too Bad,too-bad
@@ -1274,7 +1249,8 @@ ethan-mckenzie-halls,Houndd,houndd
 james-carr-pries,Houndd,houndd,Maverick,maverick
 james-gough,Houndd,houndd,Trail Mix,trail-mix
 jared-canfield,Houndd,houndd,Legendairy,legendairy,Stud,synergy,TORO Junior Women,toro-open
-johnson-yu-1,Houndd,houndd,ROY,roy,Roy,roy,TORO Junior Women,toro-open
+johnson-yu-1,Houndd,houndd,ROY,roy,TORO Junior Women,toro-open
+justin-cheung,BOAT,boat,Houndd,houndd
 justin-greaves,Backdraft,backdraft,Houndd,houndd
 kyle-hunter,Backdraft,backdraft,Houndd,houndd,Too Bad,too-bad
 logan-dufour,Houndd,houndd,Stud,synergy
@@ -1282,87 +1258,6 @@ lp-blouin,Backdraft,backdraft,Camp X 2019 Open,camp-x,Dinner At 4,dinner-at,Houn
 michael-leung-1,Energy,energy,Houndd,houndd,TORO Open,toro,Uproar Open,uproar
 nathan-ambrose,Houndd,houndd,Stud,synergy,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
 travis-puckrin,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
-aaron-orchard,Maverick,maverick
-adison-oliver,Goose,goose,Maverick,maverick
-david-schmitt-1,Maverick,maverick
-derek-mcconomy,Goose,goose,Maverick,maverick
-dinushan-dayarathna,Maverick,maverick
-joel-steinmann,Maverick,maverick
-john-agda,Goose,goose,Maverick,maverick,Thunder,thunder
-jonathan-moyer,Goose,goose,Maverick,maverick
-justin-degeer-1,Maverick,maverick,Thunder,thunder
-ken-dunbar,Goose,goose,Maverick,maverick,PPF BEEs,ppf-bees,Viper,viper
-kyle-vandeemter,Maverick,maverick
-marcus-kretz,Goose,goose,Maverick,maverick
-matthew-sullivan-3,Maverick,maverick
-sahad-vasanji,Maverick,maverick
-seth-stevenson,Maverick,maverick
-shawn-benedict-1,Maverick,maverick
-tav-gayle,Goose,goose,Maverick,maverick,Thunder,thunder,Viper,viper
-zachary-anderson,Goose,goose,Maverick,maverick,Wendigo,wendigo
-andrew-rae-1,Goose,goose,Maverick,maverick
-sean-rapai-1,Maverick,maverick
-bryan-cunningham,Maverick,maverick,NADS,nads
-andrew-rae,Maverick,maverick
-carson-turner,Maverick,maverick,Phoenix,phoenix,TFT,tft
-brent-newbigging,Maverick,maverick
-greg-matthews,Maverick,maverick
-dan-yanke,Best Before,best-before,Maverick,maverick,Shepherds,shepherds,Still,still
-russ-nicolls,Maverick,maverick,Phoenix,phoenix,TFT,tft
-ryan-adams,Maverick,maverick
-gabriel-hennessey-1,Flux,flux,Maverick,maverick
-reilly-vickers,Maverick,maverick
-stewart-russell,Maverick,maverick,Thunder,thunder
-trevor-henry,Maverick,maverick
-matt-snow,Maverick,maverick,TFT,tft
-andrew-lefler,Jerk Factory,jerk-factory,Jerk Factory,pogey-train,Khaos,khaos,Maverick,maverick,NADS,nads,Phoenix,phoenix
-jon-berends,Maverick,maverick,Notorious KWG,notorious-kwg
-craig-hyatt,Goose,goose,Maverick,maverick,TFT,tft
-tom-dowler,Maverick,maverick
-dan-berringer,Maverick,maverick
-mark-deren,Maverick,maverick
-christopher-taylor,Goose,goose,Maverick,maverick,NADS,nads,Notorious KWG,notorious-kwg,Phoenix,phoenix
-carl-hawkins,Maverick,maverick
-matt-penman,Maverick,maverick
-peter-mclachlan,Goose,goose,Maverick,maverick,NADS,nads,Too Bad,too-bad
-brendan-wylie-toal,Best Before,best-before,Goose,goose,Maverick,maverick,NADS,nads,Still,still,TFT,tft
-andrew-higgins,Best Before,best-before,Maverick,maverick,NADS,nads,Notorious KWG,notorious-kwg,TFT,tft
-scott-kemp,Maverick,maverick
-alex-taccone,Goose,goose,Maverick,maverick
-jason-tam,Maverick,maverick
-jeff-mcconomy,Maverick,maverick,Tempest,team-01-1375,Wreckhouse,wreckhouse
-shaw-dungate,Maverick,maverick,NADS,nads
-matt-hofing,Force,force,Maverick,maverick
-colin-yeung,1778 AT,tbd-207,Borderline,borderline,Maverick,maverick,NSOM,nsom,Queen City Kings,mangina
-lee-gonzalez-1,Maverick,maverick
-jonathon-hallett,Maverick,maverick
-wesley-hu-1,Maverick,maverick,ROY,roy,Roy,roy
-ed-kung,Maverick,maverick,Too Bad,too-bad
-sean-doucette-1,Maverick,maverick,Thunder,thunder,Trail Mix,trail-mix
-paul-vilchez,Goose,goose,Maverick,maverick
-michael-wyrebek,Maverick,maverick
-ben-pries,Force,force,Maverick,maverick
-elizabeth-ruth-claridge-mackonis,Maverick,maverick
-olivia-webster,Maverick,maverick
-kim-chatterjee,Maverick,maverick
-cameron-dunn,Maverick,maverick
-alec-deslandes,Maverick,maverick
-jiarn-vasington,Maverick,maverick
-nick-assiouras,Maverick,maverick
-sean-lees,Maverick,maverick
-joseph-jojo-yung-noodle-arm-trump-lean-purp-hollywood-cochbain,Maverick,maverick
-karlo-yap,Maverick,maverick
-kerwin-yap,Maverick,maverick
-david-kaufman-2,Maverick,maverick
-jon-hallett,Maverick,maverick,Phoenix,phoenix,Still,still
-lucas-mckeown-1,Maverick,maverick
-nathan-klym,Goose,goose,Maverick,maverick,Thunder,thunder
-dan-kenny,Goose,goose,Maverick,maverick
-connor-gould,Maverick,maverick
-alex-peirce,Maverick,maverick,Viper,viper
-jonathan-wu,Goose,goose,Maverick,maverick,NADS,nads,ROY,roy,Roy,roy
-maynald-savatdy,Goose,goose,Maverick,maverick
-tristan-rea,Maverick,maverick
 andre-arsenault,LAB,lab,Mephisto,mephisto,Mockingbird,mockingbird
 antoine-rousseau,Mephisto,mephisto,Quake,quake,Quest,quest
 basile-limoges,Mephisto,mephisto,Mockingbird,mockingbird
@@ -1370,6 +1265,7 @@ christophe-tremblay-joncas-1,LAB,lab,Mephisto,mephisto,Mockingbird,mockingbird
 eliott-heloir,Mephisto,mephisto,New Scotland Blues,beast,Titane (Open),titane-open
 felix-leonard,Mephisto,mephisto,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 gabriel-monfette,LAB,lab,Magma,magma,Mephisto,mephisto,Mockingbird,mockingbird,No In Cut,no-in-cut,Quake,quake
+hayden-stone,Mephisto,mephisto
 jakob-brisette,Club M - Manic,club-m-manic,Mephisto,mephisto
 jonathan-hayduk-1,Blackfish,blackfish,Happy Campers,happy-campers,Mephisto,mephisto,Vortex Open,vortex,Vortex Women,vortex
 julien-senechal,Club M - Magma,club-m-magma,LAB,lab,Mephisto,mephisto
@@ -1394,7 +1290,7 @@ maxime-garros,Mephisto,mephisto
 francis-beliveau,Mephisto,mephisto,NSOM 2,nsom-2,NSOM,nsom
 christian-parsons,Best Before,best-before,Max Power,max-power,Max Power,team-name,Mephisto,mephisto,Still,still
 shawn-st-jean-timmins,Mephisto,mephisto,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
-david-tremblay-1,Mephisto,mephisto,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,Sriracha,sriracha
+david-tremblay-1,Mephisto,mephisto,NSOM 1,nothing-sexier-than-old-montrealers-nsom,Sriracha,sriracha
 antoine-genest,Mephisto,mephisto,Mockingbird,mockingbird,No In Cut,no-in-cut,Époq,epoq
 philippe-boisvert,Mephisto,mephisto
 rhett-vernon-jarvis,Mephisto,mephisto
@@ -1405,7 +1301,7 @@ mark-zimmerl,Mephisto,mephisto,Shepherds,shepherds
 cedric-aubut,Club M - Magma,club-m-magma,Magma,magma,Mephisto,mephisto
 david-beauchesne,Cherry Bomb,cherry-bomb,Mephisto,mephisto,Sriracha,sriracha
 tim-tsang,Furious George,furious-george,Mephisto,mephisto
-joseph-genest-1,Elements,elements,Mephisto,mephisto,Mockingbird,mockingbird,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,No In Cut,no-in-cut,Origine Open,origine,Origine Women,origine,Quake,quake
+joseph-genest-1,Elements,elements,Mephisto,mephisto,Mockingbird,mockingbird,NSOM 1,nothing-sexier-than-old-montrealers-nsom,No In Cut,no-in-cut,Origine Open,origine,Origine Women,origine,Quake,quake
 frederic-bredard,Mephisto,mephisto
 francis-martel,Club M - MESA,club-m-mesa,Magma,magma,Mephisto,mephisto,Montreal Old Star,montreal-old-star
 anis-chikh,Mephisto,mephisto,Quake,quake
@@ -1425,12 +1321,11 @@ jean-guillemette-1,Mephisto,mephisto,T-Rex,t-rex
 frederic-lapierre,Mephisto,mephisto
 alex-grignon,Club M - MESA,club-m-mesa,Mephisto,mephisto,T-Rex,t-rex
 felix-theroux-joncas,Club M - Manic,club-m-manic,Mephisto,mephisto,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
-julien-poitras-plante,Club M - Manic,club-m-manic,Mephisto,mephisto
 gabriel-laroche,Mephisto,mephisto,T-Rex,t-rex
 julien-fortier,Mephisto,mephisto
 alexandre-timothy,Mephisto,mephisto,Vénus,venus
 isabelle-lemay,Iris,iris,Mephisto,mephisto,Mystik,mystik,Sriracha,sriracha,Vintage,vintage
-vincent-gamache,Elements,elements,Mephisto,mephisto,Quake,quake,Époq,epoq
+vincent-gamache,Elements,elements,Mephisto,mephisto,Quake,quake
 esteban-eduardo-ceballos-gomez,Mephisto,mephisto
 andrew-barber,Nor'Easter,noreaster,OUT,out,Raft,raft,Shrike,shrike
 cedrik-labreche,OUT,out,Shrike,shrike
@@ -1456,6 +1351,7 @@ alec-arsenault,Nor'Easter,noreaster,Phoenix,phoenix
 alex-cameron-1,Ignite,ignite,Phoenix,phoenix,Shrike,shrike
 brandon-adibe,Phoenix,phoenix
 brian-ocallaghan,Iron Crow,iron-crow,Phoenix,phoenix,Still,still
+carson-turner,Maverick,maverick,Phoenix,phoenix,TFT,tft
 david-colic,Phoenix,phoenix,Shrike,shrike
 geoffrey-bevan,MUTX,mutx,Phoenix,phoenix
 jeremy-hill-1,Phoenix,phoenix
@@ -1463,6 +1359,7 @@ jonah-munoz,Ignite,ignite,Phoenix,phoenix,Shrike,shrike
 matt-obrien-1,Phoenix,phoenix,Shrike,shrike
 nick-boucher-1,Phoenix,phoenix
 paul-renaud,Phoenix,phoenix
+jon-hallett,Maverick,maverick,Phoenix,phoenix,Still,still
 leon-forest-nault,Phoenix,phoenix
 erich-phang-lyn,MMV,mmv,Phoenix,phoenix,Shrike,shrike
 craig-froats,Phoenix,phoenix
@@ -1477,6 +1374,7 @@ ben-mussell-2,Phoenix,phoenix
 scott-graham-2,Ignite,ignite,Phoenix,phoenix,SOUP,soup
 robert-schmidt,Phoenix,phoenix
 l-forest-nault,Phoenix,phoenix
+russ-nicolls,Maverick,maverick,Phoenix,phoenix,TFT,tft
 ryan-bauer,Phoenix,phoenix
 jan-gorski,Phoenix,phoenix,Still,still,Whiskeyjacks,whiskeyjacks
 brent-gerhart,Phoenix,phoenix,Still,still,Whiskeyjacks,whiskeyjacks
@@ -1487,6 +1385,7 @@ pierre-lemerle,Phoenix,phoenix
 colin-green,Phoenix,phoenix,Shepherds,shepherds,Still,still
 colin-froats,Phoenix,phoenix
 aidan-hayter,Phoenix,phoenix
+andrew-lefler,Jerk Factory,jerk-factory,Jerk Factory,pogey-train,Khaos,khaos,Maverick,maverick,NADS,nads,Phoenix,phoenix
 khalid-al-zahrani,Phoenix,phoenix,Shrike,shrike
 harrison-schwarzer,Phoenix,phoenix,Raft,raft
 evan-cole-1,Phoenix,phoenix
@@ -1717,7 +1616,6 @@ alexander-butler,Regiment,regiment,Storm,storm
 andrew-workman,New Scotland Blues,beast,Regiment,regiment
 brandon-kilfoy,Regiment,regiment
 cameron-penney,New Scotland Blues,beast,Regiment,regiment
-colin-mcdonell,Regiment,regiment
 craig-stoyles,New Scotland Blues,beast,Regiment,regiment,Storm,nl-storm,Storm,storm,Wreckhouse,wreckhouse
 dave-reddy-1,Regiment,regiment
 donald-pacholka,Regiment,regiment,Wreckhouse,wreckhouse
@@ -1728,99 +1626,11 @@ jeff-summers,Regiment,regiment
 keith-krieger,Regiment,regiment,Tempest,team-01-1375,Wreckhouse,wreckhouse
 marc-bennett,Regiment,regiment
 michael-walsh-3,Regiment,regiment
+mike-pineau,Regiment,regiment,Wreckhouse,wreckhouse
 nicholas-house,Regiment,regiment,Storm,nl-storm,Storm,storm,Wreckhouse,wreckhouse
 paolo-mascarin,Borderline,borderline,Dead Circus,tbd-269,Regiment,regiment,Wreckhouse,wreckhouse
 ryan-pickard,Regiment,regiment,Storm,storm
 william-kerr,New Scotland Blues,beast,Regiment,regiment
-arthur-chu,Magmarok,magmarok,ROY,roy,Roy,roy
-d-c-1,ROY,roy,Roy,roy
-dylan-mark-1,ROY,roy,Roy,roy
-edward-bredin,ROY,roy,Roy,roy
-eric-ye,ROY,roy,Roy,roy
-gavin-lee,ROY,roy,Roy,roy,Stud,synergy
-geerthan-srikantharajah,ROY,roy,Roy,roy
-hei-nam-tobias-chow,ROY,roy,Roy,roy
-j-s-3,ROY,roy,Roy,roy
-james-ho-1,ROY,roy,Roy,roy
-joel-poon,ROY,roy,Roy,roy
-joshua-dong,ROY,roy,Roy,roy
-justin-kim,ROY,roy,Roy,roy
-terrence-cheung,MMV,mmv,Magmarok,magmarok,ROY,roy,Roy,roy
-wilson-wang-1,Goose,goose,ROY,roy,Roy,roy
-patrick-meredith-karam,ROY,roy,Roy,roy
-adam-li,Maverick,maverick,ROY,roy,Roy,roy
-ryan-wong-1,ROY,roy,Roy,roy
-ochir-gansukh,ROY,roy,Roy,roy
-vishal-nikam,BOAT,boat,ROY,roy,Roy,roy,TORO Junior Women,toro-open,Uproar Open,uproar
-vlad-ilic,Energy,energy,ROY,roy,Roy,roy
-kelvin-huang,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,TORO Junior Women,toro-open,Uproar Open,uproar
-darren-teoh,ROY,roy,Roy,roy
-torja-istiaque,Grand Trunk,grand-trunk,ROY,roy,Roy,roy,Uproar Open,uproar
-bryan-chiu,Crux,crux,ROY,roy,Roy,roy
-james-choi,MMV,mmv,ROY,roy,Roy,roy
-joe-sismondo,ROY,roy,Roy,roy
-pavel-shering,Goose,goose,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-justin-lem,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-alexander-spafford,ROY,roy,Roy,roy,Uproar Open,uproar
-dylan-fonseca,BOAT,boat,Energy,energy,ROY,roy,Roy,roy,Uproar Open,uproar
-jason-sun,ROY,roy,Roy,roy
-chris-voorpostel,ROY,roy,Roy,roy
-mike-fullgraf,ROY,roy,Roy,roy
-james-grantis,ROY,roy,Roy,roy
-lucas-huang,ROY,roy,Roy,roy
-nasir-haider,ROY,roy,Roy,roy
-brian-niepage,BOAT,boat,ROY,roy,Roy,roy
-theo-wan,Goose,goose,Maverick,maverick,ROY,roy,Roy,roy
-dennis-dobrovolsky,ROY,roy,Roy,roy
-daniel-lindquist,ROY,roy,Roy,roy,Too Bad,too-bad
-richard-yu,ROY,roy,Roy,roy
-derek-wilson-1,ROY,roy,Roy,roy
-jay-mitchell,Crux,crux,ROY,roy,Roy,roy
-giancarlo-onorati,ROY,roy,Roy,roy
-aaron-cheung,ROY,roy,Roy,roy
-daniel-sigal-1,Goose,goose,ROY,roy,Roy,roy
-andrew-meehan,ROY,roy,Roy,roy,Shrike,shrike
-mark-virata,ROY,roy,Roy,roy
-benjamin-tanaka,ROY,roy,Roy,roy
-rob-jankowski,COAT,coat,ROY,roy,Roy,roy
-billy-leung,Max Power,max-power,ROY,roy,Roy,roy,Too Bad,too-bad
-ivan-yuen,Bingo & Chill,bingo-chill,NoBS,nobs,ROY,roy,Roy,roy
-max-van-der-weerd,ROY,roy,Roy,roy
-tuong-lam,ROY,roy,Roy,roy,TORO Junior Women,toro-open
-joshua-dawes,ROY,roy,Roy,roy
-andrew-tang-2,ROY,roy,Roy,roy
-raoul-tanyan,BOAT,boat,Max Power,max-power,Max Power,team-name,ROY,roy,Roy,roy
-justin-jo,ROY,roy,Roy,roy
-nick-hung,Backdraft,backdraft,ROY,roy,Roy,roy
-riley-lublow,Grand Trunk,grand-trunk,ROY,roy,Roy,roy
-uzair-mohiuddin,ROY,roy,Roy,roy,TORO Junior Women,toro-open
-neil-duchen,MMV,mmv,ROY,roy,Roy,roy,Trail Mix,trail-mix
-sharven-muralidharan,Goose,goose,Maverick,maverick,ROY,roy,Roy,roy
-nicolas-edwards,ROY,roy,Roy,roy
-natan-adelman,ROY,roy,Roy,roy
-michael-fan,ROY,roy,Roy,roy
-mike-danh,Maverick,maverick,ROY,roy,Roy,roy,Skerj,skerj
-edwin-nguyen,ROY,roy,Roy,roy,TORO Junior Women,toro-open
-andy-lu-1,ROY,roy,Roy,roy
-david-burden,ROY,roy,Roy,roy
-colin-mattison,ROY,roy,Roy,roy,Too Bad,too-bad,Viper,viper
-gordon-ly,ROY,roy,Roy,roy
-jonathan-chow-1,COAT,coat,ROY,roy,Roy,roy
-jason-lin-1,ROY,roy,Roy,roy,Skerj,skerj
-nathan-lo-1,ROY,roy,Roy,roy
-richardson-ng,ROY,roy,Roy,roy
-john-xia,Energy,energy,ROY,roy,Roy,roy,Uproar Open,uproar
-nathan-lee-4,ROY,roy,Roy,roy
-william-tan-1,ROY,roy,Roy,roy
-allan-ledesma,COAT,coat,ROY,roy,Roy,roy
-jethro-wu,ROY,roy,Roy,roy
-kody-jeung,ROY,roy,Roy,roy
-carlos-mo,ROY,roy,Roy,roy
-benjamin-tatur-1,ROY,roy,Roy,roy
-kevin-song-1,ROY,roy,Roy,roy
-aaron-alexander,Camp X 2019 Open,camp-x,ROY,roy,Roy,roy
-kingsley-hu,ROY,roy,Roy,roy
-ian-mcclean-2,Energy,energy,ROY,roy,Roy,roy,Uproar Open,uproar
 adam-leonard,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club
 alexis-nadeau,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club
 alexis-mael-goyette-maille,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club
@@ -1854,90 +1664,28 @@ marcus-bordage,Shrike,shrike
 shem-lau-chapdelaine,Nationals,nationals,Shrike,shrike
 thomas-dunnigan,Crank,crank,Ignite,ignite,Scorch,scorch,Shrike,shrike
 thomas-sattolo,Shrike,shrike
-donald-kwok,MMV,mmv,Too Bad,too-bad
-gregory-lang,Too Bad,too-bad
-harry-burkman,Too Bad,too-bad
-josh-chan,Too Bad,too-bad
-martin-cloake,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom,Nationals,nationals,Too Bad,too-bad
-neal-mckinnon,NADS,nads,Too Bad,too-bad
-rick-st-jean,TORO Junior Women,toro-open,Too Bad,too-bad
-ryan-mussell,Nationals,nationals,Too Bad,too-bad
-ryan-walsh-2,Surge,surge,Too Bad,too-bad
-ryan-wilson-1,Too Bad,too-bad
-lloyd-weema,Too Bad,too-bad
-mat-sipherd-1,Armour,armour,Too Bad,too-bad
-tushar-singh,NADS,nads,Republic,republic,Too Bad,too-bad,Viper,viper
-derek-sigurdson,FUEL,fuel,NoBS,nobs,Too Bad,too-bad
-ludwik-sobiesiak,Too Bad,too-bad
-patrick-mckelvey,Too Bad,too-bad
-peter-wilk,Phantoms,phantoms,Too Bad,too-bad
-noah-goldstein-1,Banana Cream Pie,banana-cream-pie,Too Bad,too-bad
-chris-ferguson-martin,Too Bad,too-bad
-chris-price,Too Bad,too-bad
-frank-menendez,Too Bad,too-bad,Vortex Open,vortex,Vortex Women,vortex
-myles-clinton,Armour,armour,Backdraft,backdraft,Too Bad,too-bad
-david-frey,Too Bad,too-bad
-justin-chan,Too Bad,too-bad
-alfred-chan,Too Bad,too-bad
-devin-mccabe-1,Too Bad,too-bad
-keith-mcrae-2,Too Bad,too-bad
-josh-mcphie-1,Too Bad,too-bad
-tam-nguyen-4,Too Bad,too-bad
-jeff-gula,Too Bad,too-bad
-ben-mussell,Too Bad,too-bad
-greg-seaton,Too Bad,too-bad
-don-colangelo,Bingo & Chill,bingo-chill,Too Bad,too-bad
-eric-wiehler-1,Too Bad,too-bad,Whiskeyjacks,whiskeyjacks
-andrew-thompson-4,Too Bad,too-bad
-chris-galt,Too Bad,too-bad
-van-hung-nguyen,Goose,goose,MMV,mmv,Too Bad,too-bad
-myles-latter,Too Bad,too-bad
-padraic-ryan,Max Power,max-power,Max Power,team-name,Too Bad,too-bad
-ernest-cortez,Max Power,max-power,Too Bad,too-bad
-anthony-slater-1,Bingo & Chill,bingo-chill,Max Power,max-power,Max Power,team-name,Nox,nox,Too Bad,too-bad
-graeme-moffat-1,Too Bad,too-bad
-stephen-frey,Too Bad,too-bad
-saleh-mohamed,Too Bad,too-bad
-calvin-ho,Max Power,max-power,Max Power,team-name,Too Bad,too-bad
-matthew-frederick,Too Bad,too-bad
-richard-macklem,Too Bad,too-bad
-david-washer,Too Bad,too-bad
-ben-horgan-1,Too Bad,too-bad
-oscar-bodzeta,Too Bad,too-bad
-geoffrey-egger,Banana Cream Pie,banana-cream-pie,Too Bad,too-bad
-peter-washer,Too Bad,too-bad
-craig-weber,Too Bad,too-bad
-peter-hawkings,Bingo & Chill,bingo-chill,Too Bad,too-bad
-james-grantis-1,Too Bad,too-bad
-rob-lee,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,ReUnion,reunion,Too Bad,too-bad
-mat-sipherd,Too Bad,too-bad
-elan-swartz-1,Goose,goose,Too Bad,too-bad
-jason-duiella,Midnight Release,midnight-release,Too Bad,too-bad
-ryan-ng,Too Bad,too-bad
-curtis-clack,Backdraft,backdraft,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Too Bad,too-bad
-josh-mcphie,Goose,goose,Too Bad,too-bad
-steven-jefferys-1,Too Bad,too-bad
-nelson-tuen,Too Bad,too-bad
-chinh-hoang-1,Too Bad,too-bad
 arthur-lau,CarJam,carbon,Carbon,carbon,Lit,lit,Whiskeyjacks,whiskeyjacks
 brennan-weaver,Sting,sting,Whiskeyjacks,whiskeyjacks
 bryce-geeraert,Whiskeyjacks,whiskeyjacks
 charles-dourado,Bunny Thugs,bunny-thugs,Koi,koi,Lit,lit,Whiskeyjacks,whiskeyjacks
 cody-wunder,Whiskeyjacks,whiskeyjacks
+cole-digel,Bunny Thugs,bunny-thugs,Max Power,team-name,RUT,rut,Whiskeyjacks,whiskeyjacks
 dallen-mohagen,Alberta Flatball Club,alberta-flatball-club,Lit,lit,New Scotland Blues,beast,Rogue Hippo,rogue-hippo,Whiskeyjacks,whiskeyjacks
 ian-mintz,Cannons: Junior Open,cannons-m,Whiskeyjacks,whiskeyjacks
 jason-stepp,Cannons: Junior Open,cannons-m,Whiskeyjacks,whiskeyjacks
 jedediah-heal-1,Cannons: Junior Open,cannons-m,Whiskeyjacks,whiskeyjacks
 jeff-russon,Whiskeyjacks,whiskeyjacks
 keith-letendre,Lit,lit,Phantoms,phantoms,Spectrum,spectrum,Whiskeyjacks,whiskeyjacks
+ken-truong,CarJam,carbon,Carbon,carbon,Lit,lit,Whiskeyjacks,whiskeyjacks
 michael-huynh-1,CarJam,carbon,Carbon,carbon,Whiskeyjacks,whiskeyjacks
+mike-szwarz-1,Phantoms,phantoms,Whiskeyjacks,whiskeyjacks
 nick-beck,Whiskeyjacks,whiskeyjacks
 pavel-linkov,Whiskeyjacks,whiskeyjacks
 stanley-vong,Whiskeyjacks,whiskeyjacks
 trevor-richards,Whiskeyjacks,whiskeyjacks
 alyssa-mason,6ixers,6ixers,PPF,ppf
 brittney-dos-santos,6ixers,6ixers,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
-carla-difilippo,6ixers,6ixers,Energy,energy,TORO Junior Women,toro-open,TORO Open,toro,Terra,terra,Uproar Open,uproar,Wild,wild,lowercase,lowercase
+carla-difilippo,6ixers,6ixers,Energy,energy,TORO Junior Women,toro-open,TORO Open,toro,Terra,terra,Uproar Open,uproar,Wildish,wild,lowercase,lowercase
 christine-jurychuk,6ixers,6ixers,Lotus,lotus
 cindy-truong,6ixers,6ixers,PPF,ppf
 hannah-dawson-4,6ixers,6ixers
@@ -1950,22 +1698,26 @@ lauren-kimura,6ixers,6ixers,Nagano '98,nagano-98,Traffic,traffic
 molly-lewis,6ixers,6ixers,Lotus,lotus,MUTX,mutx
 neelima-basra,6ixers,6ixers,PPF BEEs,ppf-bees,TOX6ix,tox6ix
 nicolette-bertsch,6ixers,6ixers,Lily,lily
+rachel-cooc,6ixers,6ixers,TORO Junior Women,toro-open
 sara-mar,6ixers,6ixers,TORO Open,toro,TOX6ix,tox6ix
 sarah-bobak-1,6ixers,6ixers,Capitals,capitals,Nagano '98,nagano-98,PPF,ppf,Stella A,stella-a
 tyama-lyall,6ixers,6ixers,TORO Junior Women,toro-open,TOX6ix,tox6ix,Uproar Open,uproar
+veera-sethuraman,6ixers,6ixers,Firefly,firefly,MMV,mmv,The Collective,the-collective
 wynne-gee,6ixers,6ixers,Stella A,stella-a,Stella,stella,Wicked West,wicked-west
 jonah-guerin-1,6ixers,6ixers
 amy-lam,Fusion,fusion,Nonsuch,nonsuch
+arabella-brudney-2,Fusion,fusion
 britney-griffiths,Fusion,fusion,Mint,mint
 caitlin-cho,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 carmen-lee-chochinov,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Zephyr,zephyr
+carol-jean-wong-1,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 elan-chochinov,Fusion,fusion
-emily-cho-2,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
 emily-forrest,Fusion,fusion
 jade-sharpe,Fusion,fusion
 joely-valencerina,Fusion,fusion
 karen-hatch-1,Fusion,fusion
 katrina-freiling,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
+kiersten-hilland-4,Fusion,fusion
 krista-aitken,Fusion,fusion
 laura-hatch,Fusion,fusion,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 lauren-cogan,Fusion,fusion,Red River Rebellion,red-river-rebellion
@@ -2070,6 +1822,7 @@ gabrielle-comtois-1,Iris,iris,Volt,volt
 jessie-grignon-tomas,Club M - Manic,club-m-manic,Iris,iris
 julia-biris,Iris,iris,TORO Junior Women,toro-open,TORO Open,toro
 julia-topart,Iris,iris,Quakers,quakers,Qub,qub
+kimberly-morin-coulombe,6ixers,6ixers,Iris,iris,No In Cut,no-in-cut,Storm,storm
 laure-drouin-jacques,Iris,iris,Vénus,venus
 laurence-champagne,Iris,iris,Storm,storm
 marie-genest,Iris,iris,No In Cut,no-in-cut
@@ -2080,8 +1833,9 @@ nyna-prevost,Iris,iris,Vénus,venus
 penelope-robert,Iris,iris,Qub,qub,Titane (Women),titane-women
 roxanne-goderre,Iris,iris,Qub,qub
 sandra-williams,Animals,animals,Club M - Manic,club-m-manic,EXO,exo,Iris,iris,Storm,storm
+shaunagh-howard,Iris,iris,Storm,storm,Vénus,venus
 virginie-cote,EXO,exo,Iris,iris
-virginie-maltais,Iris,iris,Qub 2021,qub-2021,Quest,quest
+virginie-maltais,Iris,iris,Quest,quest
 jean-philippe-riopel,Club M - Manic,club-m-manic,Iris,iris,LAB,lab,Mockingbird,mockingbird,Époq,epoq
 h-skrotzky-boisvert,EXO,exo,Iceberg,iceberg,Iris,iris,Montreal Old Star,montreal-old-star,Époq,epoq
 kate-beaulieu,Iris,iris,Qub,qub
@@ -2089,7 +1843,6 @@ alexandra-picard,Iris,iris,Qub,qub
 anne-bisson,Iris,iris,Qub,qub
 janique-arsenault,Iceberg,iceberg,Iris,iris,Montreal Old Star,montreal-old-star,Époq,epoq
 sophie-dagenais-1,Iris,iris
-kimberly-morin-coulombe,6ixers,6ixers,Iris,iris,No In Cut,no-in-cut,Storm,storm
 melissa-poulin-cadovius,Iris,iris,LAB,lab,Storm,storm,Vintage,vintage,Époq,epoq
 marie-tremblay-paradis,Iris,iris,Qub,qub
 marianne-pilon,Iris,iris,Qold,qold,Qub,qub
@@ -2117,6 +1870,7 @@ tammy-do,KoiSHH,koishh,Koi,koi,Rolling Thunder Women,rolling-thunder-women,Uproa
 yvette-ni,KoiSHH,koishh
 agnes-chu,Lotus,lotus,PPF,ppf
 benedict-wong,PPF,ppf,TOX6ix,tox6ix
+cynthia-deng,PPF,ppf,TORO Junior Women,toro-open,Uproar Open,uproar
 eastelle-ding,Nox,nox,PPF,ppf,Uproar Open,uproar
 gillian-wu,PPF,ppf,Uproar Open,uproar
 grace-wang-3,PPF,ppf
@@ -2124,8 +1878,8 @@ hannah-sholtz,Crux,crux,PPF,ppf
 ishika-kaushal,PPF,ppf
 izabela-batko,PPF BEEs,ppf-bees,PPF,ppf
 jocelyn-li-1,MMV,mmv,PPF,ppf
-kathryn-marcelino,PPF,ppf,TOX6ix,tox6ix
 lillie-sun-1,PPF,ppf
+lydia-ji,PPF,ppf
 madeline-chan,PPF,ppf,Uproar Open,uproar
 molly-kojder-1,Legendairy,legendairy,PPF,ppf
 roxine-kee,PPF,ppf
@@ -2143,7 +1897,7 @@ emma-currie,Lily,lily,Lotus,lotus,PPF,ppf
 jaime-anderson,PPF,ppf
 dylan-conway,PPF,ppf,TORO Open,toro
 lucy-chow,Nagano '98,nagano-98,PPF,ppf,SOUP,soup,TORO Open,toro
-kimberly-tee,Notorious KWG,notorious-kwg,PPF,ppf,Traffic,traffic,Wild,wild
+kimberly-tee,Notorious KWG,notorious-kwg,PPF,ppf,Traffic,traffic,Wildish,wild
 stephanie-hall-2,PPF,ppf,Skerj,skerj
 courtney-benvenuti,PPF,ppf,StellO,stello,TFT,tft,Terra,terra,lowercase,lowercase
 brianna-vandergriendt,PPF,ppf,Stella,stella,lowercase,lowercase
@@ -2161,7 +1915,7 @@ stephanie-cole-1,Luna Ultimate,luna-ultimate,PPF,ppf,StellO,stello,Stella A,stel
 stephanie-higgins,PPF,ppf,TFT,tft,Thrift Shop,thrift-shop
 dayna-perry-1,PPF,ppf
 sandra-hill,Braun Squad,braun-squad,PPF,ppf,Thrift Shop,thrift-shop,lowercase,lowercase
-adrianna-rowe-1,6ixers,6ixers,PPF,ppf,Wild,wild
+adrianna-rowe-1,6ixers,6ixers,PPF,ppf,Wildish,wild
 tawnya-gonzalez,Capitals,capitals,PPF,ppf,lowercase,lowercase
 darcy-drummond,Capitals,capitals,PPF,ppf,TFT,tft
 amanda-chiu,PPF,ppf
@@ -2177,7 +1931,7 @@ glennis-nicolls,Lotus,lotus,PPF,ppf,TFT,tft
 sara-udow,Capitals,capitals,PPF,ppf,lowercase,lowercase
 jarvie-clancy,PPF,ppf,Storm,storm
 sarah-kidd,6ixers,6ixers,Capitals,capitals,PPF,ppf,TFT,tft,lowercase,lowercase
-laura-harding,PPF,ppf,Prairie Fire,dyna,Wild,wild
+laura-harding,PPF,ppf,Prairie Fire,dyna,Wildish,wild
 neenah-navasero,Braun Squad,braun-squad,Notorious KWG,notorious-kwg,PPF,ppf,Queen Ps,queen-ps,lowercase,lowercase
 brianna-kubinec,Max Power,max-power,PPF,ppf,StellO,stello
 samantha-cheung,Lily,lily,Lotus,lotus,PPF,ppf,TOX6ix,tox6ix
@@ -2189,7 +1943,6 @@ amanda-auyeung,PPF,ppf
 nyssa-biedermann,PPF,ppf
 dorothy-skonieczka,PPF,ppf,Thunder,thunder
 jessica-wu,Lily,lily,PPF,ppf,TOX6ix,tox6ix
-samantha-esteves,PPF,ppf
 jessica-benson-1,PPF,ppf
 amelie-bergeron,Iris,iris,Qub 2021,qub-2021,Qub,qub
 andreanne-proulx,QrinQué,qrinque,Qub 2021,qub-2021,Qub,qub,Quest,quest
@@ -2207,8 +1960,9 @@ roxanne-couture-dube,Qub 2021,qub-2021,Qub,qub
 sabrina-cote-scuvee,Quasar,quasar,Qub 2021,qub-2021
 sandrine-boucher,QrinQué,qrinque,Quakers,quakers,Qub 2021,qub-2021,Qub,qub
 sandrine-laurent,Qarma 2017,qarma-2017,Qub 2021,qub-2021,Qub,qub
-michele-grenier,Qub 2021,qub-2021,Qub,qub
+stephanie-gauthier,QrinQué,qrinque,Qub 2021,qub-2021,Quest,quest
 catherine-denis-1,Origine Open,origine,Origine Women,origine,Qub 2021,qub-2021
+michele-grenier,Qub 2021,qub-2021,Qub,qub
 camille-bizeau,Origine Open,origine,Origine Women,origine,Qub 2021,qub-2021
 juliette-denis,Qub 2021,qub-2021,Qub,qub
 ariane-pepin-1,Quakers,quakers,Qub 2021,qub-2021,Qub,qub
@@ -2220,6 +1974,7 @@ catherine-liang,Salty,salty
 chiara-ferrero-wong,Salty,salty
 claire-genest,Salty,salty,Tempest,team-01-1375
 desta-shaw-naka,Salty,salty,Tyrannosaurus Rad,t-rad
+elizabeth-weld,Salty,salty
 emily-lamoureux,Salty,salty,Zephyr,zephyr
 jennie-korus,Anchor,anchor-ultimate,Lotus,lotus,Salty,salty,Wendigo,wendigo
 jessie-brown,1778 AT,tbd-207,Salty,salty,StellO,stello
@@ -2260,7 +2015,6 @@ erika-turner,Kitchen Party,kitchen-party,Salty,salty,The Collective,the-collecti
 jennifer-archibald,Salty,salty
 shannon-nudds,Salty,salty
 cyra-belbin,Anchor,anchor-ultimate,Kitchen Party,kitchen-party,Salty,salty
-elizabeth-weld,Salty,salty
 rachel-doucet,Salty,salty
 hana-nelson,Salty,salty,The Collective,the-collective
 alexandra-nelson,1778 AT,tbd-207,Salty,salty,The Collective,the-collective
@@ -2291,6 +2045,7 @@ justine-robillard,Luna Ultimate,luna-ultimate,Stella,stella,Wicked East,wicked-e
 kaylee-sparks,Capitals,capitals,Stella A,stella-a,Stella,stella
 reegan-belanger-1,Stella,stella,Wicked West,wicked-west
 samantha-green-1,Capitals,capitals,StellO,stello,Stella A,stella-a,Stella,stella
+sandy-ma-1,Stella,stella
 hannah-dawson-1,6ixers,6ixers,Capitals,capitals,Nor'Easter,noreaster,Stella A,stella-a,Stella,stella
 alisha-zhao,Capitals,capitals,Iris,iris,StellO,stello,Stella A,stella-a,Stella,stella
 anne-martine-doucet,Stella A,stella-a,Stella,stella
@@ -2307,7 +2062,7 @@ cassie-berquist,Eclipse,eclipse,Luna Ultimate,luna-ultimate,StellO,stello,Stella
 kathryn-pohran-1,Shhippos,shhippos,Stella A,stella-a,Stella,stella,Traffic,traffic
 carrie-lugg,StellO,stello,Stella A,stella-a,Stella,stella
 natasha-cloutier,Stella,stella,Wicked East,wicked-east
-heather-ambery,'Berta,berta,Iris,iris,Stella A,stella-a,Stella B,stella-b,Stella,stella,Vénus,venus,Wild,wild
+heather-ambery,'Berta,berta,Iris,iris,Stella A,stella-a,Stella B,stella-b,Stella,stella,Vénus,venus,Wildish,wild
 vivianne-fortin,Capitals,capitals,Stella A,stella-a,Stella,stella
 lauren-polowyk-1,StellO,stello,Stella A,stella-a,Stella,stella,lowercase,lowercase
 sam-lee-6,Luna Ultimate,luna-ultimate,Nor'Easter,noreaster,StellO,stello,Stella A,stella-a,Stella,stella
@@ -2383,12 +2138,15 @@ helen-eifert-1,Stella A,stella-a,Stella B,stella-b,Stella,stella
 rachel-ng,Luna Ultimate,luna-ultimate,StellO,stello,Stella,stella
 sonia-komenda,Stella,stella
 alex-benedict,Stella,stella
+andrea-moir-1,Traffic,traffic
 brianne-wager,Fable,fable,Rolling Thunder Women,rolling-thunder-women,Traffic,traffic,Zephyr,zephyr
 camille-alvarez,Koi,koi,Sneaky House Hippos,sneaky-house-hippos,Traffic,traffic,Vesta,vesta,Vintage Open,vertigo,Vintage Women,vertigo-jwomen
-catherine-hui-1,Traffic,traffic
+catherine-menzies,Traffic,traffic
 cheryl-andre-1,Traffic,traffic
 daisy-lin,Storm,storm,Traffic,traffic,Vénus,venus
+emma-best,Mischief Women,mischief-women,Sneaky House Hippos,sneaky-house-hippos,Traffic,traffic
 helena-tremblay,Traffic,traffic
+jaimie-kot,Traffic,traffic
 jessica-rockliff,Traffic,traffic,Zephyr,zephyr
 jessie-tai,Rolling Thunder Women,rolling-thunder-women,Traffic,traffic,Wendigo,wendigo,Zephyr,zephyr
 jocelyn-danie-proby,Mischief Women,mischief-women,Sneaky House Hippos,sneaky-house-hippos,Traffic,traffic
@@ -2397,10 +2155,11 @@ katherine-ortega,Traffic,traffic
 madison-ong,Bunny Thugs,bunny-thugs,Fusion,fusion,Traffic,traffic,Wheaties,sub-machine
 monica-hsu,The Super Friends,the-super-friends,Traffic,traffic,Vintage Women,vertigo-jwomen,Vortex Open,vortex,Vortex Women,vortex
 naomi-morcilla,Traffic,traffic
+nicola-parker,Happy Campers,happy-campers,Homegrown,homegrown,Traffic,traffic
 oliana-chan,Bonfire: Junior Women,bonfire-junior-women,Traffic,traffic
 sarah-norton-1,Flurry,flurry,Traffic,traffic
 stephanie-siu,Mischief Women,mischief-women,Traffic,traffic
-terri-whitehead,Cannons: Junior Open,cannons-m,Cannons: Junior Women,cannons-f,Homegrown,homegrown,Prairie Fire,dyna,Traffic,traffic,Wild,wild
+terri-whitehead,Cannons: Junior Open,cannons-m,Cannons: Junior Women,cannons-f,Homegrown,homegrown,Prairie Fire,dyna,Traffic,traffic,Wildish,wild
 allison-short,Sneaky House Hippos,sneaky-house-hippos,Traffic,traffic,Zephyr,zephyr
 julia-zhang,Traffic,traffic
 elizabeth-hand,Traffic,traffic
@@ -2513,60 +2272,60 @@ shomir-chaudhuri,Traffic,traffic
 hunter-fraser,Traffic,traffic
 nagisa-fukuoka-2,Traffic,traffic
 denise-su,Shhippos,shhippos,Traffic,traffic
-nicola-parker,Happy Campers,happy-campers,Homegrown,homegrown,Traffic,traffic
 jessica-chung,T.T,tt,Traffic,traffic
 lisa-wong,Shhippos,shhippos,Traffic,traffic
 kailin-chang-1,Banana Cutters,fight-club,Sneaky House Hippos,sneaky-house-hippos,Traffic,traffic
 carly-sakai,Team Fisher Price,team-fisher-price,Traffic,traffic
-alana-schick,Annie Oakley,annie-oakley,Flux,flux,Lit,lit,Spectrum,spectrum,Wild,wild
-amanda-ho-1,'Berta,berta,Flurry,flurry,Flux,flux,Wild,wild
-amanda-wang-2,Lit,lit,Wild,wild
-cassandra-husband,Wild,wild
-charis-fung,'Berta,berta,Prairie Fire,dyna,Wild,wild
-eva-tam,'Berta,berta,Prairie Fire,dyna,Wild,wild
-hayley-lueke-1,'Berta,berta,Prairie Fire,dyna,Wild,wild
-jana-schissel,'Berta,berta,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum,Wild,wild
-jill-gillespie-1,'Berta,berta,Prairie Fire,dyna,Wild,wild
-jill-kowalchuk,'Berta,berta,Prairie Fire,dyna,Wild,wild
-megan-gatzsch,Annie Oakley,annie-oakley,Spectrum,spectrum,Wild,wild
-melanie-aikenhead,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum,Terra,terra,Wild,wild
-robyn-bosnyak,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo,Wild,wild
-sarah-de-vries,Flurry,flurry,Wild,wild
-sarah-kapiczowski,Lit,lit,Wild,wild
-tanya-beasley,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo,Wild,wild
-tate-thornton,Flurry,flurry,Lit,lit,Wild,wild
-tricia-kent,Flurry,flurry,Wild,wild
-tze-yuin-tay,'Berta,berta,Prairie Fire,dyna,Spectrum,spectrum,Wild,wild
-vicky-barnowski,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum,Wild,wild
-tina-ho,Annie Oakley,annie-oakley,Prairie Fire,dyna,Wild,wild
-rhiannon-kuhn,'Berta,berta,Flux,flux,Prairie Fire,dyna,Wild,wild
-hailey-mcinnis,Surge,surge,Wild,wild
-meagan-doyle,Nor'Easter,noreaster,Notorious KWG,notorious-kwg,Prairie Fire,dyna,Stella A,stella-a,Thrift Shop,thrift-shop,Wild,wild
-kim-taylor,Wild,wild
-jenny-breaks,'Berta,berta,Annie Oakley,annie-oakley,MASH,mash,Prairie Fire,dyna,Wild,wild
-sophia-dayfoot,Wild,wild
-elise-tissandier,Cannons: Junior Women,cannons-f,Prairie Fire,dyna,Wild,wild
-danny-leavey,Wild,wild
-brandon-thornhill,Wild,wild
-felicia-yang,Wild,wild
-samantha-wool,Wild,wild
-alyssa-perez,Wild,wild
-lindsey-mazur,Wild,wild
-stephanie-pritchard,Wild,wild
-alexa-cohen,Wild,wild
-mia-tess,Wild,wild
-derek-vigar,Wild,wild
-louie-weng-1,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar,Wild,wild
-sam-watt,Energy,energy,Wild,wild
-william-crawford-1,Wild,wild
-tanish-tanday,Wild,wild
-nathan-roorda,Wild,wild
-jaden-belliveau,Wild,wild
-jonah-macadangdang,Wild,wild
-liam-mellett,Wild,wild
-derrick-cho,Energy,energy,Wild,wild
-griffin-mckee,Wild,wild
-evan-phillips-2,Shepherds,shepherds,TORO Junior Women,toro-open,TORO Open,toro,Wild,wild
+alana-schick,Annie Oakley,annie-oakley,Flux,flux,Happy Campers,happy-campers,Lit,lit,Spectrum,spectrum,Wildish,wild
+amanda-ho-1,'Berta,berta,Flurry,flurry,Flux,flux,Wildish,wild
+amanda-wang-2,Lit,lit,Wildish,wild
+bethany-heslinga,Wildish,wild
+cassandra-husband,Wildish,wild
+charis-fung,'Berta,berta,Prairie Fire,dyna,Wildish,wild
+eden-vanderlaan,Flurry,flurry,Wildish,wild
+erin-bethune-1,Flurry,flurry,Rogue Hippo,rogue-hippo,Wildish,wild
+jadyn-martin,Wildish,wild
+jill-gillespie-1,'Berta,berta,Prairie Fire,dyna,Wildish,wild
+megan-gatzsch,Annie Oakley,annie-oakley,Spectrum,spectrum,Wildish,wild
+melanie-aikenhead,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum,Terra,terra,Wildish,wild
+robyn-bosnyak,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo,Wildish,wild
+sarah-de-vries,Flurry,flurry,Wildish,wild
+sarah-kapiczowski,Lit,lit,Wildish,wild
+tate-thornton,Flurry,flurry,Lit,lit,Wildish,wild
+tricia-kent,Flurry,flurry,Wildish,wild
+tze-yuin-tay,'Berta,berta,Prairie Fire,dyna,Spectrum,spectrum,Wildish,wild
+vicky-barnowski,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum,Wildish,wild
+tina-ho,Annie Oakley,annie-oakley,Prairie Fire,dyna,Wildish,wild
+rhiannon-kuhn,'Berta,berta,Flux,flux,Prairie Fire,dyna,Wildish,wild
+hailey-mcinnis,Surge,surge,Wildish,wild
+meagan-doyle,Nor'Easter,noreaster,Notorious KWG,notorious-kwg,Prairie Fire,dyna,Stella A,stella-a,Thrift Shop,thrift-shop,Wildish,wild
+eva-tam,'Berta,berta,Prairie Fire,dyna,Wildish,wild
+kim-taylor,Wildish,wild
+jenny-breaks,'Berta,berta,Annie Oakley,annie-oakley,MASH,mash,Prairie Fire,dyna,Wildish,wild
+sophia-dayfoot,Wildish,wild
+elise-tissandier,Cannons: Junior Women,cannons-f,Prairie Fire,dyna,Wildish,wild
+danny-leavey,Wildish,wild
+brandon-thornhill,Wildish,wild
+felicia-yang,Wildish,wild
+samantha-wool,Wildish,wild
+alyssa-perez,Wildish,wild
+lindsey-mazur,Wildish,wild
+stephanie-pritchard,Wildish,wild
+alexa-cohen,Wildish,wild
+mia-tess,Wildish,wild
+derek-vigar,Wildish,wild
+louie-weng-1,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar,Wildish,wild
+sam-watt,Energy,energy,Wildish,wild
+william-crawford-1,Wildish,wild
+tanish-tanday,Wildish,wild
+nathan-roorda,Wildish,wild
+jaden-belliveau,Wildish,wild
+jonah-macadangdang,Wildish,wild
+liam-mellett,Wildish,wild
+derrick-cho,Energy,energy,Wildish,wild
+griffin-mckee,Wildish,wild
+josh-beasant,Wildish,wild
+evan-phillips-2,Shepherds,shepherds,TORO Junior Women,toro-open,TORO Open,toro,Wildish,wild
 anne-sophie-lenglet,BoD,bod,LAB,lab,Montreal Old Star,montreal-old-star,Storm,storm,Vintage,vintage
 claudie-turcotte,BoD,bod,LAB,lab,Vega,vega,X-Squad,x-squad
 francoise-delisle,BoD,bod,Mystik,mystik,Vintage,vintage
@@ -2574,14 +2333,15 @@ genevieve-dumont-carey-1,BoD,bod,Vintage,vintage
 janick-st-cyr,BoD,bod,LAB,lab,Sriracha,sriracha,Vintage,vintage
 julie-beaulac,BoD,bod,LAB,lab,Sriracha,sriracha,Vintage,vintage
 julie-blais,BoD,bod,LAB,lab,Vintage,vintage
-julie-tremblay-mons,BoD,bod,LAB,lab,Montreal Old Star,montreal-old-star,NSOM,nsom,Vintage,vintage
+julie-tremblay-mons,BoD,bod,LAB,lab,Montreal Old Star,montreal-old-star,Vintage,vintage
 lauren-hunt,BoD,bod,Storm,storm,Vénus,venus
+melanie-prescott-gagnon,BoD,bod,Sriracha,sriracha,Storm,storm,Vintage,vintage
 melanie-roy-1,BoD,bod
 sanni-be,BoD,bod,MUTX,mutx,Vintage,vintage,Vénus,venus
 suzanne-wavroch,BoD,bod,Vintage,vintage
 antoine-lepagnol,BoD,bod,LAB,lab,Mockingbird,mockingbird,Montreal Old Star,montreal-old-star,NSOM 1,nothing-sexier-than-old-montrealers-nsom
 chuck-cantone,BoD,bod
-eric-preseault,BoD,bod,LAB,lab,Magma,magma,NSOM,nsom,Sriracha,sriracha
+eric-preseault,BoD,bod,LAB,lab,Magma,magma,Sriracha,sriracha
 frederick-guay,BoD,bod,NSOM 2,nsom-2,NSOM,nsom,Sriracha,sriracha
 mark-zimmerl-1,BoD,bod,NSOM 1,nothing-sexier-than-old-montrealers-nsom,Shepherds,shepherds,Titane (Open),titane-open
 philippe-camire,BoD,bod,Montreal Old Star,montreal-old-star,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
@@ -2617,17 +2377,14 @@ jerome-boucher,Elements,elements,NSOM 1,nothing-sexier-than-old-montrealers-nsom
 mathieu-bordeleau-1,NSOM 1,nothing-sexier-than-old-montrealers-nsom,Qold,qold,Époq,epoq
 nasser-mbae-vogel,BoD,bod,Mockingbird,mockingbird,NSOM,nsom,Époq,epoq
 yoland-fournier-cabot,Club M - Manic,club-m-manic,LAB,lab,Mockingbird,mockingbird,Époq,epoq
-fanny-rouleau,Qold,qold,Qub,qub,Quest,quest,Époq,epoq
-helene-paradis,Qold,qold,Quasar,quasar,Qub,qub,Époq,epoq
-shaunagh-howard,Iris,iris,Storm,storm,Vénus,venus,Époq,epoq
 jean-philippe-gerin,Qold,qold,Époq,epoq
-amy-tran,Banana Cutters,fight-club,Firefly,firefly
+ashley-savage,Firefly,firefly
 chantal-alary,Firefly,firefly
 dariene-cote-1,Firefly,firefly
 kari-bergmuller-1,Firefly,firefly
 liz-lapage,Firefly,firefly
-pamela-chalmers,Firefly,firefly
 serena-vandersteen,Firefly,firefly,Nonsuch,nonsuch
+tara-hull-1,Firefly,firefly
 adam-day,Firefly,firefly
 andrew-stevens-1,Firefly,firefly,Intrepid,intrepid
 danny-nguyen,Banana Cutters,fight-club,Firefly,firefly,Nonsuch,nonsuch
@@ -2671,7 +2428,6 @@ shane-tracy-1,Firefly,firefly
 charley-vallejo-anderson,Firefly,firefly
 daniel-greeley,Firefly,firefly
 jake-rifkin,Firefly,firefly
-veera-sethuraman,Firefly,firefly,MMV,mmv,The Collective,the-collective
 katie-palmer,Firefly,firefly
 kaitlin-stratton,Firefly,firefly
 dan-dzoan,Firefly,firefly
@@ -2697,17 +2453,20 @@ tanvi-dutta-gupta,Firefly,firefly
 cheryl-tain,Firefly,firefly
 karen-ge,Firefly,firefly
 kiana-hu,Firefly,firefly
+amy-szeto,Fable,fable,Forever Young,forever-young
 jean-chen-1,Forever Young,forever-young
 karen-street,Forever Young,forever-young
 kristin-yip,Forever Young,forever-young
-lydia-rasmusens-1,Forever Young,forever-young,T.T,tt
 pilar-ramirez,Forever Young,forever-young,Wendigo,wendigo
-eugene-lim-3,Fable,fable,Forever Young,forever-young
+sarah-cawston-stewart-1,Fable,fable,Forever Young,forever-young,Wendigo,wendigo,Zephyr,zephyr
+virginia-watson,Artemis,artemis,Forever Young,forever-young,Wendigo,wendigo
+eugene-lim-3,BOAT,boat,Fable,fable,Forever Young,forever-young
 farouk-zaba,Forever Young,forever-young,Mastadon,mastadon
 ken-su-2,Forever Young,forever-young
 oliver-chen,Fable,fable,Forever Young,forever-young,T.T,tt
 amy-machin,Happy Campers,happy-campers,Surge,surge
 anne-sofie-ahm,Happy Campers,happy-campers
+christie-thomson-1,Happy Campers,happy-campers,Homegrown,homegrown,Prairie Fire,dyna,Wildish,wild
 claire-remington,Happy Campers,happy-campers,Victoria Gulls n' Buoys,victoria-gull-n-buoys
 judith-weist,Happy Campers,happy-campers
 julia-bradshaw,Cannibals,cannibals,Happy Campers,happy-campers,Homegirl,homegirl,Surge,surge
@@ -2719,6 +2478,7 @@ blake-dyer,Happy Campers,happy-campers
 colby-james-smith,Cannibals,cannibals,Happy Campers,happy-campers,Republic,republic
 daniel-saunders,Cannibals,cannibals,Happy Campers,happy-campers,Republic,republic
 dustin-olender,Cannibals,cannibals,Happy Campers,happy-campers,Republic,republic
+jesse-sinclair-1,Happy Campers,happy-campers,Republic,republic
 joshua-perina,CarJam,carbon,Carbon,carbon,Happy Campers,happy-campers,Republic,republic,Rogue Hippo,rogue-hippo
 nathan-lam,Cannibals,cannibals,Happy Campers,happy-campers,Team Fisher Price,team-fisher-price
 pat-frisby,Cannibals,cannibals,Happy Campers,happy-campers,Republic,republic
@@ -2733,7 +2493,6 @@ kelly-maguren,Happy Campers,happy-campers
 alex-mann,Happy Campers,happy-campers
 jessica-nephin,Happy Campers,happy-campers
 annabel-howard,Happy Campers,happy-campers
-christie-thomson-1,Happy Campers,happy-campers,Homegrown,homegrown,Prairie Fire,dyna,Wild,wild
 kate-bergen,Happy Campers,happy-campers,Homegirl,homegirl
 jenny-wear,Cannibals,cannibals,Happy Campers,happy-campers,Homegirl,homegirl,Homegrown,homegrown,Surge,surge
 emily-mcconnell,Happy Campers,happy-campers,Homegrown,homegrown,Mastadon,mastadon,Surge,surge
@@ -2751,7 +2510,7 @@ denise-geib,Happy Campers,happy-campers,Homegirl,homegirl,Homegrown,homegrown,Su
 samantha-gavrilko-1,Happy Campers,happy-campers
 marina-aspen,Bunny Thugs,bunny-thugs,Cannibals,cannibals,Happy Campers,happy-campers
 bev-porter,Happy Campers,happy-campers,Throwback,throwback
-sarah-von-der-weid,Cannibals,cannibals,Happy Campers,happy-campers,Victoria Gulls n' Buoys,victoria-gull-n-buoys,Wild,wild
+sarah-von-der-weid,Cannibals,cannibals,Happy Campers,happy-campers,Victoria Gulls n' Buoys,victoria-gull-n-buoys,Wildish,wild
 alicia-fall,Happy Campers,happy-campers,Surge,surge
 donna-rose,Fable,fable,Happy Campers,happy-campers,Homegrown,homegrown,Zephyr,zephyr
 michelle-fiola,Happy Campers,happy-campers,Homegirl,homegirl,Homegrown,homegrown,Red River Rebellion,red-river-rebellion,Surge,surge
@@ -2776,16 +2535,21 @@ belinda-moy,Magmarok,magmarok,Valkyrie,valkyrie
 cristina-chern,Magmarok,magmarok
 eileen-lam,Magmarok,magmarok
 heidi-christensen,Banana Cream Pie,banana-cream-pie,Lily,lily,Lore,lore,Magmarok,magmarok
+joanna-leung-2,Magmarok,magmarok
 kelly-choo,Bingo & Chill,bingo-chill,Magmarok,magmarok
 kristene-griffis,Magmarok,magmarok
 linda-ngo,Magmarok,magmarok,Valkyrie,valkyrie
 magima-raj,Magmarok,magmarok
 stephanie-le-1,Magmarok,magmarok
+arthur-chu,Magmarok,magmarok
 ching-yeung,Magmarok,magmarok
+jeremy-chan-2,Magmarok,magmarok
+jon-david,Magmarok,magmarok,Skerj,skerj
 kevin-christensen-2,Magmarok,magmarok
 kyle-mineque,BOAT,boat,Magmarok,magmarok
 michael-tylman,Magmarok,magmarok
 patrick-mineque,Magmarok,magmarok
+terrence-cheung,MMV,mmv,Magmarok,magmarok
 andrea-proulx,Eclipse,eclipse,Max Power,max-power,Max Power,vax-power,Nebula,nebula,Thrift Shop,thrift-shop
 jocelyn-blazey,Backdraft,backdraft,Foxx,foxx,Max Power,vax-power,Nightfury Soars,nightfury-soars,Trail Mix,trail-mix
 kerri-kightley,Backdraft,backdraft,Foxx,foxx,Max Power,vax-power,Nightfury Soars,nightfury-soars,Rogue Squadron,rogue-squadron,Trail Mix,trail-mix
@@ -2797,7 +2561,10 @@ chris-loat,Best Before,best-before,Max Power,max-power,Max Power,team-name,Max P
 tom-jennings,Best Before,best-before,Max Power,max-power,Max Power,team-name,Max Power,vax-power,ReUnion,reunion
 hilary-blackett,Notorious KWG,notorious-kwg
 luana-jo,Notorious KWG,notorious-kwg
+andrew-higgins,Best Before,best-before,Maverick,maverick,NADS,nads,Notorious KWG,notorious-kwg,TFT,tft
+christopher-taylor,Goose,goose,Maverick,maverick,NADS,nads,Notorious KWG,notorious-kwg,Phoenix,phoenix
 dan-carlson-3,Notorious KWG,notorious-kwg,Silverbacks,the-silverbacks
+jon-berends,Maverick,maverick,Notorious KWG,notorious-kwg
 lucas-yuricek,Notorious KWG,notorious-kwg
 nate-martin,Notorious KWG,notorious-kwg
 alix-ranger-1,Luna Ultimate,luna-ultimate,Pushing Daisies,pushing-daisies
@@ -2825,11 +2592,14 @@ andrew-portwine,CarJam,carbon,Carbon,carbon,Goose,goose,Pushing Daisies,pushing-
 peter-roebuck-1,Pushing Daisies,pushing-daisies
 michelle-wang-1,Banana Cream Pie,banana-cream-pie,Lotus,lotus,ReUnion,reunion
 stacy-meikle,Backdraft,backdraft,Lily,lily,NoBS,nobs,ReUnion,reunion
+alessandro-colantonio,ReUnion,reunion
 andrew-meikle-1,Backdraft,backdraft,Houndd,houndd,NoBS,nobs,ReUnion,reunion
 ken-chan-1,ReUnion,reunion,Still,still
-peter-taylor-2,ReUnion,reunion,TFT,tft
+peter-taylor-2,BOAT,boat,ReUnion,reunion,TFT,tft
 rt-lechow,Banana Cream Pie,banana-cream-pie,MMV,mmv,ReUnion,reunion
 sean-henderson-1,Best Before,best-before,Max Power,team-name,NoBS,nobs,ReUnion,reunion
+sean-hutchins,Banana Cream Pie,banana-cream-pie,ReUnion,reunion
+tom-newman,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015,ReUnion,reunion
 josh-horton-1,ReUnion,reunion
 austin-reed,ReUnion,reunion
 kevin-lambert-1,ReUnion,reunion
@@ -2839,6 +2609,7 @@ josh-pirog,ReUnion,reunion
 kyle-davis-5,ReUnion,reunion
 luke-bonneville,ReUnion,reunion
 justin-mills,ReUnion,reunion
+rob-lee,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,ReUnion,reunion,Too Bad,too-bad
 rosemary-carlton,BoD,bod,ReUnion,reunion,Storm,storm,Storm,storm-112213,Vintage,vintage
 caroline-dore,ReUnion,reunion,Vega,vega,Vintage,vintage,X-Squad,x-squad
 kim-parizeault,ReUnion,reunion,Vega,vega
@@ -2858,7 +2629,7 @@ devin-beaton,Bunny Thugs,bunny-thugs,CarJam,carbon,Carbon,carbon,Whiskeyjacks,wh
 eko-wangsawidjaya,CarJam,carbon,Carbon,carbon,Spectrum,spectrum,Whiskeyjacks,whiskeyjacks
 eric-hochhalter,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,aberta-flatball-club,CarJam,carbon,Carbon,carbon
 greg-adamson,CarJam,carbon,Carbon,carbon,Rogue Hippo,rogue-hippo
-ken-truong,CarJam,carbon,Carbon,carbon,Lit,lit
+justin-lussier-1,CarJam,carbon,Carbon,carbon,Rogue Hippo,rogue-hippo
 mike-choi,CarJam,carbon,Carbon,carbon,Whiskeyjacks,whiskeyjacks
 patrick-macquarrie,CarJam,carbon,Carbon,carbon,Rogue Hippo,rogue-hippo,Throwback,throwback
 scott-durocher,CarJam,carbon,Carbon,carbon,Rogue Hippo,rogue-hippo
@@ -2899,8 +2670,8 @@ dave-bowes,Borderline,borderline,Dead Circus,tbd-269,Kitchen Party,kitchen-party
 greg-dennis,Borderline,borderline,Dead Circus,tbd-269
 jeff-barsalou,Dead Circus,tbd-269
 paul-trevor,Dead Circus,tbd-269,Kitchen Party,kitchen-party
+ryan-stewart-1,Borderline,borderline,Dead Circus,tbd-269,Kitchen Party,kitchen-party
 stuart-macdonald-1,Anchor,anchor-ultimate,Borderline,borderline,Dead Circus,tbd-269,Kitchen Party,kitchen-party
-alessandro-colantonio,Nationals,nationals
 alessandro-colonnier,Nationals,nationals
 andrew-pohran,Nationals,nationals
 bradley-fitzpatrick,Nationals,nationals
@@ -2908,9 +2679,11 @@ corey-beaton,Nationals,nationals
 david-oconnor-2,Nationals,nationals
 jordan-lester,Nationals,nationals
 joshua-morin,Nationals,nationals
+martin-cloake,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom,Nationals,nationals,Too Bad,too-bad
 martin-cottreau-1,Nationals,nationals
 matthieu-tanguay,Goose,goose,Nationals,nationals
 michael-colantonio,Nationals,nationals
+ryan-mussell,Nationals,nationals,Too Bad,too-bad
 teddy-brescacin,Nationals,nationals
 travis-davidson,Crank,crank,NADS,nads,Nationals,nationals,Raft,raft
 adam-beu,Nationals,nationals,Storm,storm
@@ -2944,20 +2717,19 @@ virath-chamroeun,Club M - MESA,club-m-mesa,Magma,magma,NSOM 1,nothing-sexier-tha
 yan-bouchard,FUEL,fuel,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
 yohan-baril,Arsenic ( women),arsenic-women,Arsenic (Open),arsenic-open,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom,New Scotland Blues,beast,Titane (Open),titane-open,Titane (Women),titane-women,Vortex Open,vortex,Vortex Women,vortex
 alexandre-dion,Qold,qold,Quack,quack,Quest,quest,Raft,raft
-f-carignan,Quack,quack
+felix-antoine-carignan,Quack,quack
 laos,Quack,quack
 laurence-ruelens-lepoutre,Quack,quack,Quake,quake,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 luc-harvey,Qold,qold,Quack,quack,Quantum,quantum,Quest,quest
 martin-forget,Elements,elements,Quack,quack,Quake,quake
 martin-murphy,Quack,quack,Quake,quake
 mathieu-desmarais,Qold,qold,QrinQué,qrinque,Quack,quack,Quest,quest
-mathieu-mercier,QrinQué,qrinque,Quack,quack,Quake,quake,Quantum,quantum,Quest,quest
 mathieu-ouellet,Quack,quack,Quake,quake,Quest,quest
 mikael-pare-chabot,QrinQué,qrinque,Quack,quack,Quake,quake
-pier-alexandre-reid,NSOM,nsom,Quack,quack,Quake,quake,Quakers,quakers
+pier-alexandre-reid,Quack,quack,Quake,quake,Quakers,quakers
 pierre-luc-desaulniers,Quack,quack,Quake,quake,Quest,quest
 simon-belanger-2,Elements,elements,Qold,qold,Quack,quack,Quake,quake,Quest,quest
-simon-pare,Quack,quack,Quake,quake
+simon-pare,Quack,quack,Quake,quake,T-Rex,t-rex
 vincent-marquis-1,Qold,qold,Quack,quack,Quantum,quantum
 yoan-lechasseur,Quack,quack,Quake,quake,Quantum,quantum
 matthew-knaupp,Quack,quack
@@ -2978,6 +2750,7 @@ gavan-schotzko,Quack,quack
 mitch-mueller,Quack,quack
 aaron-steele,Raft,raft,Still,still
 dan-ellenberger,Best Before,best-before,Borderline,borderline,NSOM,nsom,Still,still
+dan-yanke,Best Before,best-before,Maverick,maverick,Shepherds,shepherds,Still,still
 joel-landy,Best Before,best-before,Max Power,max-power,Still,still
 jonathan-haig,Still,still
 nick-cicci,DNA,dna,NADS,nads,Still,still
@@ -3012,6 +2785,15 @@ samuel-kennedy,Still,still
 amos-lee,Iron Crow,iron-crow,Raft,raft,Shrike,shrike,Still,still
 andy-collins-2,DNA,dna,Grizzle,grizzle,Muriqui,vancouver-masters,NADS,nads,Still,still
 stephen-armitage,Backdraft,backdraft,Best Before,best-before,Shepherds,shepherds,Still,still,TFT,tft
+brendan-wylie-toal,Best Before,best-before,Goose,goose,Maverick,maverick,NADS,nads,Still,still,TFT,tft
+natalie-wong-7,Still,still
+heather-killian-1,Still,still
+sandra-seepaul-1,Still,still
+jamie-dempster-2,Still,still
+gary-paskewich-1,Banana Cream Pie,banana-cream-pie,Max Power,max-power,Max Power,team-name,ReUnion,reunion,Still,still
+marc-abbyad-1,Still,still
+james-ho-1,ROY,roy,Still,still
+matthew-denton-2,Still,still
 cary-weingust-1,Tombstone,tombstone
 graham-fletcher,Shepherds,shepherds,Tombstone,tombstone
 hugh-brewster-1,Best Before,best-before,ReUnion,reunion,Shepherds,shepherds,Tombstone,tombstone
@@ -3025,7 +2807,10 @@ shawn-chua,Best Before,best-before,ReUnion,reunion,Shepherds,shepherds,TFT,tft,T
 will-mercer,Best Before,best-before,Max Power,max-power,Tombstone,tombstone,Trail Mix,trail-mix
 ben-samuell,Viper,viper
 brandon-sampogna,Viper,viper
+brian-wissent,Viper,viper
 chris-fairles,Viper,viper
+colin-mattison,ROY,roy,Too Bad,too-bad,Viper,viper
+dan-bennett,Goose,goose,Viper,viper
 dan-ritz,Goose,goose,Viper,viper
 jason-cunningham-3,Maverick,maverick,Silverbacks,the-silverbacks,Viper,viper
 jon-brooker,Viper,viper
@@ -3036,7 +2821,10 @@ marcel-lee-1,Viper,viper
 mark-girard,Goose,goose,Phantoms,phantoms,Viper,viper
 matthew-petcoff,Viper,viper,Wendigo,wendigo
 royce-bodaly,Viper,viper
+tav-gayle,Goose,goose,Maverick,maverick,Thunder,thunder,Viper,viper
+tushar-singh,NADS,nads,Republic,republic,Too Bad,too-bad,Viper,viper
 alejandro-carrera-2,Goose,goose,Maverick,maverick,Viper,viper,Wendigo,wendigo
+ken-dunbar,Goose,goose,Maverick,maverick,PPF BEEs,ppf-bees,Viper,viper
 william-santo,Goose,goose,Maverick,maverick,Viper,viper
 sam-walter-2,Queen Ps,queen-ps,Thrift Shop,thrift-shop,Viper,viper
 melissa-santo,Viper,viper
@@ -3052,40 +2840,42 @@ bryan-rowe-1,Viper,viper
 robert-harris-1,Viper,viper
 erik-postma,Viper,viper
 james-robinson,Goose,goose,Thunder,thunder,Viper,viper
+alex-peirce,Maverick,maverick,Viper,viper
 mike-hewitson,Viper,viper
 ben-reid-2,Viper,viper
 andrew-noble,Viper,viper
 alexandra-wattamaniuk,'Berta,berta,Little Lebowski Urban Achievers,little-lebowski-urban-achievers,Zephyr,zephyr
 connie-lee,'Berta,berta,Flux,flux,NoBS,nobs,Prairie Fire,dyna,Terra,terra
 danielle-dugan,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo
+hayley-lueke-1,'Berta,berta,Prairie Fire,dyna
+jana-schissel,'Berta,berta,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum
 jen-blaser,'Berta,berta,Rogue Hippo,rogue-hippo,Throwback,throwback
 jennifer-mcmillan,'Berta,berta,Annie Oakley,annie-oakley,Throwback,throwback
+jill-kowalchuk,'Berta,berta,Prairie Fire,dyna,Wildish,wild
 johanna-elias,'Berta,berta,Lotus,lotus,Prairie Fire,dyna,Terra,terra
 kirsten-taylor,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo
 krista-macdonald,'Berta,berta,Flurry,flurry,Prairie Blaze,wheaties,Rogue Hippo,rogue-hippo
+tanya-beasley,'Berta,berta,Flurry,flurry,Rogue Hippo,rogue-hippo
 alain-chicoine,'Berta,berta,Alberta Flatball Club,alberta-flatball-club,Carbon,carbon,NSOM,nsom,Rogue Hippo,rogue-hippo
 noemie-guadagno,'Berta,berta
 angela-mueller,Agwata,agwata,Eclipse,eclipse
-anick-neron,Agwata,agwata,Eclipse,eclipse,Nebula,nebula,Stella A,stella-a
 anne-sempels,Agwata,agwata,Stella B,stella-b
 ashlin-kelly,Agwata,agwata,Eclipse,eclipse,Nor'Easter,noreaster,lowercase,lowercase
 daphnee-ellyson,Agwata,agwata,Raft,raft
 genevieve-labelle,Agwata,agwata,Eclipse,eclipse,Nebula,nebula,Stella B,stella-b,lowercase,lowercase
 karyne-pinard,Agwata,agwata,Eclipse,eclipse,Raft,raft,Stella B,stella-b,Thrift Shop,thrift-shop
+kris-obrien,Agwata,agwata,Luna Ultimate,luna-ultimate,Spectrum,spectrum
 laura-knowles,Agwata,agwata,Eclipse,eclipse
+marie-ange-gravel,Agwata,agwata,Nebula,nebula
 marie-michele-cote,Agwata,agwata
+maya-popovic,Agwata,agwata,Eclipse,eclipse,Thrift Shop,thrift-shop
 paula-lester,Agwata,agwata,Capitals,capitals,Luna Ultimate,luna-ultimate,Raft,raft,Stella A,stella-a
 sarah-mcdonald,Agwata,agwata,Eclipse,eclipse,Nebula,nebula,Stella B,stella-b,TLDR,tldr
 somphane-souksanh,Agwata,agwata,Stella B,stella-b
 sonia-labelle,Agwata,agwata,Luna Ultimate,luna-ultimate,Nebula,nebula
 stephanie-gratton,Agwata,agwata,Nebula,nebula
-valerie-tanguay,Agwata,agwata,Stella B,stella-b
-maude-demers,Agwata,agwata,Wicked West,wicked-west
-kris-obrien,Agwata,agwata,Luna Ultimate,luna-ultimate,Nebula,nebula,Spectrum,spectrum
-maya-popovic,Agwata,agwata,Eclipse,eclipse,Thrift Shop,thrift-shop
-marie-ange-gravel,Agwata,agwata,Nebula,nebula
 val-chiasson,Agwata,agwata,Eclipse,eclipse,Raft,raft,Stella A,stella-a,lowercase,lowercase
-amelie-noel-de-tilly,Agwata,agwata
+valerie-tanguay,Agwata,agwata,Stella B,stella-b
 andreane-bourgeois,MaQramée,maqramee,Sriracha,sriracha,Vintage,vintage
 catherine-leblanc,MaQramée,maqramee,Quasar,quasar
 christine-lord,MaQramée,maqramee,Montreal Old Star,montreal-old-star,Vintage,vintage
@@ -3106,7 +2896,6 @@ melanie-brassard,MaQramée,maqramee,Quasar,quasar,Quest,quest
 mylene-cote,Borderline,borderline,MaQramée,maqramee,Mystik,mystik,Vintage,vintage,Vénus,venus
 myralie-roussin-1,MaQramée,maqramee,Quasar,quasar
 amanda-bennett,Nebula,nebula
-amanda-clarke-2,Nebula,nebula
 beth-beattie-1,Nebula,nebula,The Collective,the-collective
 caitlin-hesketh,Nebula,nebula
 christiane-marceau,Mystik,mystik,Nebula,nebula,Stella B,stella-b
@@ -3135,7 +2924,9 @@ christina-koblbauer,Artemis,artemis,Nebula,nebula,Stella B,stella-b
 stephanie-verbit,Eclipse,eclipse,Nebula,nebula,Stella B,stella-b,TLDR,tldr
 jessica-brichta,Nebula,nebula,Stella B,stella-b
 aleda-klassen,Queen Ps,queen-ps
+hannah-gordon,PPF BEEs,ppf-bees,Queen Ps,queen-ps
 heather-smith-5,Braun Squad,braun-squad,NoBS,nobs,Queen Ps,queen-ps
+katherine-culbert,Queen Ps,queen-ps
 kristi-baerg-macdonald,Queen Ps,queen-ps
 krysti-dodd,Braun Squad,braun-squad,Lily,lily,Queen Ps,queen-ps,Thrift Shop,thrift-shop
 lauren-dawson,Queen Ps,queen-ps,Thunder,thunder
@@ -3144,6 +2935,7 @@ michelle-mallette-1,MMV,mmv,Notorious KWG,notorious-kwg,Queen Ps,queen-ps,Thrift
 sarah-biro,Queen Ps,queen-ps,Skerj,skerj,Thrift Shop,thrift-shop,Trail Mix,trail-mix
 tarrah-fairweather,Queen Ps,queen-ps,Thrift Shop,thrift-shop
 agnes-monseur-1,S'a-coche,les-sa-coches,Vintage,vintage,X-Squad,x-squad
+amelie-bleau,Cherry Bomb,cherry-bomb,Eclipse,eclipse,S'a-coche,les-sa-coches,Vega,vega,X-Squad,x-squad
 andree-anne-perron,Mystik,mystik,S'a-coche,les-sa-coches,Vega,vega
 aurelie-reynaud,Eclipse,eclipse,S'a-coche,les-sa-coches,X-Squad,x-squad
 catherine-ferland,BoD,bod,S'a-coche,les-sa-coches,Vénus,venus,X-Squad,x-squad
@@ -3157,18 +2949,17 @@ kim-pare,MUTX,mutx,Mystik,mystik,S'a-coche,les-sa-coches,Valkyrie,valkyrie
 linh-ma,Cherry Bomb,cherry-bomb,Mystik,mystik,Quasar,quasar,S'a-coche,les-sa-coches,Vega,vega,Vénus,venus,X-Squad,x-squad
 madeleine-ouellet-decarie,Cherry Bomb,cherry-bomb,S'a-coche,les-sa-coches,Vénus,venus
 marie-france-lise,S'a-coche,les-sa-coches
-murielle-chapuis,S'a-coche,les-sa-coches,Vega,vega,X-Squad,x-squad
-valerie-patenaude,S'a-coche,les-sa-coches
-veronique-gauthier,S'a-coche,les-sa-coches,Valkyrie,valkyrie,Vega,vega
-guylaine-girard,S'a-coche,les-sa-coches,Storm,storm,Storm,storm-112213,Vintage,vintage
-marie-eve-trudel,Iris,iris,Qub,qub,S'a-coche,les-sa-coches,Vintage,vintage,Vénus,venus
-marlene-boisvert,S'a-coche,les-sa-coches,Vega,vega,X-Squad,x-squad
-samantha-desmarais,S'a-coche,les-sa-coches
+marlene-boulet,QrinQué,qrinque,Qub,qub,S'a-coche,les-sa-coches
+melanie-bosse,BoD,bod,S'a-coche,les-sa-coches,Vénus,venus
 sayeh-jolan,Eclipse,eclipse,Mystik,mystik,S'a-coche,les-sa-coches,X-Squad,x-squad
 tanya-estwick-lepage,S'a-coche,les-sa-coches,Vega,vega,X-Squad,x-squad
+valerie-patenaude,S'a-coche,les-sa-coches
+veronique-gauthier,S'a-coche,les-sa-coches,Valkyrie,valkyrie,Vega,vega
+marie-eve-trudel,Iris,iris,Qub,qub,S'a-coche,les-sa-coches,Vintage,vintage,Vénus,venus
+samantha-desmarais,S'a-coche,les-sa-coches
 dominik-anctil,Mystik,mystik,S'a-coche,les-sa-coches,Valkyrie,valkyrie,Vega,vega
 emilie-simard,FUEL,fuel,S'a-coche,les-sa-coches,Vega,vega,Vintage,vintage,X-Squad,x-squad
-melanie-bosse,BoD,bod,S'a-coche,les-sa-coches,Vénus,venus
+marlene-boisvert,S'a-coche,les-sa-coches,Vega,vega,X-Squad,x-squad
 alison-flynn,Eclipse,eclipse,Solstice,solstice
 cathy-miedema,Eclipse,eclipse,Solstice,solstice,Stella A,stella-a,Stella B,stella-b
 darlene-riley-2,Solstice,solstice
@@ -3186,6 +2977,7 @@ nadine-cann,Solstice,solstice
 shannon-watt,Eclipse,eclipse,Solstice,solstice,Stella B,stella-b
 sherri-ross,Eclipse,eclipse,Solstice,solstice,Wicked East,wicked-east
 vanessa-lyon,Eclipse,eclipse,Nebula,nebula,Solstice,solstice
+caralynn-laszlo,StellO,stello
 elise-ring,Luna Ultimate,luna-ultimate,StellO,stello,Stella B,stella-b,Vesta,vesta
 julie-vachon,Eclipse,eclipse,Nor'Easter,noreaster,Raft,raft,StellO,stello
 rachel-young-1,Luna Ultimate,luna-ultimate,Nor'Easter,noreaster,Raft,raft,StellO,stello,Stella A,stella-a
@@ -3193,12 +2985,14 @@ renee-gauvin,Crank,crank,Eclipse,eclipse,StellO,stello
 alexandra-paille,Mystik,mystik,Storm,storm,Storm,storm-112213,Vintage,vintage,Vénus,venus
 caroline-beauregard,Valkyrie,valkyrie,Vintage,vintage
 catherine-demers-rivard-1,Cherry Bomb,cherry-bomb,Vintage,vintage,Vénus,venus
+catherine-lalonde-1,Storm,storm-112213,Vega,vega,Vintage,vintage
 catherine-poirier,Iris,iris,Mystik,mystik,Storm,storm-112213,Vintage,vintage
 club-ultimate-villeray-1,Vintage,vintage,Vortex Open,vortex,Vortex Women,vortex
 constance-rancourt,Iris,iris,Mystik,mystik,Storm,storm,Vintage,vintage
 gabrielle-beaudoin-1,Storm,storm,Storm,storm-112213,Vintage,vintage,Vénus,venus
 gabrielle-ouellet,Iris,iris,Storm,storm,Vintage,vintage
 genevieve-lamarche-moore,Borderline,borderline,Mystik,mystik,Storm,storm,Vintage,vintage
+guylaine-girard,Storm,storm,Storm,storm-112213,Vintage,vintage
 isabelle-bigras-1,Vintage,vintage
 jessica-gennaoui,Iris,iris,Storm,storm,Vintage,vintage
 joelle-pion-massicotte,Mystik,mystik,Storm,storm,Storm,storm-112213,Vintage,vintage,Vénus,venus
@@ -3211,7 +3005,6 @@ tracey-dyer,Anchor,anchor-ultimate,Tempest,team-01-1375,Vintage,vintage,Wreckhou
 veronica-ortega,Vintage,vintage,Vénus,venus
 raynald-nemours,Mockingbird,mockingbird,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,Vintage,vintage
 marie-eve-latendresse,Storm,storm,Vintage,vintage
-melanie-prescott-gagnon,Sriracha,sriracha,Storm,storm,Vintage,vintage
 frederique-desbiens-blais,LAB,lab,Mystik,mystik,Sriracha,sriracha,Vintage,vintage
 kirsten-niles,Max Power,max-power,Vintage,vintage
 st-lavoie,Mystik,mystik,Vintage,vintage
@@ -3271,7 +3064,7 @@ daniel-gwartz,Vintage,vintage
 julie-tremblay,Vintage,vintage,X-Squad,x-squad
 christine-sura,Vintage,vintage
 marie-christine-tremblay,Vintage,vintage
-mary-ann-clark,Annie Oakley,annie-oakley,Bunny Thugs,bunny-thugs,Lit,lit,Prairie Fire,dyna,Spectrum,spectrum,Vintage,vintage,Wild,wild
+mary-ann-clark,Annie Oakley,annie-oakley,Bunny Thugs,bunny-thugs,Lit,lit,Prairie Fire,dyna,Spectrum,spectrum,Vintage,vintage,Wildish,wild
 catherine-gadbois,Storm,storm,Storm,storm-112213,Vintage,vintage,Vénus,venus
 andrea-bombala,Annie Oakley,annie-oakley,Aurora,locustmasters,Spectrum,spectrum,The Collective,the-collective,Tyrannosaurus Rad,t-rad,Vintage,vintage
 eloise-dube,Cherry Bomb,cherry-bomb,Mystik,mystik,Valkyrie,valkyrie,Vintage,vintage
@@ -3320,6 +3113,7 @@ nadine-bourque,1778 AT,tbd-207,The Collective,the-collective
 alain-baillargeon,1778 AT,tbd-207
 antonin-savoie,1778 AT,tbd-207,Borderline,borderline
 bruno-lirette,1778 AT,tbd-207
+colin-yeung,1778 AT,tbd-207,Borderline,borderline,Maverick,maverick,NSOM,nsom,Queen City Kings,mangina
 craig-smith-2,1778 AT,tbd-207,Borderline,borderline
 jordan-pugh,1778 AT,tbd-207,Jerk Factory,jerk-factory
 josh-weston,1778 AT,tbd-207,Jerk Factory,jerk-factory
@@ -3336,10 +3130,12 @@ jean-francois-marcoux,BoD,bod,Magma,magma
 olivier-thibaudeau-1,BoD,bod,Cherry Bomb,cherry-bomb,FUEL,fuel
 samuel-arsenault,BoD,bod,Cherry Bomb,cherry-bomb,NSOM 1,nothing-sexier-than-old-montrealers-nsom
 amanda-mills-1,Firefly,firefly,Mint,mint
+amy-tran,Banana Cutters,fight-club,Firefly,firefly
 candice-lui,Firefly,firefly,Mint,mint
 ellen-truong,Banana Cutters,fight-club,Firefly,firefly,Mint,mint,Nonsuch,nonsuch
 jennifer-campbell-1,Firefly,firefly,Mint,mint
 jingting-ma,Firefly,firefly,Mint,mint,Nonsuch,nonsuch
+pamela-chalmers,Firefly,firefly
 stacey-teetaert,Firefly,firefly,Mint,mint
 valerie-pion,Firefly,firefly
 jason-the-2,Firefly,firefly,Intrepid,intrepid,Nonsuch,nonsuch,Torque,torque
@@ -3354,6 +3150,7 @@ aaron-dobson,Flood,flood,Flux,flux,Torque,torque,Whiskeyjacks,whiskeyjacks
 chris-artibello,Flux,flux,Lit,lit,NSOM,nsom,Prairie Fire,dyna
 david-burdziuk,Flux,flux,Lit,lit
 eric-mckenna,Flux,flux,Phantoms,phantoms,Whiskeyjacks,whiskeyjacks
+gabriel-hennessey-1,Flux,flux,Maverick,maverick
 jonathan-pendlebury-1,Flux,flux
 justin-wilkes,Flux,flux,Torque,torque,Whiskeyjacks,whiskeyjacks
 mark-macinnes,Flux,flux,Whiskeyjacks,whiskeyjacks
@@ -3441,7 +3238,6 @@ jack-whalen,Anchor,anchor-ultimate,Kitchen Party,kitchen-party
 jeremy-smith-5,Anchor,anchor-ultimate,Kitchen Party,kitchen-party
 kendall-sharp,Kitchen Party,kitchen-party
 nick-bartlett,Borderline,borderline,Kitchen Party,kitchen-party
-ryan-stewart-1,Borderline,borderline,Kitchen Party,kitchen-party
 alexandra-chu,Homegirl,homegirl,Mastadon,mastadon,Zephyr,zephyr
 bri-larson,Mastadon,mastadon
 caren-rose,Homegirl,homegirl,Mastadon,mastadon,Zephyr,zephyr
@@ -3545,9 +3341,15 @@ bill-ng,Penguin Village Ultimate,penguin-village,Reaper,reaper
 rob-beam,Penguin Village Ultimate,penguin-village,RUT,rut
 kevin-green-3,Penguin Village Ultimate,penguin-village,Sting,sting
 braden-turnquist,Penguin Village Ultimate,penguin-village
-justin-lesperance,Penguin Village Ultimate,penguin-village
+kelbey-woytowich,Bunny Thugs,bunny-thugs,Korra,korra,Max Power,team-name,Penguin Village Ultimate,penguin-village
+catherine-shore,Penguin Village Ultimate,penguin-village
+elora-mcleod,Bunny Thugs,bunny-thugs,Penguin Village Ultimate,penguin-village,Sting,sting
+colin-haughian,Bunny Thugs,bunny-thugs,Penguin Village Ultimate,penguin-village,Sting,sting
+john-mcewen,Penguin Village Ultimate,penguin-village
 alexandra-picard-2,Qold,qold
 cindy-dupras,Animals,animals,Qold,qold,Qub,qub,Quest,quest
+fanny-rouleau,Qold,qold,Qub,qub,Quest,quest
+helene-paradis,Qold,qold,Quasar,quasar,Qub,qub
 marie-pierre-huot,Qold,qold,Quasar,quasar
 masse-julie,Qold,qold,QrinQué,qrinque,Quasar,quasar,Quest,quest
 brun-charland,Elements,elements,Qold,qold
@@ -3560,7 +3362,6 @@ emily-shepard,Lotus,lotus,ReUnion,reunion,Terra,terra,lowercase,lowercase
 janelle-giehl,Lotus,lotus,ReUnion,reunion
 laura-main,NoBS,nobs,ReUnion,reunion,lowercase,lowercase
 michelle-chandler-1,ReUnion,reunion,Terra,terra
-gary-paskewich-1,Banana Cream Pie,banana-cream-pie,Max Power,max-power,Max Power,team-name,ReUnion,reunion
 heather-kelly-6,TLDR,tldr
 jennifer-muldoon,Backdraft,backdraft,Eclipse,eclipse,Max Power,max-power,Quick & Dirty,quick-dirty,TLDR,tldr,The Grind,quick-dirty
 megan-robb,Eclipse,eclipse,TLDR,tldr
@@ -3609,6 +3410,12 @@ rob-levis,Endgame,endgame,Phantoms,phantoms
 rolando-barbadillo,Endgame,endgame,Phantoms,phantoms
 sean-phillips,Endgame,endgame,Spectrum,spectrum
 steve-winters,Endgame,endgame,Phantoms,phantoms,Whiskeyjacks,whiskeyjacks
+jeni-gamracy,Annie Oakley,annie-oakley,Endgame,endgame,Prairie Fire,dyna
+andrew-pickup-1,Endgame,endgame
+tim-vines-1,Endgame,endgame,West Edmonton Maulers,west-edmonton-maulers
+johnny-byrne-1,Carbon,carbon,Endgame,endgame,Wreckhouse,wreckhouse
+john-meyer,Endgame,endgame
+dave-hessel,Endgame,endgame
 sean-dawson,Endgame,endgame
 corwin-derkatch,Queen City Kings,mangina
 cory-bell,Queen City Kings,mangina
@@ -3647,7 +3454,6 @@ graham-haines,Queen City Kings,mangina
 jon-imhoff,Queen City Kings,mangina,RUT,rut
 matt-spence-1,Queen City Kings,mangina
 timothy-bamford,Queen City Kings,mangina
-brian-wissent,Viper,viper
 john-rey,Viper,viper
 miguel-de-avila,Goose,goose,Viper,viper
 casey-ching,West Edmonton Maulers,west-edmonton-maulers
@@ -3664,14 +3470,13 @@ rob-taylor,West Edmonton Maulers,west-edmonton-maulers
 ryan-hayward,Tyrannosaurus Rad,t-rad,West Edmonton Maulers,west-edmonton-maulers
 scott-pillsbury,Pipe Dream,pipe-dream,Rogue Hippo,rogue-hippo,West Edmonton Maulers,west-edmonton-maulers
 simon-feely-1,Grizzle,grizzle,West Edmonton Maulers,west-edmonton-maulers
-tim-vines-1,West Edmonton Maulers,west-edmonton-maulers
 tom-salzmann,West Edmonton Maulers,west-edmonton-maulers
 emily-noton,'Berta,berta,Homegrown,homegrown,Rogue Hippo,rogue-hippo,Zephyr,zephyr
 heather-lindstrom,'Berta,berta,Flurry,flurry
 jackie-deller,'Berta,berta,Prairie Fire,dyna
 jennifer-nicholls,'Berta,berta,Little Lebowski Urban Achievers,little-lebowski-urban-achievers,Prairie Fire,dyna,Team Fisher Price,team-fisher-price,Throwback,throwback
 joyce-wong,'Berta,berta,Annie Oakley,annie-oakley,Prairie Fire,dyna,Throwback,throwback
-nicole-desjardins,'Berta,berta,Prairie Fire,dyna,Wild,wild
+nicole-desjardins,'Berta,berta,Prairie Fire,dyna,Wildish,wild
 stacey-yuen,'Berta,berta,Rogue Hippo,rogue-hippo,Throwback,throwback
 victoria-girardo,'Berta,berta,Rogue Hippo,rogue-hippo,Throwback,throwback
 wendy-sligl,'Berta,berta,Rogue Hippo,rogue-hippo,Throwback,throwback
@@ -3682,7 +3487,6 @@ ashley-kerik,Annie Oakley,annie-oakley
 carisa-authier-lau,Annie Oakley,annie-oakley
 emeline-lamond,Annie Oakley,annie-oakley,Prairie Fire,dyna,Spectrum,spectrum
 jeany-seto,Annie Oakley,annie-oakley
-jeni-gamracy,Annie Oakley,annie-oakley,Prairie Fire,dyna
 jennifer-jenkins,Annie Oakley,annie-oakley,MASH,mash,Prairie Fire,dyna,Spectrum,spectrum
 jennifer-tuffs,Annie Oakley,annie-oakley,Prairie Fire,dyna
 lisa-liang,Annie Oakley,annie-oakley,Banana Cutters,fight-club
@@ -3695,7 +3499,7 @@ erin-eacott,Annie Oakley,annie-oakley,Flurry,flurry,Throwback,throwback
 nadia-watson,Annie Oakley,annie-oakley,MASH,mash
 helen-osullivan,Annie Oakley,annie-oakley,Lore,lore,Thrift Shop,thrift-shop
 maya-douglas,Annie Oakley,annie-oakley
-linda-ganley,Annie Oakley,annie-oakley,MASH,mash,Wild,wild
+linda-ganley,Annie Oakley,annie-oakley,MASH,mash,Wildish,wild
 sawitree-singusaha,Annie Oakley,annie-oakley,MASH,mash
 caitlin-logan,Annie Oakley,annie-oakley,Sting,sting
 shazma-mithani,Annie Oakley,annie-oakley,MASH,mash,Throwback,throwback
@@ -3719,7 +3523,6 @@ natalie-ng,Artemis,artemis
 nicole-shortt-2,Artemis,artemis
 sarah-hollett,Artemis,artemis
 valerie-lefebvre,Artemis,artemis
-virginia-watson,Artemis,artemis,Wendigo,wendigo
 strat-stratton,Artemis,artemis
 kaitlyn-harris,Artemis,artemis
 kaitlyn-true,Artemis,artemis
@@ -3968,14 +3771,15 @@ laura-stothart,Crux,crux
 lisa-breton,Crux,crux
 sasha-palmert-1,Crux,crux
 braden-armstrong,Crux,crux
+bryan-chiu,Crux,crux,ROY,roy
 corey-havlin,Crux,crux,Goose,goose
 daniel-badawika,Crux,crux
 daniel-romlewski,Crux,crux,Goose,goose
+jay-mitchell,Crux,crux,ROY,roy
 matthew-caldwell,Crux,crux,Silverbacks,the-silverbacks,Skerj,skerj,Thrift Shop,thrift-shop
 roy-perez-1,Crux,crux
 alex-chin-3,Fable,fable
 amadis-wong,Fable,fable
-amy-szeto,Fable,fable
 connie-lu,Fable,fable
 erika-watanabe,Fable,fable
 kayley-hollyer,Fable,fable
@@ -3997,7 +3801,6 @@ steph-vecchiarelli,Force,force
 brandon-lusty-1,Force,force
 david-tran-2,Force,force
 jamie-bonany-1,Force,force
-peter-aloussis,Force,force
 will-parker,Force,force
 amelie-champagne-1,Iceberg,iceberg
 magali-rousseau-1,Iceberg,iceberg,Quest,quest
@@ -4023,7 +3826,7 @@ kendra-borgford,Lit,lit,Nonsuch,nonsuch,Red River Rebellion,red-river-rebellion
 leigh-mcnamara,Lit,lit
 martha-marko,Lit,lit
 rebecca-ankerman,Lit,lit
-sarah-ankerman,Lit,lit,Wild,wild
+sarah-ankerman,Lit,lit,Wildish,wild
 alex-scott,Goose,goose,Lit,lit,Silverbacks,the-silverbacks
 benjamin-quesnel,Ledge,ledge,Lit,lit
 evan-shields-1,Cannons: Junior Open,cannons-m,Lit,lit
@@ -4040,8 +3843,8 @@ julia-ridley,Lit,lit
 kathleen-merx,Lit,lit,Prairie Fire,dyna
 shannon-denison,Lit,lit
 akaya-blair,Goomba Gang,best-coast,Lit,lit
-natasha-pye,Flurry,flurry,Lit,lit,Rogue Hippo,rogue-hippo,Wild,wild
-meghanne-uptigrove,Fable,fable,Lit,lit,Wild,wild
+natasha-pye,Flurry,flurry,Lit,lit,Rogue Hippo,rogue-hippo,Wildish,wild
+meghanne-uptigrove,Fable,fable,Lit,lit,Wildish,wild
 lindsay-ellefson,Lit,lit
 shaylee-dressel,Lit,lit,Uproar Open,uproar
 carol-tran,Lit,lit,Prairie Fire,dyna,Uproar Open,uproar
@@ -4173,7 +3976,6 @@ antoine-mailhot,Animals,animals,Red Fox,red-fox
 jonathan-ruel,Red Fox,red-fox,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 stephen-mcmanus,Animals,animals,Red Fox,red-fox
 rebecca-chang-1,Nox,nox,SOUP,soup
-james-lewis-3,SOUP,soup,TORO Junior Women,toro-open
 seija-stratton,SOUP,soup
 olivia-brown,SOUP,soup
 jamie-devivo,SOUP,soup
@@ -4255,10 +4057,12 @@ laura-anne-sheehan,Thunder,thunder
 alina-rehkopf,Thunder,thunder
 nadine-lozon,Thunder,thunder
 kelvin-kung,Thunder,thunder
+sean-doucette-1,Maverick,maverick,Thunder,thunder,Trail Mix,trail-mix
 alex-chmura,Thunder,thunder
 jd-hamel,Thunder,thunder
 bryan-yeung,Goose,goose,Thunder,thunder
 paul-klausen,Goose,goose,Thunder,thunder
+john-agda,Goose,goose,Maverick,maverick,Thunder,thunder
 alex-hoss,Thunder,thunder
 kyle-ramsey,Thunder,thunder
 steven-wright,Thunder,thunder
@@ -4298,7 +4102,10 @@ kymme-kim,Thunder,thunder
 serena-foo,PPF,ppf,Thunder,thunder
 sam-vandermyden,Thunder,thunder
 jacob-macpherson,Thunder,thunder
+nathan-klym,Goose,goose,Maverick,maverick,Thunder,thunder
+stewart-russell,Maverick,maverick,Thunder,thunder
 lucas-parsons,Thunder,thunder
+justin-degeer-1,Maverick,maverick,Thunder,thunder
 david-wulff,Thunder,thunder
 chad-harris-1,Thunder,thunder
 curtis-reason,COAT,coat,Thunder,thunder
@@ -4320,6 +4127,7 @@ stacey-carter,Trail Mix,trail-mix
 lea-kurkimaki,Trail Mix,trail-mix
 tara-macleod,Foxx,foxx,Trail Mix,trail-mix
 tyler-bransfield,Trail Mix,trail-mix
+neil-duchen,MMV,mmv,ROY,roy,Trail Mix,trail-mix
 liam-stobart-1,Trail Mix,trail-mix
 amanda-kong-1,Flurry,flurry,Victoria Gulls n' Buoys,victoria-gull-n-buoys,Vortex Open,vortex,Vortex Women,vortex
 claire-lee,Victoria Gulls n' Buoys,victoria-gull-n-buoys
@@ -4349,7 +4157,6 @@ everett-greenways,Alberta Flatball Club,alberta-flatball-club,Rogue Hippo,rogue-
 john-russell,Alberta Flatball Club,alberta-flatball-club,Cannons: Junior Open,cannons-m,Whiskeyjacks,whiskeyjacks
 justice-paul,Alberta Flatball Club,alberta-flatball-club,Bunny Thugs,bunny-thugs,Homegrown,homegrown
 luke-nealon,Alberta Flatball Club,alberta-flatball-club
-matthew-hoehne,Alberta Flatball Club,alberta-flatball-club
 michael-elliott,Alberta Flatball Club,alberta-flatball-club,Rogue Hippo,rogue-hippo
 nevin-root-1,Alberta Flatball Club,alberta-flatball-club
 nigel-lendsay-program-director,Alberta Flatball Club,alberta-flatball-club
@@ -4367,7 +4174,6 @@ garret-hollis,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,ab
 greg-wentworth,Berta Flatball Club,aberta-flatball-club,Rogue Hippo,rogue-hippo
 han-bai,Berta Flatball Club,aberta-flatball-club,Whitefish,whitefish
 jason-kully-1,Alberta Flatball Club,alberta-flatball-club,Berta Flatball Club,aberta-flatball-club
-jayden-platt-1,Berta Flatball Club,aberta-flatball-club,Rogue Hippo,rogue-hippo
 jeff-hatton,Berta Flatball Club,aberta-flatball-club,Phantoms,phantoms,Rogue Hippo,rogue-hippo
 jon-billiau,Berta Flatball Club,aberta-flatball-club
 keaton-seaby,Berta Flatball Club,aberta-flatball-club
@@ -4388,17 +4194,61 @@ nicolas-sanchez-2,Blackfish,blackfish
 trevor-mccann,Blackfish,blackfish
 victor-cheng,Blackfish,blackfish,Goomba Gang,best-coast,Mio Grape,mio-grape
 alex-christison,BOAT,boat,Phantoms,phantoms
+benny-huynh,BOAT,boat
+brian-tran,BOAT,boat,Energy,energy,Uproar Open,uproar
+cameron-knox-1,BOAT,boat,Energy,energy
 danny-collins,BOAT,boat
 darren-wan,BOAT,boat,Goose,goose,Maverick,maverick
+dylan-fonseca,BOAT,boat,Energy,energy,ROY,roy,Uproar Open,uproar
+evan-wong,BOAT,boat
 jonah-yang-1,BOAT,boat
 jonathan-hsieh-1,BOAT,boat
+kavin-sritharan,BOAT,boat
+liam-macarthur,BOAT,boat,COAT,coat
+lucas-mckeown,BOAT,boat,Goose,goose
 maharai-mitchell-1,BOAT,boat,Energy,energy,Uproar Open,uproar
+martin-shiu,BOAT,boat
 matthew-lam-2,BOAT,boat,Energy,energy,Maverick,maverick
 micah-tam-1,BOAT,boat,COAT,coat
+micheal-kukucska,BOAT,boat,COAT,coat,Phantoms,phantoms,ROY,roy,TORO Junior Women,toro-open
+mohammed-alhadid,BOAT,boat,COAT,coat
 nolan-mckeown,BOAT,boat
+raoul-tanyan,BOAT,boat,Max Power,max-power,Max Power,team-name,ROY,roy
 robert-sun,BOAT,boat,Energy,energy,TORO Open,toro,Uproar Open,uproar
 sergiu-buda,BOAT,boat
+vishal-nikam,BOAT,boat,ROY,roy,TORO Junior Women,toro-open,Uproar Open,uproar
 vivek-philips,BOAT,boat,Maverick,maverick
+taylor-los,BOAT,boat,Houndd,houndd,Maverick,maverick
+varoon-gupta,BOAT,boat,Energy,energy,Uproar Open,uproar
+steven-kariatsumari-1,BOAT,boat
+lawrence-mak-1,BOAT,boat,Energy,energy,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
+ravin-ramnarain,BOAT,boat
+robert-godfrey,BOAT,boat,ROY,roy
+henry-so,BOAT,boat
+geoffrey-seeman,BOAT,boat
+edward-bredin,BOAT,boat,ROY,roy
+steven-her-1,BOAT,boat
+shevon-lowe,BOAT,boat
+calvin-ku,BOAT,boat
+philip-cheung,BOAT,boat,Maverick,maverick
+ben-pidduck,BOAT,boat
+mitchell-jordan,BOAT,boat,TORO Junior Women,toro-open,Uproar Open,uproar
+tim-martin-2,BOAT,boat
+alex-carey,BOAT,boat,MUTX,mutx
+rotimi-fadiya,BOAT,boat,Force,force
+jethro-wu,BOAT,boat,ROY,roy
+stephen-pepler-1,BOAT,boat,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
+rob-jankowski,BOAT,boat,COAT,coat,ROY,roy
+alden-ching,BOAT,boat
+james-grantis-1,BOAT,boat,Too Bad,too-bad
+tarik-akyuz-1,BOAT,boat
+brian-niepage,BOAT,boat,ROY,roy
+johnson-yu,BOAT,boat
+theo-wan,BOAT,boat,Goose,goose,Maverick,maverick,ROY,roy
+max-van-der-weerd,BOAT,boat,ROY,roy
+kalvin-thye,BOAT,boat,TORO Junior Women,toro-open,Uproar Open,uproar
+jonathan-waterman-1,BOAT,boat
+alan-alford,BOAT,boat
 alexandre-labrie-chausse,Club M - Magma,club-m-magma
 antoine-drolet,Club M - Magma,club-m-magma
 antoine-faucher,Club M - Magma,club-m-magma,Titane (Open),titane-open
@@ -4418,6 +4268,30 @@ marc-alexandre-houle,Club M - Magma,club-m-magma
 samuel-perras,Club M - Magma,club-m-magma
 xavier-maranda,Club M - Magma,club-m-magma
 zacarus-hews,Club M - Magma,club-m-magma
+simon-vervaet,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
+hugo-fournier-1,Club M - Magma,club-m-magma
+nathan-osman,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma
+natan-courchesne,Club M - Magma,club-m-magma
+francois-laplante,Club M - Magma,club-m-magma
+charles-graton,Club M - Magma,club-m-magma
+louis-philippe-crepeau,Club M - Magma,club-m-magma
+felix-cote-dubuc,Club M - Magma,club-m-magma
+moreno-miguel,Club M - Magma,club-m-magma
+antoine-debien,Club M - Magma,club-m-magma
+nicola-teolis,Club M - Magma,club-m-magma
+stephane-beniak,Club M - Magma,club-m-magma
+alexandre-dubois,Club M - Magma,club-m-magma
+raffael-cinq-mars,Club M - Magma,club-m-magma
+antoine-fortier,Club M - Magma,club-m-magma
+philippe-kirouac-1,Club M - Magma,club-m-magma
+justin-sabetti,Club M - Magma,club-m-magma
+walker-singleton,Club M - Magma,club-m-magma
+hubert-barrette-laganiere,Club M - Magma,club-m-magma
+christian-taboada,Club M - Magma,club-m-magma
+bo-chi-zhang,Club M - Magma,club-m-magma,Titane (Open),titane-open
+zachary-mann,Club M - Magma,club-m-magma,Titane (Open),titane-open
+benjamin-gasseau,Club M - Magma,club-m-magma
+rayan-zarrouky,Arsenic (Open),arsenic-open,Club M - Magma,club-m-magma
 brenden-kadota,Club M - Manic,club-m-manic,Refinery,refinery
 brian-howard-6,Club M - Manic,club-m-manic
 bryan-mallette,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic
@@ -4437,14 +4311,18 @@ jordan-faries,Club M - Manic,club-m-manic
 mathieu-petit,Club M - Manic,club-m-manic
 mohamed-chrouh,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic,Titane (Open),titane-open
 sebastien-nadon,Club M - Manic,club-m-manic,FUEL,fuel
+alvin-lee-1,COAT,coat
 colby-gibbons,COAT,coat
 colin-darling,COAT,coat,Uproar Open,uproar
 drew-robinson,COAT,coat
+ganish-narain,COAT,coat,Energy,energy,Uproar Open,uproar
 jack-lovett,COAT,coat
 jeffrey-he-1,COAT,coat
+jonathan-chow-1,COAT,coat,ROY,roy
 kevin-young-6,COAT,coat
 lucas-lyons,COAT,coat
 mark-delamasa,COAT,coat
+martin-sieniawski,COAT,coat
 matthew-ing,COAT,coat
 nicholas-landry-1,COAT,coat
 noah-burns-1,COAT,coat
@@ -4454,11 +4332,14 @@ quentin-ng,COAT,coat
 richard-cheng,COAT,coat
 ryan-mckeown-1,COAT,coat
 shawn-goyal,COAT,coat
+taylor-chung,COAT,coat
 wallace-chan-1,COAT,coat
+wilson-pan,COAT,coat
 jared-morrow,COAT,coat
 wei-peng-jiang-1,COAT,coat
 jacky-zhuang,COAT,coat,Energy,energy
 zuxin-wang-1,COAT,coat
+allan-ledesma,COAT,coat,ROY,roy
 attlee-lam,COAT,coat
 gavin-sum-1,COAT,coat
 sam-lanesmith,COAT,coat,Wendigo,wendigo
@@ -4520,33 +4401,105 @@ justin-stoesz,Alberta Flatball Club,alberta-flatball-club,General Strike,general
 nicholas-dacquisto,General Strike,general-strike
 ryan-mcdonald-2,General Strike,general-strike,Manitou,manitou,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 zachary-goldberg,General Strike,general-strike
-adrian-yearwood,GOAT,goat,NADS,nads,Uproar Open,uproar
 akifumi-muraoka-1,GOAT,goat
-ben-pries-1,GOAT,goat
 jeremy-norden,GOAT,goat,Team Fisher Price,team-fisher-price
-kieran-charnock,GOAT,goat,TORO Junior Women,toro-open,Uproar Open,uproar
 mark-lloyd,GOAT,goat,General Strike,general-strike
 campbell-armstrong-1,Grand Trunk,grand-trunk,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
 james-mcclean-2,Grand Trunk,grand-trunk,TORO Junior Women,toro-open
+jason-li-1,Grand Trunk,grand-trunk,MMV,mmv
+justin-lem,Grand Trunk,grand-trunk,ROY,roy
+pavel-shering,Goose,goose,Grand Trunk,grand-trunk,ROY,roy
+torja-istiaque,Grand Trunk,grand-trunk,ROY,roy,Uproar Open,uproar
 gavin-lee-2,Houndd,houndd
 george-su,Houndd,houndd
 jake-pilkey,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
 kenneth-magill,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
-ketan-vasudeva,Houndd,houndd,Stud,synergy
-kevin-jay,Backdraft,backdraft,Houndd,houndd
 nick-ormel,Houndd,houndd,Stud,synergy
 noah-bailey-1,Houndd,houndd
 ryan-poloz,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
-stephen-pepler-1,BOAT,boat,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
 tyrus-jay,Houndd,houndd,Stud,synergy
+adam-li,Maverick,maverick,ROY,roy
+adison-oliver,Goose,goose,Maverick,maverick
 brayden-bowler,Maverick,maverick
 calvin-carter,Maverick,maverick
 ciaran-buckley,Maverick,maverick
+derek-mcconomy,Goose,goose,Maverick,maverick
+dinushan-dayarathna,Maverick,maverick
 franklin-liu,Goose,goose,Maverick,maverick
+joel-steinmann,Maverick,maverick
+jonathan-moyer,Goose,goose,Maverick,maverick
+marcus-kretz,Goose,goose,Maverick,maverick
 michael-yu-2,Maverick,maverick,Mischief Open,mischief-open,Savage Open,savage-open
 nathaniel-crane,Maverick,maverick
 nick-lemoing,Maverick,maverick
 sam-wong-4,Maverick,maverick
+seth-stevenson,Maverick,maverick
+andrew-rae-1,Goose,goose,Maverick,maverick
+sean-rapai-1,Maverick,maverick
+bryan-cunningham,Maverick,maverick,NADS,nads
+andrew-rae,Maverick,maverick
+brent-newbigging,Maverick,maverick
+greg-matthews,Maverick,maverick
+ryan-adams,Maverick,maverick
+reilly-vickers,Maverick,maverick
+trevor-henry,Maverick,maverick
+matt-snow,Maverick,maverick,TFT,tft
+craig-hyatt,Goose,goose,Maverick,maverick,TFT,tft
+tom-dowler,Maverick,maverick
+dan-berringer,Maverick,maverick
+mark-deren,Maverick,maverick
+carl-hawkins,Maverick,maverick
+matt-penman,Maverick,maverick
+peter-mclachlan,Goose,goose,Maverick,maverick,NADS,nads,Too Bad,too-bad
+scott-kemp,Maverick,maverick
+alex-taccone,Goose,goose,Maverick,maverick
+jason-tam,Maverick,maverick
+jeff-mcconomy,Maverick,maverick,Tempest,team-01-1375,Wreckhouse,wreckhouse
+shaw-dungate,Maverick,maverick,NADS,nads
+lee-gonzalez-1,Maverick,maverick
+jonathon-hallett,Maverick,maverick
+wesley-hu-1,Maverick,maverick,ROY,roy
+ed-kung,Maverick,maverick,Too Bad,too-bad
+paul-vilchez,Goose,goose,Maverick,maverick
+michael-wyrebek,Maverick,maverick
+ben-pries,Force,force,Maverick,maverick
+elizabeth-ruth-claridge-mackonis,Maverick,maverick
+olivia-webster,Maverick,maverick
+kim-chatterjee,Maverick,maverick
+cameron-dunn,Maverick,maverick
+alec-deslandes,Maverick,maverick
+jiarn-vasington,Maverick,maverick
+nick-assiouras,Maverick,maverick
+sean-lees,Maverick,maverick
+joseph-jojo-yung-noodle-arm-trump-lean-purp-hollywood-cochbain,Maverick,maverick
+karlo-yap,Maverick,maverick
+kerwin-yap,Maverick,maverick
+david-kaufman-2,Maverick,maverick
+lucas-mckeown-1,Maverick,maverick
+dan-kenny,Goose,goose,Maverick,maverick
+connor-gould,Maverick,maverick
+jonathan-wu,Goose,goose,Maverick,maverick,NADS,nads,ROY,roy
+maynald-savatdy,Goose,goose,Maverick,maverick
+tristan-rea,Maverick,maverick
+jonathon-hallett-1,Goose,goose,Maverick,maverick
+neil-grzegorczyk,Goose,goose,Maverick,maverick
+jeremie-gabor,Maverick,maverick,NADS,nads
+eren-rudy,Maverick,maverick,Uproar Open,uproar
+giorgio-cabrera,Maverick,maverick
+kyle-vandeemter,Maverick,maverick
+jason-knight-1,Goose,goose,Maverick,maverick
+zachary-anderson,Goose,goose,Maverick,maverick,Wendigo,wendigo
+marcus-laferriere,Maverick,maverick,Uproar Open,uproar
+tiger-he-1,Energy,energy,Maverick,maverick
+derek-williamson,Goose,goose,Maverick,maverick
+matthew-lam-1,Maverick,maverick,Uproar Open,uproar
+joshua-bone,Maverick,maverick,Skerj,skerj
+sharven-muralidharan,Goose,goose,Maverick,maverick,ROY,roy
+roy-perez,Goose,goose,Maverick,maverick
+aaron-wilson-2,Goose,goose,Maverick,maverick
+mike-danh,Maverick,maverick,ROY,roy,Skerj,skerj
+mike-wyrebek,Maverick,maverick,Quick & Dirty,quick-dirty,The Grind,quick-dirty
+jonathan-lo,Goose,goose,Maverick,maverick
 benjamin-cheer,Ignite,ignite,Phoenix,phoenix
 ryan-wallace,Ignite,ignite,Phoenix,phoenix,Raft,raft,Shrike,shrike
 tait-becke,Phoenix,phoenix
@@ -4573,7 +4526,7 @@ guillaume-morin-brassard,Quake,quake
 simon-thibeault,QrinQué,qrinque,Quake,quake,Quantum,quantum
 steeve-roy,QrinQué,qrinque,Quake,quake,Quantum,quantum
 joel-ruelens-lepoutre,Elements,elements,Quake,quake
-vincent-audibert,Quake,quake
+vincent-audibert,Quake,quake,T-Rex,t-rex
 simon-belanger,Quake,quake
 eric-lafrance,Quake,quake,Quantum,quantum
 joel-auchu,Quake,quake
@@ -4603,20 +4556,76 @@ francis-vall,Quake,quake
 simon-belanger-1,Quake,quake
 cedric-lavoie,Quake,quake
 brody-mckeown,New Scotland Blues,beast,Regiment,regiment
+colin-mcdonell,Regiment,regiment
 francois-morin,Regiment,regiment,Wreckhouse,wreckhouse
 jordan-kavanagh,Regiment,regiment
 ken-budgell,Regiment,regiment
 michael-williams-4,Regiment,regiment
-mike-pineau,Regiment,regiment,Wreckhouse,wreckhouse
 myles-dooley,New Scotland Blues,beast,Regiment,regiment
 nick-mitchell-3,Regiment,regiment
 rob-fleming,Regiment,regiment
+aaron-alexander,Camp X 2019 Open,camp-x,ROY,roy
+alexander-spafford,ROY,roy,Uproar Open,uproar
+benjamin-tatur-1,ROY,roy
+carlos-mo,ROY,roy
+eric-ye,ROY,roy
+geerthan-srikantharajah,ROY,roy
+ian-mcclean-2,Energy,energy,ROY,roy,Uproar Open,uproar
+joe-sismondo,ROY,roy
+john-xia,Energy,energy,ROY,roy,Uproar Open,uproar
+joshua-dong,ROY,roy
+justin-kim,ROY,roy
+kevin-song-1,ROY,roy
+kingsley-hu,ROY,roy
+kody-jeung,ROY,roy
+nathan-lee-4,ROY,roy
+richardson-ng,ROY,roy
+william-tan-1,ROY,roy
+wilson-wang-1,Goose,goose,ROY,roy
+patrick-meredith-karam,ROY,roy
+ryan-wong-1,ROY,roy
+ochir-gansukh,ROY,roy
+vlad-ilic,Energy,energy,ROY,roy
+darren-teoh,ROY,roy
+james-choi,MMV,mmv,ROY,roy
+jason-sun,ROY,roy
+chris-voorpostel,ROY,roy
+mike-fullgraf,ROY,roy
+james-grantis,ROY,roy
+lucas-huang,ROY,roy
+nasir-haider,ROY,roy
+dennis-dobrovolsky,ROY,roy
+daniel-lindquist,ROY,roy,Too Bad,too-bad
+richard-yu,ROY,roy
+derek-wilson-1,ROY,roy
+giancarlo-onorati,ROY,roy
+aaron-cheung,ROY,roy
+daniel-sigal-1,Goose,goose,ROY,roy
+andrew-meehan,ROY,roy,Shrike,shrike
+mark-virata,ROY,roy
+benjamin-tanaka,ROY,roy
+billy-leung,Max Power,max-power,ROY,roy,Too Bad,too-bad
+ivan-yuen,Bingo & Chill,bingo-chill,NoBS,nobs,ROY,roy
+tuong-lam,ROY,roy,TORO Junior Women,toro-open
+joshua-dawes,ROY,roy
+andrew-tang-2,ROY,roy
+justin-jo,ROY,roy
+nick-hung,Backdraft,backdraft,ROY,roy
+uzair-mohiuddin,ROY,roy,TORO Junior Women,toro-open
+nicolas-edwards,ROY,roy
+natan-adelman,ROY,roy
+michael-fan,ROY,roy
+edwin-nguyen,ROY,roy,TORO Junior Women,toro-open
+andy-lu-1,ROY,roy
+david-burden,ROY,roy
+gordon-ly,ROY,roy
+jason-lin-1,ROY,roy,Skerj,skerj
+nathan-lo-1,ROY,roy
 andrew-benson-5,RUT,rut
 ao-guo,RUT,rut
 austin-reimer,RUT,rut
 chris-brennan,Ledge,ledge,RUT,rut
 chris-tuharsky,RUT,rut
-cole-digel,Bunny Thugs,bunny-thugs,Max Power,team-name,RUT,rut
 colin-kuntz,RUT,rut
 demitri-hofer-1,RUT,rut
 jiajun-ding,RUT,rut
@@ -4668,9 +4677,68 @@ pierre-luc-couturier,Shrike,shrike
 rohan-chopra,Shrike,shrike
 simon-walker,Ignite,ignite,Shrike,shrike
 adam-macdonald-1,Too Bad,too-bad
+ben-mussell,Too Bad,too-bad
+donald-kwok,MMV,mmv,Too Bad,too-bad
+elan-swartz-1,Goose,goose,Too Bad,too-bad
+gregory-lang,Too Bad,too-bad
+harry-burkman,Too Bad,too-bad
+josh-chan,Too Bad,too-bad
+josh-mcphie-1,Too Bad,too-bad
+justin-chan,Too Bad,too-bad
 kyle-lam,Energy,energy,Too Bad,too-bad,Uproar Open,uproar
 maxwell-human,Too Bad,too-bad
+nelson-tuen,Too Bad,too-bad
+rick-st-jean,TORO Junior Women,toro-open,Too Bad,too-bad
+ryan-wilson-1,Too Bad,too-bad
 troy-booth,Too Bad,too-bad
+ryan-walsh-2,Surge,surge,Too Bad,too-bad
+richard-macklem,Too Bad,too-bad
+oscar-bodzeta,Too Bad,too-bad
+jason-duiella,Midnight Release,midnight-release,Too Bad,too-bad
+curtis-clack,Backdraft,backdraft,Quick & Dirty,quick-dirty,The Grind,quick-dirty,Too Bad,too-bad
+josh-mcphie,Goose,goose,Too Bad,too-bad
+steven-jefferys-1,Too Bad,too-bad
+lloyd-weema,Too Bad,too-bad
+mat-sipherd-1,Armour,armour,Too Bad,too-bad
+derek-sigurdson,FUEL,fuel,NoBS,nobs,Too Bad,too-bad
+ludwik-sobiesiak,Too Bad,too-bad
+patrick-mckelvey,Too Bad,too-bad
+peter-wilk,Phantoms,phantoms,Too Bad,too-bad
+noah-goldstein-1,Banana Cream Pie,banana-cream-pie,Too Bad,too-bad
+chris-ferguson-martin,Too Bad,too-bad
+chris-price,Too Bad,too-bad
+frank-menendez,Too Bad,too-bad,Vortex Open,vortex,Vortex Women,vortex
+myles-clinton,Armour,armour,Backdraft,backdraft,Too Bad,too-bad
+david-frey,Too Bad,too-bad
+alfred-chan,Too Bad,too-bad
+devin-mccabe-1,Too Bad,too-bad
+keith-mcrae-2,Too Bad,too-bad
+tam-nguyen-4,Too Bad,too-bad
+jeff-gula,Too Bad,too-bad
+greg-seaton,Too Bad,too-bad
+don-colangelo,Bingo & Chill,bingo-chill,Too Bad,too-bad
+eric-wiehler-1,Too Bad,too-bad,Whiskeyjacks,whiskeyjacks
+andrew-thompson-4,Too Bad,too-bad
+chris-galt,Too Bad,too-bad
+van-hung-nguyen,Goose,goose,MMV,mmv,Too Bad,too-bad
+myles-latter,Too Bad,too-bad
+padraic-ryan,Max Power,max-power,Max Power,team-name,Too Bad,too-bad
+ernest-cortez,Max Power,max-power,Too Bad,too-bad
+anthony-slater-1,Bingo & Chill,bingo-chill,Max Power,max-power,Max Power,team-name,Nox,nox,Too Bad,too-bad
+graeme-moffat-1,Too Bad,too-bad
+stephen-frey,Too Bad,too-bad
+saleh-mohamed,Too Bad,too-bad
+calvin-ho,Max Power,max-power,Max Power,team-name,Too Bad,too-bad
+matthew-frederick,Too Bad,too-bad
+david-washer,Too Bad,too-bad
+ben-horgan-1,Too Bad,too-bad
+geoffrey-egger,Banana Cream Pie,banana-cream-pie,Too Bad,too-bad
+peter-washer,Too Bad,too-bad
+craig-weber,Too Bad,too-bad
+peter-hawkings,Bingo & Chill,bingo-chill,Too Bad,too-bad
+mat-sipherd,Too Bad,too-bad
+ryan-ng,Too Bad,too-bad
+chinh-hoang-1,Too Bad,too-bad
 alex-dunnett,Spectrum,spectrum,Whiskeyjacks,whiskeyjacks
 craig-macphee,Spectrum,spectrum,Whiskeyjacks,whiskeyjacks
 easton-fritz,Cannons: Junior Open,cannons-m,Whiskeyjacks,whiskeyjacks
@@ -4680,7 +4748,6 @@ jonathan-mah,Whiskeyjacks,whiskeyjacks
 justin-han-1,Whiskeyjacks,whiskeyjacks
 keven-marshall,Whiskeyjacks,whiskeyjacks
 landon-urquhart,Whiskeyjacks,whiskeyjacks
-mike-szwarz-1,Phantoms,phantoms,Whiskeyjacks,whiskeyjacks
 stephan-wiebe,Whiskeyjacks,whiskeyjacks
 tyler-williams-1,Phantoms,phantoms,Spectrum,spectrum,Whiskeyjacks,whiskeyjacks
 alena-papayanis,6ixers,6ixers,Lotus,lotus,Terra,terra
@@ -4741,10 +4808,8 @@ alexandra-omand,Flurry,flurry
 amanda-seacheng,Flurry,flurry
 anita-hansen,Flurry,flurry,Rogue Hippo,rogue-hippo
 courtney-mielnichuk,Flurry,flurry
-eden-vanderlaan,Flurry,flurry
 elisha-brooks,Cannons: Junior Women,cannons-f,Flurry,flurry,Rogue Hippo,rogue-hippo
 elizabeth-everitt,Flurry,flurry
-erin-bethune-1,Flurry,flurry,Rogue Hippo,rogue-hippo
 evie-varelas,Flurry,flurry,Rogue Hippo,rogue-hippo
 jami-parisien,Flurry,flurry
 kayla-unrau,Flurry,flurry
@@ -4887,7 +4952,6 @@ hyonsuk-kim,Korra,korra
 jade-peterson,Korra,korra
 karly-koronkiewicz,Korra,korra
 kaylan-berg,Korra,korra,Ledge,ledge
-kelbey-woytowich,Bunny Thugs,bunny-thugs,Korra,korra,Max Power,team-name
 keltie-brigham,Korra,korra,Max Power,team-name
 kimberly-ann,Korra,korra
 linh-la-1,Korra,korra
@@ -4983,7 +5047,6 @@ breanne-wish,Sneaky House Hippos,sneaky-house-hippos,Vintage Open,vertigo,Vortex
 chantal-costa,Fable,fable,Sneaky House Hippos,sneaky-house-hippos,Vesta,vesta,Vintage Open,vertigo,Vintage Women,vertigo-jwomen,Vortex Open,vortex,Vortex Women,vortex
 emelie-lundstrom,Shhippos,shhippos,Sneaky House Hippos,sneaky-house-hippos,Wendigo,wendigo
 emily-yuen-1,Banana Cutters,fight-club,Sneaky House Hippos,sneaky-house-hippos,The Super Friends,the-super-friends
-emma-best,Mischief Women,mischief-women,Sneaky House Hippos,sneaky-house-hippos
 emma-madden-krasnick,Shhippos,shhippos,Sneaky House Hippos,sneaky-house-hippos
 esther-au,Goomba Gang,best-coast,Sneaky House Hippos,sneaky-house-hippos
 katherine-lee,Sneaky House Hippos,sneaky-house-hippos,Zephyr,zephyr
@@ -5026,18 +5089,18 @@ melanie-wightman,TOX6ix,tox6ix
 cassie-wong-1,TOX6ix,tox6ix
 carla-rawson,TORO Open,toro,TOX6ix,tox6ix
 sherry-liu-3,TORO Junior Women,toro-open,TORO Open,toro,TOX6ix,tox6ix,Uproar Open,uproar
-elisa-yu,Wild,wild
-emily-bennett,Cannons: Junior Women,cannons-f,Wild,wild
-kira-nagassar,Wild,wild
-melissa-bernstein-1,Fable,fable,Wild,wild
-mollie-johnson,Wild,wild
-monica-walsh,Spectrum,spectrum,Wild,wild
-paige-nuttall,Wild,wild
-sarah-grundy,Wild,wild
-sarah-vooys,Wild,wild
-sarah-williamson-urquhart,Wild,wild
-shannon-woods-1,Wild,wild
-tansie-kuang,Wild,wild
+elisa-yu,Wildish,wild
+emily-bennett,Cannons: Junior Women,cannons-f,Wildish,wild
+kira-nagassar,Wildish,wild
+melissa-bernstein-1,Fable,fable,Wildish,wild
+mollie-johnson,Wildish,wild
+monica-walsh,Spectrum,spectrum,Wildish,wild
+paige-nuttall,Wildish,wild
+sarah-grundy,Wildish,wild
+sarah-vooys,Wildish,wild
+sarah-williamson-urquhart,Wildish,wild
+shannon-woods-1,Wildish,wild
+tansie-kuang,Wildish,wild
 antoine-demers-bergeron-1,Arsenic (Open),arsenic-open
 antoine-lavigne,Arsenic (Open),arsenic-open,Club M - Magma,club-m-magma
 david-ferbeyre-1,Arsenic (Open),arsenic-open
@@ -5243,7 +5306,6 @@ jonah-cheung,Energy,energy
 jason-chui,Energy,energy,Uproar Open,uproar
 sammy-booker,Energy,energy
 ryan-harrs,Energy,energy
-tiger-he-1,Energy,energy,Maverick,maverick
 lucas-kim,Energy,energy
 kevin-pachorro,Energy,energy,TORO Open,toro
 levi-uy,Energy,energy
@@ -5256,6 +5318,7 @@ alexander-martinez,Energy,energy
 josh-rodrigues,Energy,energy
 jaedan-prescott-brown-1,Energy,energy,TORO Open,toro
 raymond-hou,Energy,energy,TORO Open,toro,Uproar Open,uproar
+peter-lam,Energy,energy,Uproar Open,uproar
 jeffery-tang,Energy,energy
 bryan-jung,Energy,energy
 david-rae-1,Energy,energy
@@ -5562,7 +5625,6 @@ jack-murray-2,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,Sp
 adam-fast-1,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 erin-huck-1,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 shelly-lam,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
-olivia-zhou,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo,PBHG,pretty-boys-and-handsome-girls
 avery-sims,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 sam-burrage,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
 evelyn-hancock,Masters of Flying Objects (MOFO),masters-of-flying-objects-mofo
@@ -5787,6 +5849,7 @@ charlie-ens-1,Rogue Squadron,rogue-squadron
 isaac-fortin,Rogue Squadron,rogue-squadron
 jacob-jongsma,Rogue Squadron,rogue-squadron,Uproar Open,uproar
 jake-douglas-1,Rogue Squadron,rogue-squadron
+jake-voskamp,Rogue Squadron,rogue-squadron
 joe-voskamp,Rogue Squadron,rogue-squadron
 john-noble,Rogue Squadron,rogue-squadron
 michael-parajka,Rogue Squadron,rogue-squadron
@@ -5870,6 +5933,7 @@ michael-ma-1,Rolling Thunder Open,rolling-thunder-open
 louis-le,Rolling Thunder Open,rolling-thunder-open
 matthias-bernhard,Rolling Thunder Open,rolling-thunder-open
 felix-brunner-1,Rolling Thunder Open,rolling-thunder-open
+jonah-king,Rolling Thunder Open,rolling-thunder-open
 arkhan-lewis,Rolling Thunder Open,rolling-thunder-open
 alexander-truong,Rolling Thunder Open,rolling-thunder-open
 kyle-ng-1,Rolling Thunder Open,rolling-thunder-open
@@ -5907,7 +5971,7 @@ logan-rivier-gatt,Scorch,scorch
 michael-qin-1,Scorch,scorch
 nicholas-belanger,Scorch,scorch
 sebastien-belanger,Iron Crow,iron-crow,Scorch,scorch
-colleen-nakanishi,Scorch,scorch
+colleen-nakanishi-wood,Scorch,scorch
 logan-cornelius,Scorch,scorch
 brian-childs,Scorch,scorch
 tobias-schlagenhaufer-1,Scorch,scorch
@@ -5956,6 +6020,7 @@ laurel-penney,Storm,nl-storm
 aaron-power,Storm,nl-storm
 charlie-smith-3,Stud,synergy
 daniel-bouwma,Stud,synergy
+gavin-lee,Stud,synergy
 matt-fanciulli,Stud,synergy
 robbie-rodway,Stud,synergy,TORO Open,toro
 ryan-pierce,Stud,synergy
@@ -6052,13 +6117,13 @@ thomas-dubois,Titane (Open),titane-open
 claudine-carbray,Titane (Open),titane-open,Titane (Women),titane-women
 fabrice-heloir,Titane (Open),titane-open
 chris-gnam,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
-eli-park,TORO Open,toro
 jaylord-matalang,TORO Open,toro
 jesse-watt-1,TORO Open,toro
 justin-wray-1,TORO Junior Women,toro-open,TORO Open,toro
 kevin-philip-lee,Force,force,TORO Junior Women,toro-open,TORO Open,toro
 khirode-robertson,TORO Open,toro
 nam-ho,TORO Open,toro,Uproar Open,uproar
+nawid-mehrpoor,TORO Open,toro
 oliver-stonehouse,TORO Open,toro,Uproar Open,uproar
 shanthosh-sivayogalingam,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
 wilkie-lewis,TORO Junior Women,toro-open,TORO Open,toro,Uproar Open,uproar
@@ -6129,7 +6194,6 @@ chris-wakelin-1,Vintage Open,vertigo,Vintage Women,vertigo-jwomen,Vortex Open,vo
 hector-vo,Vintage Open,vertigo
 jake-jang,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 johann-ferrera,Vintage Open,vertigo
-justin-podnar,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 kiefer-hogan,Vintage Open,vertigo
 koji-suzuki,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 mark-chow,Vintage Open,vertigo
@@ -6157,7 +6221,6 @@ jessica-ho-1,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 jenice-dumlao,Vintage Open,vertigo
 sartaj-birring,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 supreet-malhi,Vintage Open,vertigo
-michael-luongo,Fable,fable,Refinery,refinery,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 chirag-patel,Vintage Open,vertigo
 katrina-hortelano,Vintage Open,vertigo,Vortex Open,vortex,Vortex Women,vortex
 amalee-truong,Vintage Open,vertigo,Vintage Women,vertigo-jwomen
@@ -6227,6 +6290,13 @@ sean-hernandez,Vintage Open,vertigo
 chris-lee-2,Vintage Open,vertigo
 paul-de-ruiter,Vintage Open,vertigo
 vertigo-bestuur,Vintage Open,vertigo
+tim-van-lanen,Vintage Open,vertigo
+teun-boerakker,Vintage Open,vertigo
+garrett-guildea,Vintage Open,vertigo
+bram-schut,Vintage Open,vertigo
+maik-weustink,Vintage Open,vertigo
+santiago-navarro-moreno,Vintage Open,vertigo
+anirudha-pandit,Vintage Open,vertigo
 vertigo-eindhoven,Vintage Open,vertigo
 adrian-lee,Vintage Open,vertigo
 emile-renken,Vintage Open,vertigo
@@ -6437,8 +6507,8 @@ daniel-horner,Vortex Open,vortex,Vortex Women,vortex
 reg-gabriel-1,Vortex Open,vortex,Vortex Women,vortex
 joe-kleffner,Vortex Open,vortex,Vortex Women,vortex
 ruth-oclander,Vortex Open,vortex,Vortex Women,vortex
-fadi-hobeila,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom,Vortex Open,vortex,Vortex Women,vortex
 philomene-bourque-2,Titane (Women),titane-women,Vortex Open,vortex,Vortex Women,vortex
+juliette-bougie,Vortex Open,vortex,Vortex Women,vortex
 shane-markham,Bunny Thugs,bunny-thugs,Wheaties,sub-machine
 cullen-de-leon,Rogue Hippo,rogue-hippo,Wheaties,sub-machine
 lee-barber,Wheaties,sub-machine
@@ -6588,7 +6658,6 @@ annie-wu-1,Eclipse Women,eclipse-women
 chloe-merritt,Eclipse Women,eclipse-women
 sandra-balitaan,Eclipse Women,eclipse-women
 kate-xu,Eclipse Women,eclipse-women,Savage Women,savage-women
-hazel-pangilinan,Eclipse Women,eclipse-women,Mischief Women,mischief-women
 cheryl-andre,Eclipse Women,eclipse-women
 miu-shiraiwa,Eclipse Women,eclipse-women,Mischief Women,mischief-women
 tammy-guan,Eclipse Women,eclipse-women,Savage Women,savage-women
@@ -6642,7 +6711,6 @@ nykesha-quinones,Mischief Women,mischief-women
 ashanti-mackenzie-2,Mischief Women,mischief-women
 bryce-paterson,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 caitlin-cho-1,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
-lindsay-marshall,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
 lisbeth-hildebrand,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 maya-sykes,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 cassidy-knockaert-1,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
@@ -6662,11 +6730,11 @@ alix-yallowega,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-fly
 lauren-waldman,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 zoe-dyck,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
 alexi-gagnon,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
-carol-jean-wong-1,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 corey-diamond-burchuk,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 vanessa-hogue,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 tannis-hydesmith,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team
 jordyn-turner-1,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
+emily-cho-2,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,Red River Rebellion,red-river-rebellion
 alexia-shearer,Nightfury Soars,nightfury-soars
 camryn-atfield,Nightfury Soars,nightfury-soars
 elora-kreider,Nightfury Soars,nightfury-soars
@@ -6734,11 +6802,8 @@ catelyn-sue,Uproar Open,uproar
 dionne-hsu,Uproar Open,uproar
 mariah-chang,Uproar Open,uproar
 kaja-linnea-teichroeb,Uproar Open,uproar
-eren-rudy,Maverick,maverick,Uproar Open,uproar
 zuxin-wang,Uproar Open,uproar
-mitchell-jordan,BOAT,boat,TORO Junior Women,toro-open,Uproar Open,uproar
 imran-uddin,Uproar Open,uproar
-marcus-laferriere,Maverick,maverick,Uproar Open,uproar
 paymun-pezeshkpour,Uproar Open,uproar
 jacob-schmidt-1,Uproar Open,uproar
 michael-feutl,Uproar Open,uproar
@@ -6753,7 +6818,6 @@ matthew-gulbronson,Uproar Open,uproar
 tony-chan,Uproar Open,uproar
 ryan-fowlie,Uproar Open,uproar
 nathan-koo,Uproar Open,uproar
-kalvin-thye,BOAT,boat,TORO Junior Women,toro-open,Uproar Open,uproar
 wei-peng-jiang,Uproar Open,uproar
 darragh-herd,Uproar Open,uproar
 conor-murtagh,Uproar Open,uproar
@@ -6832,7 +6896,6 @@ chantel-yung,Uproar Open,uproar
 melanie-taylor-2,Uproar Open,uproar
 berna-abtihodzheva,Uproar Open,uproar
 emilie-montreuil-strub,Uproar Open,uproar,Wicked East,wicked-east
-cynthia-deng,TORO Junior Women,toro-open,Uproar Open,uproar
 gaby-abouzeid,Uproar Open,uproar
 reissa-lee-chan,TORO Junior Women,toro-open,Uproar Open,uproar
 rosalind-cho,Uproar Open,uproar
@@ -7001,6 +7064,7 @@ kara-huang,Rolling Thunder Women,rolling-thunder-women
 michelle-chan-5,Rolling Thunder Women,rolling-thunder-women
 chanice-noquiera,Rolling Thunder Women,rolling-thunder-women
 fasica-mehatebe,Rolling Thunder Women,rolling-thunder-women
+haley-corcoran,Rolling Thunder Women,rolling-thunder-women
 elsa-chen,Rolling Thunder Women,rolling-thunder-women
 sylvia-kong,Rolling Thunder Women,rolling-thunder-women
 alexa-placencia,Rolling Thunder Women,rolling-thunder-women
@@ -7061,7 +7125,6 @@ doris-zeng,TORO Junior Women,toro-open
 jaidyn-lunn,TORO Junior Women,toro-open
 jenny-zhang,TORO Junior Women,toro-open
 monica-wang,TORO Junior Women,toro-open
-rachel-cooc,TORO Junior Women,toro-open
 tracey-dao,TORO Junior Women,toro-open
 patrick-mooney-2,TORO Junior Women,toro-open
 jaidyn-lunn-1,TORO Junior Women,toro-open
@@ -7131,6 +7194,7 @@ elise-lafortune,Wicked West,wicked-west
 emily-kavanagh,Wicked West,wicked-west
 hali-gernon-coach,Wicked West,wicked-west
 jillian-murray,Wicked West,wicked-west
+maude-demers,Wicked West,wicked-west
 miyen-ho,Wicked West,wicked-west
 naomi-peterson-1,Wicked West,wicked-west
 evan-waterman,Wicked West,wicked-west
@@ -7217,7 +7281,7 @@ teri-lewis,Spectrum,spectrum
 john-jenkins,Phantoms,phantoms,Spectrum,spectrum
 mark-twyver,Phantoms,phantoms,Spectrum,spectrum
 travis-brownlee,Phantoms,phantoms,Spectrum,spectrum
-jini-penugonde,Prairie Fire,dyna,Spectrum,spectrum,Wild,wild
+jini-penugonde,Prairie Fire,dyna,Spectrum,spectrum,Wildish,wild
 christine-millar,Spectrum,spectrum
 melanie-sard,Spectrum,spectrum
 megan-gatzsch-1,Spectrum,spectrum
@@ -7268,6 +7332,7 @@ tiago-hori,Borderline,borderline
 malik-brunet-benkhoucha,Borderline,borderline
 laurence-lambin-gagnon,Borderline,borderline,Magma,magma,T-Rex,t-rex
 jean-sebastien-chouinard,Borderline,borderline,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
+francois-duchesneau,Borderline,borderline,Club M - MESA,club-m-mesa,Club M - Magma,club-m-magma
 francois-gagnier,Borderline,borderline,Club M - MESA,club-m-mesa
 joe-wager,Borderline,borderline
 ryan-doucet,Borderline,borderline
@@ -7442,6 +7507,7 @@ benoit-theriault,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,N
 bruno-collard,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom
 daniel-lachance,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom
 david-habak,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
+fadi-hobeila,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom
 gregory-challant,Cherry Bomb,cherry-bomb,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM 2,nsom-2,NSOM,nsom
 jean-francois-bourque,Club M - MESA,club-m-mesa,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom
 jean-francois-trudel,Magma,magma,NSOM 1,nothing-sexier-than-old-montrealers-nsom,NSOM,nsom,Sriracha,sriracha
@@ -7540,6 +7606,7 @@ hannah-sherwood-1,Mint,mint
 caitie-mccaffrey,Mint,mint
 lauren-vandyken,Mint,mint
 shaina-langley-2,Mint,mint
+amanda-clarke-2,Nebula,nebula
 amy-mckay-1,Nebula,nebula
 janet-ibit,Nebula,nebula
 megan-mahoney-2,Nebula,nebula,Stella B,stella-b
@@ -7635,12 +7702,12 @@ steven-zhang-1,Thrift Shop,thrift-shop
 dennis-odea,Thrift Shop,thrift-shop
 tyler-coffey,Thrift Shop,thrift-shop
 tyler-monroe,Thrift Shop,thrift-shop
-amelie-bleau,Cherry Bomb,cherry-bomb,Eclipse,eclipse,Vega,vega,X-Squad,x-squad
 amelie-piche-richard,Vega,vega,X-Squad,x-squad
 annick-martin,Mystik,mystik,Storm,storm,Storm,storm-112213,Vega,vega
 aurelie-reynaud-1,Vega,vega
 chloe-cardinal,Vega,vega,X-Squad,x-squad
 melodie-rousseau-1,Vega,vega
+murielle-chapuis,Vega,vega,X-Squad,x-squad
 tim-webber,Vega,vega
 christine-purtell,Vega,vega
 joshua-munger-1,Vega,vega
@@ -7668,7 +7735,6 @@ maryse-lefebvre,Vega,vega
 anne-dansereau-menard,Vega,vega,X-Squad,x-squad
 emilie-desautels-tremblay,Vega,vega
 carolann-valley,Valkyrie,valkyrie,Vega,vega
-catherine-lalonde-1,Storm,storm-112213,Vega,vega
 julie-moens-2,Beer Kitty,beer-kitty,Team Fisher Price,team-fisher-price
 lindsay-olimer,Beer Kitty,beer-kitty
 melody-lam,Beer Kitty,beer-kitty
@@ -7701,14 +7767,12 @@ michael-chirlin,Beer Kitty,beer-kitty
 sep-durfee,Beer Kitty,beer-kitty
 althea-matheson,Bunny Thugs,bunny-thugs
 elissa-doerksen,Bunny Thugs,bunny-thugs,Sting,sting
-elora-mcleod,Bunny Thugs,bunny-thugs,Sting,sting
 morgan-braaten,Bunny Thugs,bunny-thugs
 petra-kujawa,Bunny Thugs,bunny-thugs
 shana-yates,Bunny Thugs,bunny-thugs
 adam-zulkoskey,Bunny Thugs,bunny-thugs
 brett-lendsay,Bunny Thugs,bunny-thugs
 carter-hunks,Bunny Thugs,bunny-thugs
-colin-haughian,Bunny Thugs,bunny-thugs,Sting,sting
 dan-oreilly-1,Bunny Thugs,bunny-thugs
 garret-gartner-1,Bunny Thugs,bunny-thugs
 garrett-peters,Bunny Thugs,bunny-thugs
@@ -7756,7 +7820,6 @@ sean-karner-1,Crux,crux
 christine-liu-1,Fable,fable
 jenna-mcdonald,Fable,fable
 kaitlyn-harper,Fable,fable,Shhippos,shhippos
-sarah-cawston-stewart-1,Fable,fable,Wendigo,wendigo,Zephyr,zephyr
 eric-huynh-1,Fable,fable,Refinery,refinery
 mark-bustin,Fable,fable,MMV,mmv,NoBS,nobs
 tanner-marshall,Fable,fable
@@ -7796,7 +7859,6 @@ lorraine-stelck,Eclipse,eclipse,Rogue Hippo,rogue-hippo
 mallory-lussier,Rogue Hippo,rogue-hippo
 mallory-lussier-1,Rogue Hippo,rogue-hippo
 kevin-stoesz,Rogue Hippo,rogue-hippo,Whiskeyjacks,whiskeyjacks
-justin-lussier-1,Rogue Hippo,rogue-hippo
 richard-clark-1,Rogue Hippo,rogue-hippo
 tyler-edwards,Rogue Hippo,rogue-hippo
 andrew-dirgo-1,Rogue Hippo,rogue-hippo
@@ -7856,7 +7918,6 @@ olivier-gamache-1,Club M - Magma,club-m-magma
 albert-kragl,Club M - Manic,club-m-manic,Refinery,refinery
 francis-laviolette,Club M - Magma,club-m-magma,Club M - Manic,club-m-manic,Magma,magma
 frederic-lemieux,Club M - Manic,club-m-manic,Magma,magma
-liam-mckeown,Club M - MESA,club-m-mesa,Club M - Manic,club-m-manic
 marc-andre-duchesneau,Club M - MESA,club-m-mesa,Club M - Manic,club-m-manic,Magma,magma
 nicolas-bouillon,Club M - MESA,club-m-mesa,Club M - Manic,club-m-manic
 philip-jacob-frigon,Club M - Manic,club-m-manic,Magma,magma
@@ -7895,7 +7956,6 @@ alexandre-richard,Club M - MESA,club-m-mesa
 daniel-sarrasin,Club M - MESA,club-m-mesa,FUEL,fuel
 mathieu-fontaine,Club M - MESA,club-m-mesa,Magma,magma
 damian-lirette,Goose,goose
-dan-bennett,Goose,goose
 drew-carrick,Goose,goose
 heyang-guo,Goose,goose
 jd-sherman,Goose,goose
@@ -7909,30 +7969,19 @@ david-janssen,Critical Mass,critical-mass,Goose,goose
 bryan-dang,Goose,goose
 simon-raimbault,Goose,goose
 tyler-bridges,Goose,goose
-jason-knight-1,Goose,goose,Maverick,maverick
 clark-amistad,Goose,goose
-roy-perez,Goose,goose,Maverick,maverick
-aaron-wilson-2,Goose,goose,Maverick,maverick
-neil-grzegorczyk,Goose,goose,Maverick,maverick
 matt-vibert-adams,Goose,goose
 rob-bright,Goose,goose
 ian-grzegorczyk,Goose,goose
 jonathan-de-leyer,Goose,goose
 jake-schuller,Goose,goose
 jordan-howe,Goose,goose
-jonathon-hallett-1,Goose,goose,Maverick,maverick
 ben-allen-2,Goose,goose
-derek-williamson,Goose,goose,Maverick,maverick
 steven-johnston,Goose,goose
 tirath-dave,Goose,goose
-jonathan-lo,Goose,goose,Maverick,maverick
 eric-hunsberger,Goose,goose
 kyle-mccaughey,Backdraft,backdraft,Houndd,houndd,Legendairy,legendairy
 shaw-dungate-1,Alberta Flatball Club,alberta-flatball-club,Backdraft,backdraft,Houndd,houndd,NADS,nads
-giorgio-cabrera,Maverick,maverick
-jeremie-gabor,Maverick,maverick,NADS,nads
-joshua-bone,Maverick,maverick,Skerj,skerj
-philip-cheung,Maverick,maverick
 dustin-albert,NADS,nads
 eric-bourdon-1,NADS,nads
 graham-jaskula-1,NADS,nads
@@ -7941,6 +7990,7 @@ jack-daley-3,NADS,nads
 jeff-smith-2,NADS,nads
 jeffrey-graham,NADS,nads
 mike-yu-2,NADS,nads
+neal-mckinnon,NADS,nads
 ryan-daley,NADS,nads
 ryan-devuono,NADS,nads
 scotty-nicholls,NADS,nads
@@ -8054,7 +8104,6 @@ alison-van,PPF BEEs,ppf-bees
 brevna-balachandran,PPF BEEs,ppf-bees
 darcy-nelson,PPF BEEs,ppf-bees
 emma-thorpe-2,PPF BEEs,ppf-bees
-hannah-gordon,PPF BEEs,ppf-bees
 jennifer-osborne,PPF BEEs,ppf-bees
 laura-beecraft,PPF BEEs,ppf-bees
 marina-baldassare,PPF BEEs,ppf-bees
@@ -8105,7 +8154,6 @@ marie-louise-marquis,Qub,qub
 felix-marceau-turcotte,Qub,qub
 sabrina-gariepy,Qarma 2017,qarma-2017,Qub,qub
 marie-christine-lord,Qub,qub
-marlene-boulet,QrinQué,qrinque,Qub,qub
 alexandra-poirier-1,Qub,qub
 guillaume-turcotte,QrinQué,qrinque,Qub,qub
 amanda-ring,Salty,salty
@@ -8187,7 +8235,6 @@ kirk-macrae-1,Banana Cream Pie,banana-cream-pie,NoBS,nobs
 michael-good-1,Banana Cream Pie,banana-cream-pie,FUEL,fuel,NoBS,nobs
 paul-hamilton-2,Banana Cream Pie,banana-cream-pie
 scott-belair,Banana Cream Pie,banana-cream-pie,FUEL,fuel
-sean-hutchins,Banana Cream Pie,banana-cream-pie
 christian-hajok-1,Banana Cream Pie,banana-cream-pie
 kelly-barrington,Banana Cream Pie,banana-cream-pie
 ben-elzingacheng,Banana Cream Pie,banana-cream-pie,Bingo & Chill,bingo-chill
@@ -8232,7 +8279,6 @@ stephen-macdougall,Armour,armour
 tim-weatherup,Armour,armour,Backdraft,backdraft
 jamie-dempster,Best Before,best-before,Max Power,max-power,NoBS,nobs
 jason-unger-1,Carbon,carbon
-johnny-byrne-1,Carbon,carbon,Wreckhouse,wreckhouse
 matt-heffernan-2,Alberta Flatball Club,alberta-flatball-club,Carbon,carbon
 andrew-cameron-3,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015
 ariel-untiveros,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015
@@ -8254,7 +8300,6 @@ nick-klimowicz,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015
 ryan-katz-rosene,Iron Crow,iron-crow,Nor'Easter,noreaster,Raft,raft
 seton-stiebert,Iron Crow,iron-crow,Shepherds,shepherds
 thomas-ferguson,Iron Crow,iron-crow,Shrike,shrike
-tom-newman,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015
 trevor-pound,Iron Crow,iron-crow,IronCrow 2015,ironcrow-2015
 jonathan-rayner,Iron Crow,iron-crow,NSOM,nsom
 david-townsend,Iron Crow,iron-crow
@@ -8428,6 +8473,7 @@ jean-philippe-martin,Eclipse,eclipse
 karine-lacerte,Eclipse,eclipse,Storm,storm
 dany-gallant,Club M - Magma,club-m-magma,Eclipse,eclipse
 melanie-mecteau,Eclipse,eclipse
+anick-neron,Eclipse,eclipse,Nebula,nebula,Stella A,stella-a
 bridget-berry,Nebula,nebula
 carrie-anne-whyte,Nebula,nebula
 hope-celani-1,Nebula,nebula
@@ -8438,7 +8484,7 @@ heather-adams-1,Prairie Fire,dyna,Terra,terra
 holly-murray,Prairie Fire,dyna
 laura-brown-1,Prairie Fire,dyna
 liesl-ellis,Prairie Fire,dyna
-martha-paterson,Prairie Fire,dyna,Wild,wild
+martha-paterson,Prairie Fire,dyna,Wildish,wild
 stephanie-ma,Prairie Fire,dyna
 onalee-orchard-2,Prairie Fire,dyna
 leah-merkley-1,Prairie Fire,dyna
@@ -8451,7 +8497,7 @@ cindy-martin,MASH,mash,Prairie Fire,dyna
 sarah-lloyd-2,Prairie Fire,dyna
 vittoria-bellissimo,Prairie Fire,dyna
 jen-malzer,MASH,mash,Prairie Fire,dyna
-sarah-ursulan,Prairie Fire,dyna,Wild,wild
+sarah-ursulan,Prairie Fire,dyna,Wildish,wild
 gemma-epp,Prairie Fire,dyna
 ashley-ramsden-wood,Prairie Fire,dyna
 janine-mak,Prairie Fire,dyna
@@ -8568,7 +8614,6 @@ bowen-liu,Fable,fable
 henry-jue,Fable,fable
 kevin-michael-roque,Fable,fable
 paul-young-2,Fable,fable,Jerk Factory,pogey-train,Refinery,refinery
-william-ieong,Fable,fable
 luke-ogrady-1,Force,force
 andrea-maxie,Homegirl,homegirl,Homegrown,homegrown,Max Power,max-power,Terra,terra
 gabrielle-plamondon,Homegrown,homegrown
@@ -8739,11 +8784,6 @@ gatlin-schiele-1,Sting,sting
 brenden-conrad-2,Sting,sting
 justin-barac,Sting,sting
 daniel-faye,Sting,sting
-rotimi-fadiya,BOAT,boat,Force,force
-shevon-lowe,BOAT,boat
-steven-her-1,BOAT,boat
-tarik-akyuz-1,BOAT,boat
-tim-martin-2,BOAT,boat
 antony-labrecque,Club M - Magma,club-m-magma
 philippe-ponsot,Club M - Magma,club-m-magma,FUEL,fuel
 renaud-chouinard,Club M - Magma,club-m-magma
@@ -8900,13 +8940,11 @@ simon-verret,Gentlement's Club 2,gentlements-club-2
 tong-zhang,Gentlement's Club 2,gentlements-club-2
 samuel-dube-3,Gentlement's Club 2,gentlements-club-2
 jean-francois-rousseau-1,Gentlement's Club 2,gentlements-club-2
-andrew-ouchterlony,GOAT,goat
 geoffrey-powell,GOAT,goat
 jonathan-edwards-1,GOAT,goat,Nagano '98,nagano-98
 ben-oakley,Jerk Factory,jerk-factory
 blake-archibald,Jerk Factory,jerk-factory
 cory-fairweather,Jerk Factory,jerk-factory,Jerk Factory,pogey-train
-mike-wyrebek,Maverick,maverick,Quick & Dirty,quick-dirty,The Grind,quick-dirty
 jake-saunders,Mockingbird,mockingbird
 kevin-groulx,Mockingbird,mockingbird
 mike-voelpel-1,Mockingbird,mockingbird
@@ -8916,7 +8954,7 @@ william-andrews-1,Elements,elements,Mockingbird,mockingbird
 olivier-st-denis,Mockingbird,mockingbird,No In Cut,no-in-cut
 antoine-bordeleau-landry-1,Mockingbird,mockingbird
 marc-olivier-morand,Magma,magma,Mockingbird,mockingbird,No In Cut,no-in-cut,T-Rex,t-rex
-sebastien-perron-1,Mockingbird,mockingbird,NSOM,nsom,No In Cut,no-in-cut
+sebastien-perron-1,Mockingbird,mockingbird,No In Cut,no-in-cut
 brian-le-phan,Refinery,refinery
 chris-birkinshaw,Goldfish,fishblack,Refinery,refinery
 daniel-mcguire,Refinery,refinery
@@ -8980,8 +9018,6 @@ martin-boulet,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 matthieu-daniaux,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 philippe-payeur-lebeuf,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 william-rodier,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
-maxime-durand-gasselin-1,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
-hugo-stringer,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 nathaniel-leonard,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 xavier-blanchette,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
 samuel-rioux-denis,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club
@@ -9032,6 +9068,11 @@ jonathan-barrera-navarro,T-Rex,t-rex
 juan-jose-tovar,T-Rex,t-rex
 felipe-ortiz,T-Rex,t-rex
 bruno-bernal-corona,T-Rex,t-rex
+sophie-st-pierre-1,T-Rex,t-rex
+julie-marceau,T-Rex,t-rex
+eloise-horth-lepage-1,T-Rex,t-rex
+jessica-dube-2,T-Rex,t-rex
+raphael-comeau,T-Rex,t-rex
 alexa-kovacs,Fusion,fusion
 anya-snider,Fusion,fusion
 cassidy-kelch,Fusion,fusion,Nonsuch,nonsuch
@@ -9401,7 +9442,6 @@ jen-gibson,MMV,mmv
 janice-wong-2,MMV,mmv
 brittany-ryan,MMV,mmv
 helena-veenkamp,MMV,mmv
-emilija-krudzite,MMV,mmv
 cathy-wan-1,MMV,mmv
 karin-lethbridge,MMV,mmv
 victoria-vale,MMV,mmv
@@ -9426,7 +9466,6 @@ claire-reierson,MUTX,mutx
 elisa-roux,MUTX,mutx
 elisa-tran,Lily,lily,MUTX,mutx
 karissa-tabtieng,MUTX,mutx
-alex-carey,MUTX,mutx
 alistair-russell,MUTX,mutx
 charlie-marokhovsky,MUTX,mutx
 nicolas-swan,MUTX,mutx
@@ -9543,7 +9582,6 @@ kerry-foley,Skerj,skerj
 laura-joldersma,Lily,lily,Skerj,skerj
 adam-lazenby-1,Skerj,skerj
 ian-gough,Skerj,skerj
-jon-david,Skerj,skerj
 liam-kinzie-1,Skerj,skerj
 matthew-adams,Skerj,skerj
 matthew-gaster-1,Skerj,skerj
@@ -9665,7 +9703,6 @@ blake-mcstravick,Phantoms,phantoms,Republic,republic
 darius-kinney,Republic,republic
 dwight-milford,Republic,republic
 james-rogers,Republic,republic
-jesse-sinclair-1,Republic,republic
 joel-calton,Republic,republic
 johnny-wentworth,Republic,republic
 kit-st-john,Republic,republic
@@ -9718,7 +9755,6 @@ dan-roman,MASH,mash
 andrew-haas-2,MASH,mash
 ben-juchli,Alberta Flatball Club,alberta-flatball-club
 willie-tran-1,Alberta Flatball Club,alberta-flatball-club
-geoffrey-seeman,BOAT,boat
 dean-johnstone,General Strike,general-strike
 alex-hackney,Goldfish,fishblack
 darragh-bourke,Goldfish,fishblack
@@ -9791,9 +9827,9 @@ geoff-marjoram,Whiskeyjacks,whiskeyjacks
 patrick-casey,Whiskeyjacks,whiskeyjacks
 tom-guiot,Whiskeyjacks,whiskeyjacks
 ainslee-heim,Fusion,fusion
-emma-billington,Wild,wild
-yvonne-woods-1,Wild,wild
-zoe-zegers,Wild,wild
+emma-billington,Wildish,wild
+yvonne-woods-1,Wildish,wild
+zoe-zegers,Wildish,wild
 dasha-gritsaenko,Zephyr,zephyr
 emily-ip,Zephyr,zephyr
 karen-wright-1,Zephyr,zephyr
@@ -9913,7 +9949,6 @@ patrick-duchaine,NSOM,nsom
 nicolas-restrepo-1,NSOM,nsom
 eric-desrosiers,NSOM,nsom
 frederic-levesque-1,NSOM,nsom
-louis-philippe-f-dion-1,NSOM,nsom
 brett-taylor,Shepherds,shepherds
 chris-keith,Shepherds,shepherds
 dave-mitchell,Shepherds,shepherds
@@ -10058,28 +10093,14 @@ branislav-jasko,Storm,storm
 roman-dubovsky,Storm,storm
 jeremy-nielsen,Storm,storm
 mike-dries,Storm,storm
-nate-bullis,Storm,storm
 todd-essig,Storm,storm
-chris-poppert,Storm,storm
 jim-oliver,Storm,storm
-david-nelson-6,Storm,storm
 john-marchant,Storm,storm
-ryan-marshall-5,Storm,storm
-rafael-vega,Storm,storm
-sam-schuler,Storm,storm
-karl-schmidtke,Storm,storm
-john-little-2,Storm,storm
-donte-wilkins,Storm,storm
-mark-christenson,Storm,storm
-paul-elbow,Storm,storm
-sam-slagle,Storm,storm
-patrick-phenow,Storm,storm
+taylor-burlson,Storm,storm
+musa-sukati,Storm,storm
+jakob-hull,Storm,storm
 steve-bradley,Storm,storm
-jay-kroehler,Storm,storm
-papa-kwesi-annan,Storm,storm
-sam-nichols-3,Storm,storm
-drew-ahlstrom,Storm,storm
-oketekyie-dakwa-agyekum,Storm,storm
+skyler-geinert,Storm,storm
 matthew-kehoe,Storm,storm
 john-paul-gleiter,Storm,storm
 sandra-knabe,Storm,storm
@@ -10130,4 +10151,4 @@ james-robin-1,Surge,surge
 daniel-gimbel-1,Surge,surge
 luke-rodriguez,Surge,surge
 kalan-howard,Surge,surge
-jana-makar,Wild,wild
+jana-makar,Wildish,wild

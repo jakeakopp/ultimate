@@ -48,6 +48,7 @@ carlie-sorgini,Crash,crash-4,2021,Thunder,thunder-5,2018,Thunder,thunder-5,2019
 daiana-spataru-1,Crash,crash-4,2021,Khaos,khaos,2019,Thunder,thunder-5,2017,Thunder,thunder-5,2018
 heather-neary,Crash,crash-4,2021,Khaos,khaos,2019,Midnight Release,midnight-release,2016,Notorious KWG,notorious-kwg,2021,Union,union-4,2015,Union,union-8,2017
 julia-peden,Crash,crash-4,2021,Khaos,khaos,2019,PPF,ppf-6,2017,PPF,ppf-6,2018
+kathryn-marcelino,Crash,crash-4,2021,PPF,ppf-6,2019,TOX6ix,tox6ix-1,2017
 kristen-dearden,Crash,crash-1,2015,Crash,crash-1,2016,Crash,crash-4,2021,SOUP,soup-5,2019
 kristen-tam,Crash,crash-4,2021,Crux,crux,2018,PPF,ppf-6,2019
 lauren-green,Crash,crash-4,2021,Khaos,khaos,2019,PPF,ppf-6,2017,PPF,ppf-6,2018
@@ -85,6 +86,7 @@ ryan-tanner-1,Crux,crux,2018,Crux,crux,2019,Crux,crux,2021
 yannick-castonguay-page,Crux,crux,2018,Crux,crux,2019,Crux,crux,2021,Jerk Factory,jerk-factory-1,2017
 doris-chang,Fable,fable-1,2021,Wise Ninjas,wise-ninjas,2018
 grace-huang-3,Fable,fable-1,2019,Fable,fable-1,2021
+hazel-pangilinan,Fable,fable-1,2021
 jessica-davies-1,Fable,fable-1,2021
 meghan-kemp-gee-1,Fable,fable-1,2021
 natalie-cheah,Fable,fable-1,2021,Koi,koi-2,2019
@@ -94,13 +96,15 @@ stefanie-del-gobbo,Fable,fable-1,2021,Local 613,local-613-1,2018,Local 613,local
 trisha-roberson-1,Fable,fable-1,2017,Fable,fable-1,2018,Fable,fable-1,2019,Fable,fable-1,2021,Forever Young,forever-young-1,2021,Zephyr,zephyr-2,2016
 yumi-wong,Fable,fable-1,2021
 alexander-truong-1,Fable,fable-1,2021
-allan-zacca,Fable,fable-1,2021
+allan-zacca,Fable,fable-1,2021,Forever Young,forever-young-1,2021
 andrew-kilback,Fable,fable-1,2018,Fable,fable-1,2019,Fable,fable-1,2021,Refinery,refinery-3,2017
+benoit-dupras,Fable,fable-1,2021
 christopher-eng,Fable,fable-1,2021
 daniel-sax,Fable,fable-1,2021
 gyorgy-aponte,Fable,fable-1,2021
 kevin-lu-2,Fable,fable-1,2017,Fable,fable-1,2018,Fable,fable-1,2021,Refinery,refinery-1,2016
 michael-godfrey-1,Fable,fable-1,2021,NoBS,nobs,2015,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-9,2016
+michael-luongo,Fable,fable-1,2017,Fable,fable-1,2018,Fable,fable-1,2021
 myron-loke,Fable,fable-1,2019,Fable,fable-1,2021
 shawn-huynh,Fable,fable-1,2021,ReUnion,reunion-2,2019,Tombstone,tombstone-1,2021,Zen,zen-11,2017,Zen,zen-13,2018
 bailee-davis,Force,force,2015,Force,force,2016,Force,force,2017,Force,force,2018,Force,force,2019,Force,force,2021
@@ -116,6 +120,8 @@ bryan-spekkers-2,Force,force,2021
 daniel-huynh-1,Force,force,2018,Force,force,2019,Force,force,2021,ROY,roy-4,2017,Union,union-4,2015
 jake-letheren,Force,force,2017,Force,force,2019,Force,force,2021,TORO Open,toro,2018
 jesse-robertson-1,Force,force,2016,Force,force,2017,Force,force,2018,Force,force,2019,Force,force,2021,Max Power,vax-power,2021,Shepherds,shepherds,2015
+matt-hofing,Force,force,2015,Force,force,2016,Force,force,2017,Force,force,2018,Force,force,2019,Force,force,2021
+peter-aloussis,Force,force,2017,Force,force,2018,Force,force,2019,Force,force,2021
 scott-painter,Force,force,2015,Force,force,2017,Force,force,2018,Force,force,2019,Force,force,2021,Midnight Release,midnight-release,2016
 teagan-boyle,Force,force,2016,Force,force,2017,Force,force,2018,Force,force,2021
 thomas-black,Force,force,2017,Force,force,2021,Grand Trunk,grand-trunk-4,2018,Khaos,khaos,2019,Union,union-4,2015
@@ -148,30 +154,31 @@ decebal-michaud-1,Local 613,local-613-1,2018,Local 613,local-613-1,2019,Local 61
 hesham-kamal,Local 613,local-613-1,2018,Local 613,local-613-1,2019,Local 613,local-613-1,2021,Local 613,local-613,2016
 jean-luc-st-laurent,Local 613,local-613-1,2021,Local 613,local-613,2016
 jonathon-de-leyer,Local 613,local-613-1,2019,Local 613,local-613-1,2021
+mitchell-wheatley,Local 613,local-613-1,2021
 peter-galbraith,Local 613,local-613-1,2019,Local 613,local-613-1,2021,Local 613,local-613,2016
 rian-mcgrouther,Local 613,local-613-1,2018,Local 613,local-613-1,2019,Local 613,local-613-1,2021,Midnight Release,midnight-release,2016
 amber-steinke,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
 angelu-mae-galvez,Fusion,fusion-2,2016,Fusion,fusion-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
-breanne-yozenko,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 hillary-rempel-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 kaycee-hunt,Fusion,fusion-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
+lindsay-marshall,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018,PBHG,pretty-boys-and-handsome-girls-2,2021
 maddie-schwartz,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
-braxton-mcintosh-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
+olivia-zhou,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2021
+brayden-nemetchek-2,PBHG,pretty-boys-and-handsome-girls-2,2021
+elliot-wong,General Strike,general-strike-3,2015,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 ethan-chochinov,Grand Trunk,grand-trunk-4,2018,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
 josh-kerr,Critical Mass,critical-mass-2,2015,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
-kyle-thomson,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
 liam-sawatzky,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 matthew-page-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 will-konrad,General Strike,general-strike-3,2015,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 william-medwick,Critical Mass,critical-mass-2,2015,Critical Mass,critical-mass-2,2017,General Strike,general-strike-3,2016,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021
-zack-hawley,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,PBHG,pretty-boys-and-handsome-girls-2,2021,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 catherine-bouchard,Quest 2021,quest-2021,2021
 catherine-carrier,Iris,iris-3,2019,QrinQué,qrinque,2016,Quest 2021,quest-2021,2021
 florence-bouchard,Qub,qub-4,2017,Quest 2021,quest-2021,2021,Quest,quest-1,2016
 julie-lemelin,Quest 2021,quest-2021,2021,Quest,quest-7,2019
-kim-ly-bui,Quest 2021,quest-2021,2021,Quest,quest-2,2018,Quest,quest-7,2019
+kim-ly-bui,MaQramée,maqramee,2021,Quest 2021,quest-2021,2021,Quest,quest-2,2018,Quest,quest-7,2019
 laurence-drouin,Qub,qub-4,2017,Quest 2021,quest-2021,2021,Quest,quest-7,2019
-maggie-musclow,Quest 2021,quest-2021,2021,Quest,quest-2,2018,Wild,wild-1,2015,Wild,wild-1,2016
+maggie-musclow,Quest 2021,quest-2021,2021,Quest,quest-2,2018,Wildish,wild-1,2015,Wildish,wild-1,2016
 marie-therese-veillette-matte,Qarma 2017,qarma-2017,2017,Qub,qub-4,2018,Quest 2021,quest-2021,2021
 maude-gagnon,Quest 2021,quest-2021,2021,Quest,quest-2,2018,Quest,quest-7,2019
 stephanie-marchand,Quasar,quasar-2,2019,Quest 2021,quest-2021,2021
@@ -199,6 +206,7 @@ zoe-luke-1,Red Flag,red-flag,2021
 alexander-lam,Banana Cutters,fight-club-1,2017,Mio Grape,mio-grape,2016,Red Flag,red-flag,2021
 andrew-ling,Blackfish,blackfish-5,2018,Blackfish,blackfish-6,2019,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2017,Jerk Factory,pogey-train,2015,Red Flag,red-flag,2021
 edward-guo,Banana Cutters,fight-club-1,2017,Blackfish,blackfish-5,2018,Blackfish,blackfish-6,2019,Eclipse Open,eclipse-open,2018,Furious George,furious-george-1,2015,Red Flag,red-flag,2021
+justin-podnar,Red Flag,red-flag,2021,Vintage Open,vertigo-1,2018
 kevin-tong,Red Flag,red-flag,2021,Vortex Open,vortex-2,2018
 koji-suzuki-1,Red Flag,red-flag,2021
 kyle-tsia,Blackfish,blackfish-5,2017,Goldfish,fishblack,2016,Red Flag,red-flag,2021
@@ -207,6 +215,7 @@ mat-goodkey,Furious George,furious-george-1,2019,Phoenix,phoenix-1,2015,Red Flag
 neo-debroux,Red Flag,red-flag,2021
 nicolas-choy,Blackfish,blackfish-5,2017,Goldfish,fishblack,2016,Red Flag,red-flag,2021
 peter-yu,Banana Cutters,fight-club-1,2017,Furious George,furious-george-1,2019,Goomba Gang,best-coast,2018,Mio Grape,mio-grape,2016,Red Flag,red-flag,2021
+ryan-hoy,Banana Cutters,fight-club-1,2017,Blackfish,blackfish-2,2015,Blackfish,blackfish-2,2016,Blackfish,blackfish-6,2019,Goomba Gang,best-coast,2018,Red Flag,red-flag,2021
 sam-creed-1,Blackfish,blackfish-2,2016,Blackfish,blackfish-5,2017,Blackfish,blackfish-5,2018,Blackfish,blackfish-6,2019,Furious George,furious-george-1,2015,Red Flag,red-flag,2021
 beatrice-couture,Red Fox,red-fox,2021
 cassandre-gervais,EXO,exo-6,2018,Red Fox,red-fox,2021
@@ -216,6 +225,7 @@ marianne-fortier,Red Fox,red-fox,2021
 marianne-thibodeau,Animals,animals-1,2016,EXO,exo-6,2017,Red Fox,red-fox,2019,Red Fox,red-fox,2021
 mathilde-renaud,Red Fox,red-fox,2021
 maude-prevost,Animals,animals-1,2015,Animals,animals-1,2016,Animals,animals-1,2017,Red Fox,red-fox,2021
+antoine-dube,Red Fox,red-fox,2021
 antoine-lambert,Red Fox,red-fox,2019,Red Fox,red-fox,2021
 charles-lambert-1,Red Fox,red-fox,2021
 dominick-dussault,Animals,animals-1,2015,Animals,animals-1,2016,Red Fox,red-fox,2021
@@ -225,24 +235,24 @@ simon-martin,Animals,animals-1,2015,Animals,animals-1,2016,Animals,animals-1,201
 vincent-lamoureux,Animals,animals-1,2015,Animals,animals-1,2017,Red Fox,red-fox,2019,Red Fox,red-fox,2021
 andrea-dietz-1,Luna Ultimate,luna-ultimate,2018,Luna Ultimate,luna-ultimate,2019,Spawn,spawn-8,2021
 becky-chasse,Spawn,spawn-2,2019,Spawn,spawn-8,2021,The Collective,the-collective-5,2017,The Collective,the-collective-5,2018
-christina-coulombe,Spawn,spawn-2,2019,Spawn,spawn-8,2021,The Collective,the-collective-5,2018
 emily-hawkins,Spawn,spawn-2,2019,Spawn,spawn-8,2021,The Collective,the-collective-5,2017,The Collective,the-collective-5,2018
 emma-plant,Spawn,spawn-8,2021
 flora-hay,Spawn,spawn-2,2019,Spawn,spawn-8,2021
 gaelyn-mcmackin,Spawn,spawn-2,2019,Spawn,spawn-8,2021
 kathryn-campbell-1,Spawn,spawn-8,2021
+molly-gallibois,Spawn,spawn-8,2021
 rachel-aske,Spawn,spawn-8,2021
-darin-wigley,Spawn,spawn-8,2021
 djordje-lepir,Spawn,spawn-2,2019,Spawn,spawn-8,2021
 donnie-mcphee,Spawn,spawn-8,2021
 dragan-veselinovic,Spawn,spawn-2,2019,Spawn,spawn-8,2021
 dustin-smith-2,Spawn,spawn-8,2021
 jacob-savoie-1,Spawn,spawn-8,2021
 joel-beck,Jerk Factory,jerk-factory-1,2017,Spawn,spawn-2,2019,Spawn,spawn-8,2021
+jonathan-murray,Spawn,spawn-2,2019,Spawn,spawn-8,2021
 leland-morehouse,Spawn,spawn-2,2019,Spawn,spawn-8,2021
+luke-ogrady-2,Spawn,spawn-8,2021
 mark-oconnor-1,High Tide Open,team-nb-1,2018,Spawn,spawn-8,2021
 seth-porter,High Tide Open,team-nb-1,2018,Spawn,spawn-2,2019,Spawn,spawn-8,2021
-shaun-williams,Spawn,spawn-8,2021
 amy-luo,Shhippos,shhippos,2017,Sneaky House Hippos,sneaky-house-hippos-4,2019,T.T,tt,2018,T.T,tt,2021
 garbo-lee-1,T.T,tt,2018,T.T,tt,2019,T.T,tt,2021
 jacqueline-chan-1,T.T,tt,2018,T.T,tt,2019,T.T,tt,2021
@@ -251,6 +261,7 @@ kayla-zhu-1,T.T,tt,2019,T.T,tt,2021
 kelly-luk,T.T,tt,2021
 krystie-lee,Forever Young,forever-young-1,2021,T.T,tt,2019,T.T,tt,2021
 lily-huang,T.T,tt,2018,T.T,tt,2019,T.T,tt,2021
+lydia-rasmusens-1,Forever Young,forever-young-1,2021,T.T,tt,2018,T.T,tt,2019,T.T,tt,2021
 nancy-yang,T.T,tt,2021,The Super Friends,the-super-friends-1,2018
 sarah-zhang,T.T,tt,2021
 aldrich-fruto-1,Forever Young,forever-young-1,2021,T.T,tt,2018,T.T,tt,2019,T.T,tt,2021
@@ -262,10 +273,11 @@ jacob-mundo,Blackfish,blackfish-5,2018,T.T,tt,2021
 jazz-groden-gilchrist,Blackfish,blackfish-2,2015,Blackfish,blackfish-5,2017,Blackfish,blackfish-5,2018,Goldfish,fishblack,2016,T.T,tt,2019,T.T,tt,2021
 peter-liang,Forever Young,forever-young-1,2021,T.T,tt,2021
 samuel-lam,T.T,tt,2021
+william-ieong,Fable,fable-1,2017,T.T,tt,2021
 alyne-azucena,Lotus,lotus-4,2015,Union,union-5,2021,Union,union-8,2017,Union,union-8,2019
 danielle-leung,Lotus,lotus-4,2015,Max Power,max-power-3,2016,ReUnion,reunion-2,2021,Union,union-5,2021,Union,union-8,2017,Union,union-8,2019
 emma-seaborn,Union,union-4,2015,Union,union-5,2021
-emma-thorpe-1,PPF,ppf-5,2015,TFT,tft,2016,Union,union-5,2021,lowercase,lowercase-1,2019
+emma-thorpe-1,PPF,ppf-5,2015,ReUnion,reunion-2,2021,TFT,tft,2016,Union,union-5,2021,lowercase,lowercase-1,2019
 jacqueline-man-1,Max Power,max-power-3,2016,PPF,ppf-5,2015,ReUnion,reunion-2,2021,Union,union-5,2021,Union,union-8,2017,Union,union-8,2019
 jamee-nepom,TOX6ix,tox6ix-1,2017,TOX6ix,tox6ix-3,2018,Union,union-5,2021,Union,union-8,2019
 leah-tackaberry-giddens,TOX6ix,tox6ix-3,2018,TOX6ix,tox6ix-3,2019,Union,union-5,2021
@@ -284,19 +296,22 @@ eric-blanchard,BoD,bod-1,2021,TFT,tft,2016,Union,union-4,2015,Union,union-5,2021
 jeff-mcclelland,Backdraft,backdraft,2015,Quick & Dirty,quick-dirty-2,2016,Union,union-5,2021,Union,union-8,2017,Union,union-8,2019
 jeffrey-woo,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Union,union-5,2021
 jordan-atchison,Crash,crash-1,2016,Maverick,maverick-6,2015,Union,union-5,2021,Union,union-8,2017,Union,union-8,2019
-ronald-siu,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Union,union-4,2015,Union,union-5,2021,Union,union-8,2019
+ronald-siu,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Max Power,vax-power,2021,Union,union-4,2015,Union,union-5,2021,Union,union-8,2019
 celina-tran,Lily,lily-6,2015,TOX6ix,tox6ix-1,2017,Zen,zen-15,2019,Zen,zen-16,2021
+emilija-krudzite,Zen,zen-16,2021
 emily-tran,TOX6ix,tox6ix-1,2017,TOX6ix,tox6ix-3,2018,Union,union-8,2019,Zen,zen-16,2021
 isabelle-pacleb,TORO Junior Women,toro-open,2018,Zen,zen-16,2021
+jacqui-hayworth,Dinner At 4,dinner-at-4,2021,MMV,mmv,2016,TOX6ix,tox6ix-3,2018,Zen,zen-11,2017,Zen,zen-15,2019,Zen,zen-16,2021
 jenny-chen,Crux,crux,2018,PPF,ppf-5,2015,Zen,zen-16,2021
 lindsay-chong-1,Magmarok,magmarok,2021,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-16,2021
 melanie-tran,Zen,zen-15,2019,Zen,zen-16,2021
+samantha-esteves,PPF,ppf-5,2015,Zen,zen-16,2021
 david-tang-1,Too Bad,too-bad-2,2018,Zen,zen-16,2021
 hugo-lynch,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-16,2021,Zen,zen-9,2016
+jenson-lam,Zen,zen-16,2021
 larry-zhou,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2017,ROY,roy-4,2018,Zen,zen-16,2021
 mark-tran,Force,force,2019,NoBS,nobs,2015,NoBS,nobs,2016,Zen,zen-16,2021
 mason-westfall,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-16,2021,Zen,zen-9,2016
-nathaniel-faries,Maverick,maverick-6,2015,Union,union-8,2017,Union,union-8,2019,Zen,zen-16,2021
 oren-binnun,Critical Mass,critical-mass-2,2015,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Zen,zen-16,2021
 robert-jackson-4,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-16,2021
 travis-dewolf-1,MMV,mmv,2016,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019,Zen,zen-16,2021
@@ -306,13 +321,16 @@ brendan-lacy,Alberta Flatball Club,alberta-flatball-club,2021,Berta Flatball Clu
 bryn-mcdougald,Alberta Flatball Club,alberta-flatball-club,2021
 cesar-montes-martinez,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021
 cole-niawchuk,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021
-dave-hochhalter,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021,GOAT,goat-3,2015
+dave-hochhalter,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021,Carbon,carbon-1,2021,GOAT,goat-3,2015
 eric-bedard,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021,Carbon,carbon-1,2021
 ishaq-lee-son,Alberta Flatball Club,alberta-flatball-club,2021
+jayden-platt-1,Alberta Flatball Club,alberta-flatball-club,2021,Berta Flatball Club,aberta-flatball-club,2019,Rogue Hippo,rogue-hippo-6,2018
 jordan-vogel-1,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021
+justin-keough,Alberta Flatball Club,alberta-flatball-club,2021
 korey-kobylka,Alberta Flatball Club,alberta-flatball-club,2021,Berta Flatball Club,aberta-flatball-club,2019
 landon-lavoie,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021
 mark-unterschultz,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021,Carbon,carbon-1,2021
+matthew-hoehne,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019,Alberta Flatball Club,alberta-flatball-club,2021
 nigel-lendsay,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2021,Bunny Thugs,bunny-thugs-2,2016,Bunny Thugs,bunny-thugs-2,2017
 quin-greenaway,Alberta Flatball Club,alberta-flatball-club,2021
 ryan-lacy-2,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2021
@@ -342,51 +360,16 @@ ryan-graves,Blackfish,blackfish-6,2021
 sam-but,Blackfish,blackfish-6,2021,DNA,dna-3,2019,Goldfish,fishblack,2016,Whitefish,whitefish,2018
 tyus-chow,Blackfish,blackfish-6,2019,Blackfish,blackfish-6,2021,Goldfish,fishblack,2016,Refinery,refinery-3,2017,Whitefish,whitefish,2018
 william-tang-1,Blackfish,blackfish-6,2021
-alvin-lee-1,BOAT,boat-1,2021,COAT,coat-1,2019
-ben-klar,BOAT,boat-1,2021
-brian-tran,BOAT,boat-1,2019,BOAT,boat-1,2021,Uproar Open,uproar-8,2018
-ganish-narain,BOAT,boat-1,2021,COAT,coat-1,2018,COAT,coat-1,2019
-jack-park-1,BOAT,boat-1,2021
-jacob-white-10,BOAT,boat-1,2021
-kavin-sritharan,BOAT,boat-1,2019,BOAT,boat-1,2021
-keegan-lee-newbury,BOAT,boat-1,2021,Union,union-8,2019,Zen,zen-11,2017,Zen,zen-13,2018
-liam-macarthur,BOAT,boat-1,2019,BOAT,boat-1,2021,COAT,coat-1,2018
-lucas-mckeown,BOAT,boat-1,2018,BOAT,boat-1,2019,BOAT,boat-1,2021
-martin-shiu,BOAT,boat-1,2019,BOAT,boat-1,2021
-martin-sieniawski,BOAT,boat-1,2021,COAT,coat-1,2019
-matthew-lam-1,BOAT,boat-1,2021
-micheal-kukucska,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2018,BOAT,boat-1,2019,BOAT,boat-1,2021,COAT,coat-1,2018
-mohammed-alhadid,BOAT,boat-1,2019,BOAT,boat-1,2021,COAT,coat-1,2018
-nawid-mehrpoor,BOAT,boat-1,2021,TORO Open,toro,2018
-peter-lam,BOAT,boat-1,2021,Uproar Open,uproar-8,2018
-taylor-chung,BOAT,boat-1,2021,COAT,coat-1,2019
-wilson-pan,BOAT,boat-1,2021,COAT,coat-1,2019
-alexandre-dubois,Club M - Magma,club-m-magma,2021
-antoine-debien,Club M - Magma,club-m-magma,2021
-antoine-fortier,Club M - Magma,club-m-magma,2021
-benjamin-gasseau,Club M - Magma,club-m-magma,2021
-bo-chi-zhang,Club M - Magma,club-m-magma,2021
-charles-graton,Club M - Magma,club-m-magma,2021
-christian-taboada,Club M - Magma,club-m-magma,2021
-felix-cote-dubuc,Club M - Magma,club-m-magma,2021
-francois-duchesneau,Club M - Magma,club-m-magma,2018,Club M - Magma,club-m-magma,2021
-hubert-barrette-laganiere,Club M - Magma,club-m-magma,2021
-hugo-fournier-1,Club M - Magma,club-m-magma,2021
-justin-sabetti,Club M - Magma,club-m-magma,2021
-louis-philippe-crepeau,Club M - Magma,club-m-magma,2021
-moreno-miguel,Club M - Magma,club-m-magma,2021
-nathan-osman,Club M - Magma,club-m-magma,2021
-nicola-teolis,Club M - Magma,club-m-magma,2021
-philippe-kirouac-1,Club M - Magma,club-m-magma,2021
-raffael-cinq-mars,Club M - Magma,club-m-magma,2021
-simon-vervaet,Club M - MESA,club-m-mesa,2017,Club M - Magma,club-m-magma,2021,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018
-stephane-beniak,Club M - Magma,club-m-magma,2021
 charles-guay-1,Club M - Manic,club-m-manic,2021
 ciprian-iorga,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018,Club M - Manic,club-m-manic,2019,Club M - Manic,club-m-manic,2021
+clubm-ultimate,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018,Club M - Magma,club-m-magma,2019,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2019,Club M - Manic,club-m-manic,2021
 farouk-oussaada,Club M - Magma,club-m-magma,2018,Club M - Manic,club-m-manic,2019,Club M - Manic,club-m-manic,2021
 henri-labonte,Club M - Magma,club-m-magma,2019,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2021
 jeremie-giard,Club M - Manic,club-m-manic,2021
 jonathan-baril,Arsenic (Open),arsenic-open,2018,Club M - Manic,club-m-manic,2021
+julien-poitras-plante,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2021
+ketan-vasudeva,Club M - Manic,club-m-manic,2021,Houndd,houndd-1,2019,Stud,synergy,2018
+liam-mckeown,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2021
 louis-pierre-lauzon,BoD,bod-1,2019,Club M - Manic,club-m-manic,2021,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2021,Titane (Open),titane-open,2018,Vénus,venus-6,2019
 ludovic-cao,Club M - Magma,club-m-magma,2019,Club M - Manic,club-m-manic,2021
 nicolas-plante-henry,Club M - Manic,club-m-manic,2021
@@ -431,16 +414,24 @@ quinn-wilson-2,General Strike,general-strike-3,2021
 stephen-crew,General Strike,general-strike-3,2019,General Strike,general-strike-3,2021
 steven-brown-5,General Strike,general-strike-3,2015,General Strike,general-strike-3,2016,General Strike,general-strike-3,2017,General Strike,general-strike-3,2021
 zachary-tottle,General Strike,general-strike-3,2019,General Strike,general-strike-3,2021
+adam-oadonnell,Crash,crash-1,2015,GOAT,goat-3,2021,Maverick,maverick-7,2017,Phoenix,phoenix-1,2018,SOUP,soup-5,2019
+adrian-yearwood,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021
+andrew-ouchterlony,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2021
+ben-pries-1,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021
 cameron-harris-2,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,TFT,tft,2016
 dan-lafrance,BOAT,boat-1,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,Skerj,skerj,2016
+eli-park,GOAT,goat-3,2021,TORO Open,toro,2018
 geoff-powell,GOAT,goat-3,2019,GOAT,goat-3,2021
 iain-mackenzie,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021
 isaiah-masek-kelly,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,Nagano '98,nagano-98-1,2016
 jacky-hau,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,Grand Trunk,grand-trunk-4,2018,Nagano '98,nagano-98-1,2016
+james-lewis-3,GOAT,goat-3,2021,SOUP,soup-5,2019
 jaret-meron,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,Grand Trunk,grand-trunk-4,2015,Nagano '98,nagano-98-1,2016
 jason-huynh-1,GOAT,goat-3,2017,GOAT,goat-3,2021
 jason-lam-1,GOAT,goat-3,2019,GOAT,goat-3,2021,Grand Trunk,grand-trunk-4,2015,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2017
 jonathan-edwards-4,GOAT,goat-3,2019,GOAT,goat-3,2021
+kevin-jay,Backdraft,backdraft-1,2017,GOAT,goat-3,2021,Houndd,houndd-1,2018,Houndd,houndd-1,2019
+kieran-charnock,GOAT,goat-3,2019,GOAT,goat-3,2021
 luc-comire-1,GOAT,goat-3,2019,GOAT,goat-3,2021
 marijo-zlatic,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021,Nagano '98,nagano-98-1,2016
 michael-mackenzie-1,GOAT,goat-3,2017,GOAT,goat-3,2019,GOAT,goat-3,2021
@@ -452,19 +443,21 @@ thomson-mcknight-1,GOAT,goat-3,2021
 abdullah-saleem,BOAT,boat-1,2016,BOAT,boat-1,2018,Grand Trunk,grand-trunk-6,2021
 blake-harriott,Goose,goose-6,2018,Grand Trunk,grand-trunk-6,2021
 christopher-chan,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,Refinery,refinery-3,2017
+daniel-wong-1,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,Midnight Release,midnight-release,2016,Union,union-4,2015
 edmund-un,COAT,coat-1,2018,Grand Trunk,grand-trunk-6,2021,Maverick,maverick-7,2019
 galvin-cho,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,ROY,roy-4,2017,ROY,roy-4,2018
 ian-bone-1,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021
 jake-turcotte,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2018,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,NoBS,nobs,2015
-jason-li-1,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021
 jason-liu-2,Grand Trunk,grand-trunk-6,2021
 john-huang,BOAT,boat-1,2016,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,Uproar Open,uproar-8,2018
 jonathan-chung,BOAT,boat-1,2016,BOAT,boat-1,2018,Grand Trunk,grand-trunk-6,2021,Maverick,maverick-6,2015
 josh-bone,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021
 keith-mcrae-1,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021
+kelvin-huang,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,ROY,roy-4,2018
 matthew-gulbronson-1,Grand Trunk,grand-trunk-6,2021,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019
 nathan-hsieh,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2021,Houndd,houndd-1,2019,Refinery,refinery-3,2017
 nelson-le,Crux,crux,2018,Grand Trunk,grand-trunk-6,2021,Trail Mix,trail-mix,2019
+riley-lublow,Grand Trunk,grand-trunk-6,2019,Grand Trunk,grand-trunk-6,2021,ROY,roy-4,2017,ROY,roy-4,2018
 rui-carvalho-1,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2018,Grand Trunk,grand-trunk-6,2021
 wallace-jiang,BOAT,boat-1,2016,Force,force,2019,Grand Trunk,grand-trunk-6,2021,ROY,roy-4,2017,ROY,roy-4,2018
 arthur-chow,Houndd,houndd-1,2021
@@ -485,24 +478,6 @@ lp-blouin,Backdraft,backdraft-1,2016,Backdraft,backdraft-1,2017,Backdraft,backdr
 michael-leung-1,Houndd,houndd-1,2019,Houndd,houndd-1,2021,TORO Open,toro,2018
 nathan-ambrose,Houndd,houndd-1,2021,TORO Open,toro,2018
 travis-puckrin,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,Houndd,houndd-1,2019,Houndd,houndd-1,2021,Legendairy,legendairy,2016
-aaron-orchard,Maverick,maverick-7,2021
-adison-oliver,Goose,goose-8,2017,Maverick,maverick-7,2016,Maverick,maverick-7,2018,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-david-schmitt-1,Maverick,maverick-7,2021
-derek-mcconomy,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-dinushan-dayarathna,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-joel-steinmann,Maverick,maverick-7,2018,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-john-agda,Maverick,maverick-6,2015,Maverick,maverick-7,2019,Maverick,maverick-7,2021,Thunder,thunder-5,2016,Thunder,thunder-5,2017,Thunder,thunder-5,2018
-jonathan-moyer,Goose,goose-6,2018,Goose,goose-8,2017,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-justin-degeer-1,Maverick,maverick-7,2018,Maverick,maverick-7,2021,Thunder,thunder-5,2017
-ken-dunbar,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-kyle-vandeemter,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2021
-marcus-kretz,Goose,goose-6,2018,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-matthew-sullivan-3,Maverick,maverick-7,2021
-sahad-vasanji,Maverick,maverick-7,2021
-seth-stevenson,Maverick,maverick-7,2019,Maverick,maverick-7,2021
-shawn-benedict-1,Maverick,maverick-7,2021
-tav-gayle,Goose,goose-6,2018,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2019,Maverick,maverick-7,2021,Viper,viper,2019,Viper,viper,2021
-zachary-anderson,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2021
 andre-arsenault,LAB,lab-3,2019,Mephisto,mephisto-7,2021,Mockingbird,mockingbird,2015,Mockingbird,mockingbird,2017
 antoine-rousseau,Mephisto,mephisto-7,2021,Quake,quake-4,2019,Quest,quest-2,2018
 basile-limoges,Mephisto,mephisto-7,2021,Mockingbird,mockingbird,2017
@@ -510,6 +485,7 @@ christophe-tremblay-joncas-1,LAB,lab-3,2019,Mephisto,mephisto-7,2021,Mockingbird
 eliott-heloir,Mephisto,mephisto-7,2021,Titane (Open),titane-open,2018
 felix-leonard,Mephisto,mephisto-7,2021
 gabriel-monfette,LAB,lab-3,2019,Mephisto,mephisto-7,2021,Mockingbird,mockingbird,2015,Mockingbird,mockingbird,2017,No In Cut,no-in-cut,2016
+hayden-stone,Mephisto,mephisto-7,2021
 jakob-brisette,Club M - Manic,club-m-manic,2018,Mephisto,mephisto-7,2021
 jonathan-hayduk-1,Blackfish,blackfish-6,2019,Mephisto,mephisto-7,2021
 julien-senechal,Club M - Magma,club-m-magma,2019,Mephisto,mephisto-7,2021
@@ -586,7 +562,6 @@ andrew-workman,Regiment,regiment,2019,Regiment,regiment,2021
 brandon-kilfoy,Regiment,regiment,2019,Regiment,regiment,2021
 caden-connors,Red Circus,red-circus-4,2018,Regiment,regiment,2021
 cameron-penney,Regiment,regiment,2021
-colin-mcdonell,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021
 craig-stoyles,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021,Storm,nl-storm,2018,Wreckhouse,wreckhouse-3,2015
 dave-reddy-1,Regiment,regiment,2018,Regiment,regiment,2021
 david-whitney-brown,Blackfish,blackfish-5,2017,Regiment,regiment,2021,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
@@ -598,25 +573,11 @@ jeff-summers,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,202
 keith-krieger,Regiment,regiment,2019,Regiment,regiment,2021,Wreckhouse,wreckhouse-2,2016
 marc-bennett,Regiment,regiment,2021
 michael-walsh-3,Regiment,regiment,2019,Regiment,regiment,2021
+mike-pineau,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021
 nicholas-house,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021,Storm,nl-storm-1,2018,Storm,nl-storm,2018,Wreckhouse,wreckhouse-2,2016,Wreckhouse,wreckhouse-3,2015
 paolo-mascarin,Borderline,borderline,2015,Dead Circus,tbd-269,2021,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021,Wreckhouse,wreckhouse-2,2016
 ryan-pickard,Regiment,regiment,2021
 william-kerr,Regiment,regiment,2018,Regiment,regiment,2019,Regiment,regiment,2021
-arthur-chu,Magmarok,magmarok,2021,Roy,roy-9,2021
-d-c-1,Roy,roy-9,2021
-dylan-mark-1,Roy,roy-9,2021
-edward-bredin,Roy,roy-9,2021
-eric-ye,ROY,roy-6,2019,Roy,roy-9,2021
-gavin-lee,Roy,roy-9,2021,Stud,synergy,2018
-geerthan-srikantharajah,ROY,roy-6,2019,Roy,roy-9,2021
-hei-nam-tobias-chow,Roy,roy-9,2021
-j-s-3,Roy,roy-9,2021
-james-ho-1,ROY,roy-6,2019,Roy,roy-9,2021
-joel-poon,Roy,roy-9,2021
-joshua-dong,ROY,roy-6,2019,Roy,roy-9,2021
-justin-kim,ROY,roy-6,2019,Roy,roy-9,2021
-terrence-cheung,Magmarok,magmarok,2021,Roy,roy-9,2021
-wilson-wang-1,Goose,goose-6,2018,ROY,roy-6,2019,Roy,roy-9,2021
 adam-leonard,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club,2021
 alexis-nadeau,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club,2021
 alexis-mael-goyette-maille,Sherbrooke gentlemen’s club,sherbrooke-gentlemenas-club,2021
@@ -655,35 +616,21 @@ shem-lau-chapdelaine,Nationals,nationals-2,2021,Shrike,shrike,2021
 thomas-dunnigan,Crank,crank-2,2019,Ignite,ignite-1,2018,Shrike,shrike,2021
 thomas-sattolo,Shrike,shrike,2021
 walker-gee-2,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Phoenix,phoenix,2019,Raft,raft,2016,Shrike,shrike,2021
-arthur-yan,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019,Too Bad,too-bad,2021,Zen,zen-13,2018
-colin-mattison,Too Bad,too-bad,2019,Too Bad,too-bad,2021,Viper,viper,2021
-david-ip,ROY,roy-4,2017,ROY,roy-4,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021,Zen,zen-9,2016
-donald-kwok,MMV,mmv,2016,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-gregory-lang,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-harry-burkman,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-jay-ramos,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019,Too Bad,too-bad,2021,Zen,zen-9,2016
-josh-chan,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-kevin-chao,Blackfish,blackfish-5,2017,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2018,Too Bad,too-bad,2021,Union,union-8,2019
-martin-cloake,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2016,Nationals,nationals-2,2021,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-matt-rothwell,Local 613,local-613-1,2018,Local 613,local-613,2016,Too Bad,too-bad,2021
-neal-mckinnon,NADS,nads,2017,NADS,nads,2018,Too Bad,too-bad,2021
-rick-st-jean,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-ryan-mussell,Nationals,nationals-2,2021,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-ryan-walsh-2,Too Bad,too-bad-2,2018,Too Bad,too-bad,2021
-ryan-wilson-1,Too Bad,too-bad,2019,Too Bad,too-bad,2021
-steven-jefferys,Too Bad,too-bad,2021
 arthur-lau,Carbon,carbon-1,2021,Lit,lit-2,2018,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
 brennan-weaver,Whiskeyjacks,whiskeyjacks,2021
 bryce-geeraert,Whiskeyjacks,whiskeyjacks,2021
 charles-dourado,Bunny Thugs,bunny-thugs-2,2016,Bunny Thugs,bunny-thugs-2,2017,Lit,lit-4,2019,Whiskeyjacks,whiskeyjacks,2021
 cody-wunder,Whiskeyjacks,whiskeyjacks,2021
+cole-digel,Bunny Thugs,bunny-thugs-2,2015,Bunny Thugs,bunny-thugs-2,2016,Bunny Thugs,bunny-thugs-2,2017,Bunny Thugs,bunny-thugs-2,2018,RUT,rut-6,2019,Whiskeyjacks,whiskeyjacks,2021
 dallen-mohagen,Alberta Flatball Club,alberta-flatball-club,2015,Lit,lit-4,2019,Rogue Hippo,rogue-hippo-5,2017,Rogue Hippo,rogue-hippo-6,2018,Whiskeyjacks,whiskeyjacks,2021
 ian-mintz,Cannons: Junior Open,cannons-m,2018,Whiskeyjacks,whiskeyjacks,2021
 jason-stepp,Whiskeyjacks,whiskeyjacks,2021
 jedediah-heal-1,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
 jeff-russon,Whiskeyjacks,whiskeyjacks,2021
 keith-letendre,Phantoms,phantoms-2,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
+ken-truong,Carbon,carbon-1,2021,Lit,lit-2,2018,Lit,lit-4,2019,Whiskeyjacks,whiskeyjacks,2021
 michael-huynh-1,Carbon,carbon-1,2021,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
+mike-szwarz-1,Phantoms,phantoms-2,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
 nick-beck,Whiskeyjacks,whiskeyjacks,2019,Whiskeyjacks,whiskeyjacks,2021
 pavel-linkov,Whiskeyjacks,whiskeyjacks,2021
 stanley-vong,Whiskeyjacks,whiskeyjacks,2021
@@ -703,21 +650,25 @@ lauren-kimura,6ixers,6ixers,2019,6ixers,6ixers,2021,Nagano '98,nagano-98-1,2016,
 molly-lewis,6ixers,6ixers,2019,6ixers,6ixers,2021,MUTX,mutx,2016
 neelima-basra,6ixers,6ixers,2021,PPF BEEs,ppf-bees-1,2018,TOX6ix,tox6ix-3,2019
 nicolette-bertsch,6ixers,6ixers,2019,6ixers,6ixers,2021
+rachel-cooc,6ixers,6ixers,2021,TORO Junior Women,toro-open,2018
 sara-mar,6ixers,6ixers,2019,6ixers,6ixers,2021,TOX6ix,tox6ix-1,2017
 sarah-bobak-1,6ixers,6ixers,2019,6ixers,6ixers,2021,Capitals,capitals-2,2015,Nagano '98,nagano-98-1,2016
 tyama-lyall,6ixers,6ixers,2021,TORO Junior Women,toro-open,2018,TOX6ix,tox6ix-3,2019
+veera-sethuraman,6ixers,6ixers,2021
 wynne-gee,6ixers,6ixers,2021,Stella A,stella-a-2,2017,Stella,stella-10,2018,Stella,stella-11,2019
 amy-lam,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
+arabella-brudney-2,Fusion,fusion-2,2021
 britney-griffiths,Fusion,fusion-2,2019,Fusion,fusion-2,2021,Mint,mint-1,2015,Mint,mint-1,2016,Mint,mint-1,2017,Mint,mint-1,2018
 caitlin-cho,Fusion,fusion-2,2021
 carmen-lee-chochinov,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
+carol-jean-wong-1,Fusion,fusion-2,2021
 elan-chochinov,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
-emily-cho-2,Fusion,fusion-2,2021,Red River Rebellion,red-river-rebellion,2018
 emily-forrest,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
 jade-sharpe,Fusion,fusion-2,2021
 joely-valencerina,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
 karen-hatch-1,Fusion,fusion-2,2021
 katrina-freiling,Fusion,fusion-2,2021
+kiersten-hilland-4,Fusion,fusion-2,2021
 krista-aitken,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2021
 laura-hatch,Fusion,fusion-2,2015,Fusion,fusion-2,2016,Fusion,fusion-2,2017,Fusion,fusion-2,2019,Fusion,fusion-2,2021
 lauren-cogan,Fusion,fusion-2,2021,Red River Rebellion,red-river-rebellion,2018
@@ -739,6 +690,7 @@ genevieve-richard-1,Battleship,battleship-6,2019,Iris,iris-3,2021,Vénus,venus,2
 jessie-grignon-tomas,Club M - Manic,club-m-manic,2017,Iris,iris-1,2015,Iris,iris-3,2021
 julia-biris,Iris,iris-3,2017,Iris,iris-3,2018,Iris,iris-3,2019,Iris,iris-3,2021
 julia-topart,Iris,iris-3,2021,Quakers,quakers-1,2019,Qub,qub-4,2018
+kimberly-morin-coulombe,6ixers,6ixers,2019,Iris,iris-1,2015,Iris,iris-3,2017,Iris,iris-3,2018,Iris,iris-3,2021,No In Cut,no-in-cut,2016
 laure-drouin-jacques,Iris,iris-3,2019,Iris,iris-3,2021,Vénus,venus,2017
 laurence-champagne,Iris,iris-3,2021,Storm,storm-2,2015
 marie-genest,Iris,iris-1,2015,Iris,iris-3,2017,Iris,iris-3,2019,Iris,iris-3,2021,No In Cut,no-in-cut,2016
@@ -749,6 +701,7 @@ nyna-prevost,Iris,iris-3,2018,Iris,iris-3,2019,Iris,iris-3,2021,Vénus,venus,201
 penelope-robert,Iris,iris-3,2019,Iris,iris-3,2021,Qub,qub-4,2018
 roxanne-goderre,Iris,iris-3,2019,Iris,iris-3,2021
 sandra-williams,Club M - Manic,club-m-manic,2017,Iris,iris-1,2015,Iris,iris-3,2017,Iris,iris-3,2018,Iris,iris-3,2021
+shaunagh-howard,Iris,iris-3,2017,Iris,iris-3,2018,Iris,iris-3,2021,Vénus,venus,2015
 virginie-cote,EXO,exo-6,2017,Iris,iris-3,2018,Iris,iris-3,2019,Iris,iris-3,2021
 virginie-maltais,Iris,iris-3,2017,Iris,iris-3,2018,Iris,iris-3,2019,Iris,iris-3,2021
 catie-akune,Eclipse Women,eclipse-women,2018,KoiSHH,koishh,2021
@@ -769,6 +722,7 @@ yvette-ni,KoiSHH,koishh,2021
 agnes-chu,Lotus,lotus-4,2015,PPF,ppf-6,2017,PPF,ppf-6,2018,PPF,ppf-6,2019,PPF,ppf-6,2021
 alexandrea-austin,Crash,crash-1,2015,PPF,ppf-6,2017,PPF,ppf-6,2018,PPF,ppf-6,2021
 benedict-wong,PPF,ppf-6,2021,TOX6ix,tox6ix-1,2017,TOX6ix,tox6ix-3,2018
+cynthia-deng,PPF,ppf-6,2021,TORO Junior Women,toro-open,2018
 eastelle-ding,Nox,nox-1,2018,PPF,ppf-6,2021
 gillian-wu,PPF,ppf-6,2019,PPF,ppf-6,2021
 grace-wang-3,PPF,ppf-6,2021
@@ -776,8 +730,8 @@ hannah-sholtz,Crux,crux,2018,PPF,ppf-6,2019,PPF,ppf-6,2021
 ishika-kaushal,PPF,ppf-6,2021
 izabela-batko,PPF BEEs,ppf-bees-1,2018,PPF,ppf-6,2019,PPF,ppf-6,2021
 jocelyn-li-1,PPF,ppf-6,2021
-kathryn-marcelino,PPF,ppf-6,2019,PPF,ppf-6,2021,TOX6ix,tox6ix-1,2017
 lillie-sun-1,PPF,ppf-6,2021
+lydia-ji,PPF,ppf-6,2021
 madeline-chan,PPF,ppf-6,2021
 molly-kojder-1,Legendairy,legendairy,2016,PPF,ppf-6,2017,PPF,ppf-6,2018,PPF,ppf-6,2019,PPF,ppf-6,2021
 roxine-kee,PPF,ppf-6,2021
@@ -811,6 +765,7 @@ catherine-liang,Salty,salty-4,2021
 chiara-ferrero-wong,Salty,salty-4,2021
 claire-genest,Salty,salty-4,2021,Tempest,team-01-1375,2017
 desta-shaw-naka,Salty,salty-4,2021,Tyrannosaurus Rad,t-rad,2018
+elizabeth-weld,Salty,salty-4,2017,Salty,salty-4,2021
 emily-lamoureux,Salty,salty-4,2017,Salty,salty-4,2018,Salty,salty-4,2021
 jennie-korus,Anchor,anchor-ultimate,2017,Anchor,anchor-ultimate,2019,Salty,salty-4,2018,Salty,salty-4,2021
 jessie-brown,1778 AT,tbd-207,2019,Salty,salty-4,2021,StellO,stello,2021
@@ -840,12 +795,16 @@ kaylee-sparks,Capitals,capitals-2,2015,Stella A,stella-a-2,2017,Stella,stella-11
 lauren-ballantyne,Salty,salty-4,2018,Stella,stella-11,2021
 reegan-belanger-1,Stella,stella-11,2021,Wicked West,wicked-west-2,2018
 samantha-green-1,Capitals,capitals-2,2015,StellO,stello,2021,Stella A,stella-a-2,2017,Stella,stella-10,2018,Stella,stella-11,2019,Stella,stella-11,2021
+sandy-ma-1,Stella,stella-11,2021
+andrea-moir-1,Traffic,traffic-6,2021
 brianne-wager,Fable,fable-1,2017,Fable,fable-1,2018,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Zephyr,zephyr-2,2016
 camille-alvarez,Koi,koi-2,2018,Sneaky House Hippos,sneaky-house-hippos-4,2019,Traffic,traffic-6,2021,Vesta,vesta,2017,Vintage Women,vertigo-jwomen,2018
-catherine-hui-1,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019,Traffic,traffic-6,2021
+catherine-menzies,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019,Traffic,traffic-6,2021
 cheryl-andre-1,Traffic,traffic-6,2021
 daisy-lin,Storm,storm-2,2015,Traffic,traffic-1,2017,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Vénus,venus,2016
+emma-best,Sneaky House Hippos,sneaky-house-hippos-4,2019,Traffic,traffic-6,2021
 helena-tremblay,Traffic,traffic-6,2021
+jaimie-kot,Traffic,traffic-6,2021
 jessica-rockliff,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019,Traffic,traffic-6,2021
 jessie-tai,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Wendigo,wendigo-2,2016
 jocelyn-danie-proby,Sneaky House Hippos,sneaky-house-hippos-4,2019,Traffic,traffic-6,2021
@@ -854,31 +813,33 @@ katherine-ortega,Traffic,traffic-6,2021
 madison-ong,Bunny Thugs,bunny-thugs-2,2017,Fusion,fusion-2,2019,Traffic,traffic-6,2021
 monica-hsu,Traffic,traffic-5,2019,Traffic,traffic-6,2021
 naomi-morcilla,Traffic,traffic-5,2019,Traffic,traffic-6,2021
+nicola-parker,Traffic,traffic-5,2019,Traffic,traffic-6,2021
 oliana-chan,Traffic,traffic-6,2021
-paula-wong,Korra,korra,2017,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Wild,wild-1,2015,Wild,wild-1,2016
+paula-wong,Korra,korra,2017,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Wildish,wild-1,2015,Wildish,wild-1,2016
 sarah-norton-1,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Traffic,traffic-6,2021
 stephanie-siu,Traffic,traffic-6,2021
-terri-whitehead,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Wild,wild-1,2016
-alana-schick,Flux,flux-7,2019,Wild,wild-1,2021
-amanda-ho-1,'Berta,berta-2,2021,Flurry,flurry-1,2017,Flux,flux-7,2019,Wild,wild-1,2021
-amanda-wang-2,Wild,wild-1,2019,Wild,wild-1,2021
-cassandra-husband,Wild,wild-1,2021
-charis-fung,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wild,wild-1,2016,Wild,wild-1,2021
-eva-tam,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wild,wild-1,2016,Wild,wild-1,2019,Wild,wild-1,2021
-hayley-lueke-1,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017,Wild,wild-1,2021
-jana-schissel,'Berta,berta-2,2021,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Wild,wild-1,2021
-jill-gillespie-1,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2021
-jill-kowalchuk,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2021
-megan-gatzsch,Annie Oakley,annie-oakley,2019,Spectrum,spectrum-1,2017,Wild,wild-1,2021
-melanie-aikenhead,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017,Spectrum,spectrum-1,2018,Wild,wild-1,2021
-robyn-bosnyak,'Berta,berta-2,2021,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-6,2018,Wild,wild-1,2021
-sarah-de-vries,Flurry,flurry-1,2015,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Wild,wild-1,2021
-sarah-kapiczowski,Lit,lit-2,2018,Lit,lit-4,2019,Lit,lit,2017,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2021
-tanya-beasley,'Berta,berta-2,2019,'Berta,berta-2,2021,Flurry,flurry-1,2016,Wild,wild-1,2021
-tate-thornton,Flurry,flurry-1,2017,Lit,lit,2016,Wild,wild-1,2021
-tricia-kent,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Wild,wild-1,2021
-tze-yuin-tay,'Berta,berta-2,2021,Spectrum,spectrum-1,2017,Spectrum,spectrum-1,2018,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2019,Wild,wild-1,2021
-vicky-barnowski,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Spectrum,spectrum-1,2018,Wild,wild-1,2021
+terri-whitehead,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019,Traffic,traffic-6,2021,Wildish,wild-1,2016
+matt-doyle,Muriqui,vancouver-masters,2015,Traffic,traffic-6,2021
+alana-schick,Flux,flux-7,2019,Happy Campers,happy-campers-1,2021,Wildish,wild-1,2021
+amanda-ho-1,'Berta,berta-2,2021,Flurry,flurry-1,2017,Flux,flux-7,2019,Wildish,wild-1,2021
+amanda-wang-2,Wildish,wild-1,2019,Wildish,wild-1,2021
+bethany-heslinga,Wildish,wild-1,2021
+cassandra-husband,Wildish,wild-1,2021
+charis-fung,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wildish,wild-1,2016,Wildish,wild-1,2021
+eden-vanderlaan,Flurry,flurry-1,2019,Wildish,wild-1,2021
+erin-bethune-1,Flurry,flurry-1,2016,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-5,2017,Wildish,wild-1,2021
+jadyn-martin,Wildish,wild-1,2021
+jill-gillespie-1,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2021
+kimberly-tee,Notorious KWG,notorious-kwg,2019,PPF,ppf-6,2018,Wildish,wild-1,2015,Wildish,wild-1,2021
+megan-gatzsch,Annie Oakley,annie-oakley,2019,Spectrum,spectrum-1,2017,Wildish,wild-1,2021
+melanie-aikenhead,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017,Spectrum,spectrum-1,2018,Wildish,wild-1,2021
+robyn-bosnyak,'Berta,berta-2,2021,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-6,2018,Wildish,wild-1,2021
+sarah-de-vries,Flurry,flurry-1,2015,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Wildish,wild-1,2021
+sarah-kapiczowski,Lit,lit-2,2018,Lit,lit-4,2019,Lit,lit,2017,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2021
+tate-thornton,Flurry,flurry-1,2017,Lit,lit,2016,Wildish,wild-1,2021
+tricia-kent,Flurry,flurry-1,2017,Flurry,flurry-1,2019,Wildish,wild-1,2021
+tze-yuin-tay,'Berta,berta-2,2021,Spectrum,spectrum-1,2017,Spectrum,spectrum-1,2018,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2019,Wildish,wild-1,2021
+vicky-barnowski,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Spectrum,spectrum-1,2018,Wildish,wild-1,2021
 anne-sophie-lenglet,BoD,bod-1,2021,LAB,lab-3,2019,Montreal Old Star,montreal-old-star,2016,Vintage,vintage-1,2015
 claudie-turcotte,BoD,bod-1,2021,LAB,lab-3,2019,Vega,vega-1,2018,X-Squad,x-squad-5,2016
 francoise-delisle,BoD,bod-1,2019,BoD,bod-1,2021
@@ -888,6 +849,7 @@ julie-beaulac,BoD,bod-1,2021,LAB,lab-3,2019,Sriracha,sriracha-1,2016,Vintage,vin
 julie-blais,BoD,bod-1,2021,LAB,lab-3,2019,Vintage,vintage-1,2015,Vintage,vintage-1,2017
 julie-tremblay-mons,BoD,bod-1,2021,LAB,lab-3,2019,Montreal Old Star,montreal-old-star,2016,Vintage,vintage-1,2015,Vintage,vintage-1,2017
 lauren-hunt,BoD,bod-1,2019,BoD,bod-1,2021,Vénus,venus,2015
+melanie-prescott-gagnon,BoD,bod-1,2021,Sriracha,sriracha-1,2016,Vintage,vintage-1,2017,Vintage,vintage-12,2019
 melanie-roy-1,BoD,bod-1,2019,BoD,bod-1,2021
 sanni-be,BoD,bod-1,2021,MUTX,mutx,2016,Vintage,vintage-1,2015,Vénus,venus-6,2019
 suzanne-wavroch,BoD,bod-1,2021,Vintage,vintage-1,2015,Vintage,vintage-1,2017,Vintage,vintage-12,2019
@@ -903,6 +865,7 @@ rob-gillis,BoD,bod-1,2019,BoD,bod-1,2021,NSOM 1,nothing-sexier-than-old-montreal
 robert-battaglia,BoD,bod-1,2019,BoD,bod-1,2021
 vincent-bilodeau-martin,BoD,bod-1,2021
 ashleigh-millage,Backdraft,backdraft-1,2017,Backdraft,backdraft,2015,Dinner At 4,dinner-at-4,2021,Foxx,foxx,2018,Foxx,foxx,2019,Stud,synergy,2018
+cassie-wong,Dinner At 4,dinner-at-4,2021,TOX6ix,tox6ix-1,2017,Zen,zen-15,2019
 cathy-chu-1,Dinner At 4,dinner-at-4,2021,Quick & Dirty,quick-dirty-2,2016,The Grind,quick-dirty,2015,Thrift Shop,thrift-shop-1,2017,Trail Mix,trail-mix,2018
 deidre-mac-kinnon,Dinner At 4,dinner-at-4,2021,Foxx,foxx,2018,Legendairy,legendairy,2016
 joella-reitsma,Dinner At 4,dinner-at-4,2021,Foxx,foxx,2018,Foxx,foxx,2019,Legendairy,legendairy,2016
@@ -941,13 +904,13 @@ max-guy,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,Qold,qold,2019,Épo
 nasser-mbae-vogel,BoD,bod-1,2019,Mockingbird,mockingbird,2017,Époq,epoq,2021
 nathan-dandurand,Cherry Bomb,cherry-bomb-6,2016,Époq,epoq,2021
 yoland-fournier-cabot,Club M - Manic,club-m-manic,2017,LAB,lab-3,2019,Mockingbird,mockingbird,2015,Époq,epoq,2021
-amy-tran,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021
+ashley-savage,Firefly,firefly-2,2021
 chantal-alary,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021
 dariene-cote-1,Firefly,firefly-2,2017,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021
 kari-bergmuller-1,Firefly,firefly-2,2021
 liz-lapage,Firefly,firefly-2,2019,Firefly,firefly-2,2021
-pamela-chalmers,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021
 serena-vandersteen,Firefly,firefly-2,2021,Nonsuch,nonsuch,2015,Nonsuch,nonsuch,2016
+tara-hull-1,Firefly,firefly-2,2021
 adam-day,Firefly,firefly-2,2021
 andrew-stevens-1,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021,Intrepid,intrepid,2015,Intrepid,intrepid,2016
 craig-mcfarlane,Firefly,firefly-2,2017,Firefly,firefly-2,2018,Firefly,firefly-2,2021
@@ -956,11 +919,13 @@ eric-robert,Firefly,firefly-2,2021
 jason-bestland,Firefly,firefly-2,2017,Firefly,firefly-2,2018,Firefly,firefly-2,2019,Firefly,firefly-2,2021
 matthew-grant-2,Firefly,firefly-2,2019,Firefly,firefly-2,2021
 william-pacheco,Firefly,firefly-2,2021
+amy-szeto,Fable,fable-1,2019,Forever Young,forever-young-1,2021
 jean-chen-1,Forever Young,forever-young-1,2021
 karen-street,Forever Young,forever-young-1,2021
 kristin-yip,Forever Young,forever-young-1,2021
-lydia-rasmusens-1,Forever Young,forever-young-1,2021,T.T,tt,2018,T.T,tt,2019
 pilar-ramirez,Forever Young,forever-young-1,2021,Wendigo,wendigo-2,2016
+sarah-cawston-stewart-1,Fable,fable-1,2017,Fable,fable-1,2018,Forever Young,forever-young-1,2021,Wendigo,wendigo-2,2016,Zephyr,zephyr-2,2015
+virginia-watson,Artemis,artemis-7,2019,Forever Young,forever-young-1,2021,Wendigo,wendigo-2,2017
 daniel-bower,Forever Young,forever-young-1,2021,Homegrown,homegrown-1,2017,Mastadon,mastadon,2019
 eugene-lim-3,Fable,fable-1,2019,Forever Young,forever-young-1,2021
 farouk-zaba,Forever Young,forever-young-1,2021,Mastadon,mastadon,2018,Mastadon,mastadon,2019
@@ -969,6 +934,7 @@ ken-su-2,Forever Young,forever-young-1,2021
 oliver-chen,Fable,fable-1,2017,Fable,fable-1,2019,Forever Young,forever-young-1,2021,T.T,tt,2018
 amy-machin,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Surge,surge-1,2015
 anne-sofie-ahm,Happy Campers,happy-campers-1,2021
+christie-thomson-1,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Wildish,wild-1,2016
 claire-remington,Happy Campers,happy-campers-1,2021,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 judith-weist,Happy Campers,happy-campers-1,2021
 julia-bradshaw,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Homegirl,homegirl,2016,Surge,surge-1,2015
@@ -980,6 +946,7 @@ blake-dyer,Happy Campers,happy-campers-1,2021
 colby-james-smith,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
 daniel-saunders,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
 dustin-olender,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
+jesse-sinclair-1,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
 joshua-perina,Carbon,carbon-1,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
 nathan-lam,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Team Fisher Price,team-fisher-price-1,2015
 pat-frisby,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Happy Campers,happy-campers-1,2021,Republic,republic-2,2016
@@ -990,16 +957,21 @@ cristina-chern,Magmarok,magmarok,2021
 eileen-lam,Magmarok,magmarok,2021
 heidi-christensen,Banana Cream Pie,banana-cream-pie,2017,Lore,lore,2019,Magmarok,magmarok,2021
 jamie-hoo-fatt,Magmarok,magmarok,2021
+joanna-leung-2,Magmarok,magmarok,2021
 kelly-choo,Bingo & Chill,bingo-chill,2017,Magmarok,magmarok,2021
 kristene-griffis,Magmarok,magmarok,2021
 linda-ngo,Magmarok,magmarok,2021,Valkyrie,valkyrie,2018
 magima-raj,Magmarok,magmarok,2021
 stephanie-le-1,Magmarok,magmarok,2021
+arthur-chu,Magmarok,magmarok,2021
 ching-yeung,Magmarok,magmarok,2021
+jeremy-chan-2,Magmarok,magmarok,2021
+jon-david,Magmarok,magmarok,2021,Skerj,skerj,2016
 kevin-christensen-2,Magmarok,magmarok,2021
 kyle-mineque,BOAT,boat-1,2016,BOAT,boat-1,2017,Magmarok,magmarok,2021
 michael-tylman,Magmarok,magmarok,2021
 patrick-mineque,Magmarok,magmarok,2021
+terrence-cheung,Magmarok,magmarok,2021
 andrea-proulx,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2016,Eclipse,eclipse-1,2017,Max Power,vax-power,2021,Nebula,nebula-1,2018,Nebula,nebula-1,2019
 angelia-hughes,Max Power,vax-power,2021
 destin-mcquillan,Max Power,vax-power,2021,Union,union-8,2019
@@ -1010,9 +982,11 @@ laura-wiese,Bingo & Chill,bingo-chill,2017,Max Power,vax-power,2021,NoBS,nobs,20
 meghan-janssen-1,Max Power,max-power-3,2016,Max Power,vax-power,2021,Nox,nox-1,2017
 melissa-dunseith,Banana Cream Pie,banana-cream-pie,2017,Max Power,max-power-3,2016,Max Power,vax-power,2021,ReUnion,reunion-2,2019,Terra,terra,2015
 alex-smith-7,Best Before,best-before,2017,Max Power,vax-power,2021,NoBS,nobs,2016,ReUnion,reunion-2,2019
+andrew-milne,Best Before,best-before,2017,Max Power,team-name-29,2018,Max Power,vax-power,2021,Midnight Release,midnight-release,2016,ReUnion,reunion-2,2019,Union,union-4,2015
 chris-loat,Best Before,best-before,2017,Max Power,max-power-3,2016,Max Power,team-name-29,2018,Max Power,vax-power,2021,Trail Mix,trail-mix,2019
 gareth-cawley,Best Before,best-before,2017,Max Power,max-power-3,2016,Max Power,vax-power,2021,Trail Mix,trail-mix,2019
 marcel-frenette-corniellis,Max Power,max-power-3,2016,Max Power,team-name-29,2018,Max Power,vax-power,2021,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019
+michael-jones-4,GOAT,goat-3,2015,Max Power,vax-power,2021
 miles-wilson-1,Local 613,local-613-1,2018,Local 613,local-613,2016,Max Power,vax-power,2021
 ryan-keyfitz,Grand Trunk,grand-trunk-4,2017,Max Power,vax-power,2021
 scott-innes,Max Power,vax-power,2021,Trail Mix,trail-mix,2018
@@ -1023,13 +997,16 @@ emily-atkinson,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 emily-ritz-1,Crash,crash-1,2015,Crash,crash-1,2016,Crash,crash-1,2017,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 hilary-blackett,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 jennifer-taves,Crash,crash-1,2015,Crash,crash-1,2016,Crash,crash-1,2017,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
+laura-anne-tuck,Crash,crash-1,2015,Crash,crash-1,2016,Crash,crash-1,2017,Notorious KWG,notorious-kwg,2021,Thrift Shop,thrift-shop-1,2018,Thunder,thunder-5,2019
 luana-jo,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
-meagan-doyle,Nor'Easter,noreaster-2,2016,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021,Stella A,stella-a-2,2017,Wild,wild-1,2015
+meagan-doyle,Nor'Easter,noreaster-2,2016,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021,Stella A,stella-a-2,2017,Wildish,wild-1,2015
 megan-thomas,Notorious KWG,notorious-kwg,2021,PPF,ppf-6,2017,PPF,ppf-6,2018,lowercase,lowercase-1,2019
 adam-lazenby,Crash,crash-1,2017,Khaos,khaos,2019,Notorious KWG,notorious-kwg,2021
+adam-van-ymeren,Crash,crash-1,2017,Critical Mass,critical-mass-2,2016,Notorious KWG,notorious-kwg,2021,Thunder,thunder-5,2019
 andrew-higgins,Best Before,best-before,2017,NADS,nads,2018,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021,TFT,tft,2016
 christopher-taylor,Maverick,maverick-7,2017,NADS,nads,2018,Notorious KWG,notorious-kwg,2021,Phoenix,phoenix,2019
 dan-carlson-3,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021,Silverbacks,the-silverbacks,2017,Silverbacks,the-silverbacks,2018
+jon-berends,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 lucas-yuricek,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 matthew-havercroft,Crash,crash-1,2016,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
 nate-martin,Notorious KWG,notorious-kwg,2019,Notorious KWG,notorious-kwg,2021
@@ -1062,6 +1039,7 @@ lindsay-earle-1,Midnight Release,midnight-release,2016,ReUnion,reunion-2,2021,Un
 michelle-wang-1,Banana Cream Pie,banana-cream-pie,2017,ReUnion,reunion-2,2021
 stacy-meikle,Backdraft,backdraft-1,2017,NoBS,nobs,2015,ReUnion,reunion-2,2019,ReUnion,reunion-2,2021
 stephanie-malcher,ReUnion,reunion-2,2021,Union,union-8,2017
+alessandro-colantonio,ReUnion,reunion-2,2021
 andrew-meikle-1,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,NoBS,nobs,2015,NoBS,nobs,2016,ReUnion,reunion-2,2019,ReUnion,reunion-2,2021
 ivan-pienaar,MMV,mmv,2016,ReUnion,reunion-2,2021,Trail Mix,trail-mix,2019,Union,union-8,2017
 ken-chan-1,ReUnion,reunion-2,2021,Still,still-1,2019
@@ -1069,6 +1047,8 @@ peter-taylor-2,ReUnion,reunion-2,2021,TFT,tft,2016
 rt-lechow,Banana Cream Pie,banana-cream-pie,2017,MMV,mmv,2016,ReUnion,reunion-2,2021
 rhyin-newell,Best Before,best-before,2017,Braun Squad,braun-squad,2016,ReUnion,reunion-2,2021,Union,union-4,2015,Zen,zen-11,2017
 sean-henderson-1,Best Before,best-before,2017,Max Power,team-name-29,2018,ReUnion,reunion-2,2019,ReUnion,reunion-2,2021
+sean-hutchins,Banana Cream Pie,banana-cream-pie,2017,ReUnion,reunion-2,2021
+tom-newman,Iron Crow,iron-crow,2017,IronCrow 2015,ironcrow-2015,2015,ReUnion,reunion-2,2021
 warren-tang-1,Best Before,best-before,2017,ReUnion,reunion-2,2019,ReUnion,reunion-2,2021,Union,union-4,2015,Union,union-8,2019
 bobby-staniforth,Carbon,carbon-1,2021,Flux,flux-7,2019,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017
 craig-harding-1,Carbon,carbon-1,2021,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
@@ -1077,7 +1057,7 @@ devin-beaton,Bunny Thugs,bunny-thugs-2,2015,Bunny Thugs,bunny-thugs-2,2016,Bunny
 eko-wangsawidjaya,Carbon,carbon-1,2021,Spectrum,spectrum-1,2017,Spectrum,spectrum-1,2018,Whiskeyjacks,whiskeyjacks,2019
 eric-hochhalter,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Berta Flatball Club,aberta-flatball-club,2019,Carbon,carbon-1,2021
 greg-adamson,Carbon,carbon-1,2016,Carbon,carbon-1,2017,Carbon,carbon-1,2019,Carbon,carbon-1,2021,Rogue Hippo,rogue-hippo-3,2015
-ken-truong,Carbon,carbon-1,2021,Lit,lit-2,2018,Lit,lit-4,2019
+justin-lussier-1,Carbon,carbon-1,2021,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
 mike-choi,Carbon,carbon-1,2021,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
 patrick-macquarrie,Carbon,carbon-1,2019,Carbon,carbon-1,2021,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
 scott-durocher,Carbon,carbon-1,2021,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
@@ -1091,9 +1071,9 @@ mark-staples,Dead Circus,tbd-269,2021,Red Circus,red-circus-4,2018
 michael-thorne,1778 AT,tbd-207,2019,Borderline,borderline-7,2018,Dead Circus,tbd-269,2021,Jerk Factory,jerk-factory-1,2017
 paul-trevor,Dead Circus,tbd-269,2021,Kitchen Party,kitchen-party-1,2019
 pierre-girard,Dead Circus,tbd-269,2021,Jerk Factory,pogey-train,2015,Local 613,local-613,2016
+ryan-stewart-1,Borderline,borderline-7,2018,Dead Circus,tbd-269,2021,Kitchen Party,kitchen-party-1,2019
 stuart-macdonald-1,Dead Circus,tbd-269,2021,Kitchen Party,kitchen-party-1,2019
 tim-macisaac,Dead Circus,tbd-269,2021,Local 613,local-613-1,2019,Red Circus,red-circus-4,2018
-alessandro-colantonio,Nationals,nationals-2,2021
 alessandro-colonnier,Nationals,nationals-2,2021
 andrew-pohran,Nationals,nationals-2,2021
 bradley-fitzpatrick,Nationals,nationals-2,2021
@@ -1101,9 +1081,11 @@ corey-beaton,Nationals,nationals-2,2021
 david-oconnor-2,Nationals,nationals-2,2021
 jordan-lester,Nationals,nationals-2,2021
 joshua-morin,Nationals,nationals-2,2021
+martin-cloake,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2016,Nationals,nationals-2,2021,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 martin-cottreau-1,Nationals,nationals-2,2021
 matthieu-tanguay,Goose,goose-6,2018,Goose,goose-8,2017,Nationals,nationals-2,2021
 michael-colantonio,Nationals,nationals-2,2021
+ryan-mussell,Nationals,nationals-2,2021,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 teddy-brescacin,Nationals,nationals-2,2021
 travis-davidson,Crank,crank-2,2019,NADS,nads,2017,Nationals,nationals-2,2021
 alexandre-piuze,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2021
@@ -1127,7 +1109,7 @@ virath-chamroeun,Club M - MESA,club-m-mesa,2017,NSOM 1,nothing-sexier-than-old-m
 yan-bouchard,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2021,NSOM,nsom-4,2015
 yohan-baril,Arsenic ( women),arsenic-women-1,2018,Arsenic (Open),arsenic-open,2018,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2016,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2021,NSOM 2,nsom-2-1,2017,Titane (Open),titane-open,2018,Titane (Women),titane-women,2018
 alexandre-dion,Qold,qold,2019,Quack,quack-2,2021,Raft,raft-3,2017
-f-carignan,Quack,quack-2,2021
+felix-antoine-carignan,Quack,quack-2,2021
 laos,Quack,quack-2,2021
 laurence-ruelens-lepoutre,Quack,quack-2,2021,Quake,quake-2,2018,Sherbrooke Gentlemen's CLub,sherbrooke-gentlemens-club-1,2017
 luc-harvey,Qold,qold,2019,Quack,quack-2,2021,Quantum,quantum-2,2017,Quest,quest-1,2016
@@ -1165,6 +1147,7 @@ mike-lee-1,Nor'Easter,noreaster-2,2016,Phoenix,phoenix-1,2015,Stella,stella-11,2
 nick-cicci,DNA,dna,2017,NADS,nads,2018,Still,still-1,2019,Still,still-4,2021
 pierre-samuel-proulx,Nor'Easter,noreaster-2,2016,Raft,raft,2015,Still,still-1,2019,Still,still-4,2021
 cary-weingust-1,Tombstone,tombstone-1,2021
+chris-bracht,Best Before,best-before,2017,Max Power,team-name-29,2018,Midnight Release,midnight-release,2016,ReUnion,reunion-2,2019,Tombstone,tombstone-1,2021
 graham-fletcher,Shepherds,shepherds,2015,Tombstone,tombstone-1,2021
 hugh-brewster-1,Best Before,best-before,2017,ReUnion,reunion-2,2019,Shepherds,shepherds,2015,Tombstone,tombstone-1,2021
 jeff-lindquist,GOAT,goat-3,2015,GOAT,goat-3,2017,SOUP,soup-5,2019,TFT,tft,2016,Tombstone,tombstone-1,2021
@@ -1179,7 +1162,10 @@ steven-lee-2,Midnight Release,midnight-release,2016,Tombstone,tombstone-1,2021,U
 will-mercer,Best Before,best-before,2017,Max Power,max-power-3,2016,Tombstone,tombstone-1,2021,Trail Mix,trail-mix,2018
 ben-samuell,Viper,viper-2,2018,Viper,viper,2021
 brandon-sampogna,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2021
+brian-wissent,Viper,viper,2019,Viper,viper,2021
 chris-fairles,Viper,viper,2019,Viper,viper,2021
+colin-mattison,Too Bad,too-bad,2019,Viper,viper,2021
+dan-bennett,Goose,goose-6,2018,Viper,viper,2021
 dan-ritz,Viper,viper,2019,Viper,viper,2021
 jason-cunningham-3,Maverick,maverick-7,2016,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2019,Viper,viper,2021
 jon-brooker,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2021
@@ -1191,21 +1177,26 @@ marcel-lee-1,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2019,Viper,viper,
 mark-girard,Goose,goose-6,2018,Phantoms,phantoms-2,2016,Viper,viper,2021
 matthew-petcoff,Viper,viper,2019,Viper,viper,2021
 royce-bodaly,Viper,viper,2019,Viper,viper,2021
+tav-gayle,Goose,goose-6,2018,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2019,Viper,viper,2019,Viper,viper,2021
 tushar-singh,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2019,Viper,viper,2021
 alexandra-wattamaniuk,'Berta,berta-2,2019,'Berta,berta-2,2021,Little Lebowski Urban Achievers,little-lebowski-urban-achievers-3,2018,Zephyr,zephyr-2,2015
 connie-lee,'Berta,berta-2,2021,Flux,flux-7,2019,NoBS,nobs,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017
 danielle-dugan,'Berta,berta-2,2021,Flurry,flurry-1,2016,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017,Rogue Hippo,rogue-hippo-6,2018
-heather-ambery,'Berta,berta-2,2021,Iris,iris-3,2018,Stella A,stella-a-2,2015,Vénus,venus,2017,Wild,wild-1,2019
+eva-tam,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wildish,wild-1,2016,Wildish,wild-1,2019
+hayley-lueke-1,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017
+heather-ambery,'Berta,berta-2,2021,Iris,iris-3,2018,Stella A,stella-a-2,2015,Vénus,venus,2017,Wildish,wild-1,2019
+jana-schissel,'Berta,berta-2,2021,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016
 jen-blaser,'Berta,berta-2,2019,'Berta,berta-2,2021,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
 jennifer-mcmillan,'Berta,berta-2,2019,'Berta,berta-2,2021
-jenny-breaks,'Berta,berta-2,2019,'Berta,berta-2,2021,MASH,mash-1,2016,Wild,wild-1,2015
+jenny-breaks,'Berta,berta-2,2019,'Berta,berta-2,2021,MASH,mash-1,2016,Wildish,wild-1,2015
+jill-kowalchuk,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2017,Wildish,wild-1,2015,Wildish,wild-1,2016
 johanna-elias,'Berta,berta-2,2019,'Berta,berta-2,2021,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017,Terra,terra,2015
 kirsten-taylor,'Berta,berta-2,2019,'Berta,berta-2,2021,Flurry,flurry-1,2015,Flurry,flurry-1,2016,Flurry,flurry-1,2017
 krista-macdonald,'Berta,berta-2,2019,'Berta,berta-2,2021,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Prairie Blaze,wheaties-1,2018,Rogue Hippo,rogue-hippo-3,2015
-rhiannon-kuhn,'Berta,berta-2,2021,Flux,flux-7,2019,Prairie Fire,dyna-2,2017,Wild,wild-1,2015,Wild,wild-1,2016
+rhiannon-kuhn,'Berta,berta-2,2021,Flux,flux-7,2019,Prairie Fire,dyna-2,2017,Wildish,wild-1,2015,Wildish,wild-1,2016
+tanya-beasley,'Berta,berta-2,2019,'Berta,berta-2,2021,Flurry,flurry-1,2016
 alain-chicoine,'Berta,berta-2,2021,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Carbon,carbon-1,2017
 angela-mueller,Agwata,agwata,2021,Eclipse,eclipse-1,2017
-anick-neron,Agwata,agwata,2021,Nebula,nebula-1,2017
 anne-sempels,Agwata,agwata,2021,Stella B,stella-b-3,2017
 ashlin-kelly,Agwata,agwata,2021,Nor'Easter,noreaster-2,2016,lowercase,lowercase-1,2019
 daphnee-ellyson,Agwata,agwata,2021,Raft,raft,2015
@@ -1213,13 +1204,17 @@ genevieve-labelle,Agwata,agwata,2021,Eclipse,eclipse-1,2016,Nebula,nebula-1,2017
 jessie-robinson-2,Agwata,agwata,2021,Eclipse,eclipse-1,2016,Eclipse,eclipse-1,2017,Stella,stella-10,2018,lowercase,lowercase-1,2019
 julie-boisvert,Agwata,agwata,2021,Nor'Easter,noreaster-2,2016,Raft,raft-3,2017,Raft,raft,2015,lowercase,lowercase-1,2019
 karyne-pinard,Agwata,agwata,2021,Eclipse,eclipse-1,2017,Raft,raft,2015,Raft,raft,2016
+kris-obrien,Agwata,agwata,2021,Luna Ultimate,luna-ultimate,2019,Spectrum,spectrum-1,2017
 laura-knowles,Agwata,agwata,2021,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2017
+marie-ange-gravel,Agwata,agwata,2021,Nebula,nebula-1,2018,Nebula,nebula-1,2019
 marie-michele-cote,Agwata,agwata,2021
+maya-popovic,Agwata,agwata,2021,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2017
 paula-lester,Agwata,agwata,2021,Capitals,capitals-2,2015,Luna Ultimate,luna-ultimate,2019,Raft,raft-3,2017,Raft,raft,2016
 sarah-mcdonald,Agwata,agwata,2021,TLDR,tldr,2019
 somphane-souksanh,Agwata,agwata,2021
 sonia-labelle,Agwata,agwata,2021,Luna Ultimate,luna-ultimate,2018,Nebula,nebula-1,2017
 stephanie-gratton,Agwata,agwata,2021,Nebula,nebula-1,2017
+val-chiasson,Agwata,agwata,2021,Eclipse,eclipse-1,2017,Raft,raft,2015,lowercase,lowercase-1,2019
 valerie-tanguay,Agwata,agwata,2021,Stella B,stella-b-3,2017
 andreane-bourgeois,MaQramée,maqramee,2021,Sriracha,sriracha-1,2016,Vintage,vintage-1,2015,Vintage,vintage-1,2017
 catherine-leblanc,MaQramée,maqramee,2021
@@ -1242,7 +1237,6 @@ melanie-brassard,MaQramée,maqramee,2021,Quasar,quasar-2,2019
 mylene-cote,MaQramée,maqramee,2021,Mystik,mystik-4,2015,Vénus,venus,2016,Vénus,venus,2017,Vénus,venus,2018
 myralie-roussin-1,MaQramée,maqramee,2021,Quasar,quasar-2,2019
 amanda-bennett,Nebula,nebula-1,2017,Nebula,nebula-1,2018,Nebula,nebula-1,2019,Nebula,nebula-1,2021
-amanda-clarke-2,Nebula,nebula-1,2018,Nebula,nebula-1,2021
 beth-beattie-1,Nebula,nebula-1,2021,The Collective,the-collective-3,2015
 caitlin-hesketh,Nebula,nebula-1,2017,Nebula,nebula-1,2018,Nebula,nebula-1,2019,Nebula,nebula-1,2021
 christiane-marceau,Nebula,nebula-1,2018,Nebula,nebula-1,2021
@@ -1251,7 +1245,6 @@ ellen-crawford,Eclipse,eclipse-1,2015,Nebula,nebula-1,2018,Nebula,nebula-1,2021
 erin-courtney,Nebula,nebula-1,2019,Nebula,nebula-1,2021
 jean-holloway,Nebula,nebula-1,2021
 jessica-king,Eclipse,eclipse-1,2015,Nebula,nebula-1,2021,Raft,raft,2016
-kris-obrien,Luna Ultimate,luna-ultimate,2019,Nebula,nebula-1,2021,Spectrum,spectrum-1,2017
 lindsay-carlton,Nebula,nebula-1,2019,Nebula,nebula-1,2021
 maaike-van-leeuwen,Nebula,nebula-1,2018,Nebula,nebula-1,2019,Nebula,nebula-1,2021
 megan-lee-1,Bingo & Chill,bingo-chill,2017,Lore,lore,2019,Nebula,nebula-1,2021
@@ -1266,7 +1259,10 @@ tessa-van-leeuwen,Force,force,2016,Nebula,nebula-1,2021
 tiiu-vail,Nebula,nebula-1,2019,Nebula,nebula-1,2021
 aleda-klassen,Queen Ps,queen-ps,2021
 alison-scott,Notorious KWG,notorious-kwg,2019,Queen Ps,queen-ps,2021,Thrift Shop,thrift-shop-1,2017,Thrift Shop,thrift-shop-1,2018
+carolina-vargas,Lily,lily-6,2015,Lore,lore,2019,Queen Ps,queen-ps,2021,Thrift Shop,thrift-shop-1,2018,Zen,zen-9,2016
+hannah-gordon,PPF BEEs,ppf-bees-1,2018,Queen Ps,queen-ps,2021
 heather-smith-5,Braun Squad,braun-squad,2016,Queen Ps,queen-ps,2021
+katherine-culbert,Queen Ps,queen-ps,2021
 kristi-baerg-macdonald,Queen Ps,queen-ps,2021
 krysti-dodd,Braun Squad,braun-squad,2016,Lily,lily-6,2015,Queen Ps,queen-ps,2021,Thrift Shop,thrift-shop-1,2017,Thrift Shop,thrift-shop-1,2018
 lauren-dawson,Queen Ps,queen-ps,2021,Thunder,thunder-5,2017,Thunder,thunder-5,2018,Thunder,thunder-5,2019
@@ -1279,6 +1275,7 @@ sam-walter-2,Queen Ps,queen-ps,2021,Viper,viper-2,2018
 sarah-biro,Queen Ps,queen-ps,2021,Skerj,skerj,2016,Thrift Shop,thrift-shop-1,2017,Thrift Shop,thrift-shop-1,2018,Trail Mix,trail-mix,2019
 tarrah-fairweather,Queen Ps,queen-ps,2021,Thrift Shop,thrift-shop-1,2017,Thrift Shop,thrift-shop-1,2018
 agnes-monseur-1,S'a-coche,les-sa-coches,2021,Vintage,vintage-12,2019,X-Squad,x-squad-5,2016
+amelie-bleau,Cherry Bomb,cherry-bomb-6,2016,S'a-coche,les-sa-coches,2021,Vega,vega-1,2018,X-Squad,x-squad-5,2017
 andree-anne-perron,Mystik,mystik-4,2016,S'a-coche,les-sa-coches,2021,Vega,vega-1,2018
 aurelie-reynaud,S'a-coche,les-sa-coches,2021,X-Squad,x-squad-5,2017
 catherine-ferland,BoD,bod-1,2019,S'a-coche,les-sa-coches,2021,Vénus,venus,2015,Vénus,venus,2016,Vénus,venus,2017
@@ -1292,7 +1289,10 @@ kim-pare,MUTX,mutx,2016,Mystik,mystik-4,2017,S'a-coche,les-sa-coches,2021,Valkyr
 linh-ma,Quasar,quasar-2,2019,S'a-coche,les-sa-coches,2021,Vega,vega-1,2018,Vénus,venus,2016
 madeleine-ouellet-decarie,S'a-coche,les-sa-coches,2021,Vénus,venus,2015,Vénus,venus,2016
 marie-france-lise,S'a-coche,les-sa-coches,2021
-murielle-chapuis,S'a-coche,les-sa-coches,2021,Vega,vega-1,2018,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
+marlene-boulet,S'a-coche,les-sa-coches,2021
+melanie-bosse,BoD,bod-1,2019,S'a-coche,les-sa-coches,2021,Vénus,venus,2015
+sayeh-jolan,S'a-coche,les-sa-coches,2021,X-Squad,x-squad-5,2017
+tanya-estwick-lepage,S'a-coche,les-sa-coches,2021,Vega,vega-1,2018,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 valerie-patenaude,S'a-coche,les-sa-coches,2021
 veronique-gauthier,S'a-coche,les-sa-coches,2021,Valkyrie,valkyrie,2018
 alison-flynn,Eclipse,eclipse-1,2017,Solstice,solstice,2021
@@ -1321,6 +1321,7 @@ alisha-zhao,Capitals,capitals-2,2015,Iris,iris-3,2019,StellO,stello,2021,Stella 
 allison-verney,StellO,stello,2021,Stella A,stella-a-2,2015,Stella A,stella-a-2,2017,Stella,stella-10,2018,lowercase,lowercase-1,2019
 anne-boulanger,StellO,stello,2021,Stella A,stella-a-2,2017,TFT,tft,2016
 brianna-kubinec,PPF,ppf-5,2015,PPF,ppf-6,2017,StellO,stello,2021
+caralynn-laszlo,StellO,stello,2021
 carrie-lugg,StellO,stello,2021
 cassie-berquist,Eclipse,eclipse-1,2017,Luna Ultimate,luna-ultimate,2018,Luna Ultimate,luna-ultimate,2019,StellO,stello,2021,Stella A,stella-a-2,2015
 courtney-benvenuti,PPF,ppf-6,2018,StellO,stello,2021,TFT,tft,2016,Terra,terra,2015,lowercase,lowercase-1,2019
@@ -1340,6 +1341,7 @@ stephanie-cole-1,Luna Ultimate,luna-ultimate,2019,StellO,stello,2021,Stella A,st
 alexandra-paille,Storm,storm-112213,2016,Storm,storm-112213,2017,Storm,storm-2,2015,Vintage,vintage-12,2019,Vintage,vintage-13,2021,Vénus,venus,2018
 caroline-beauregard,Vintage,vintage-13,2021
 catherine-demers-rivard-1,Vintage,vintage-13,2021,Vénus,venus-6,2019,Vénus,venus,2015,Vénus,venus,2018
+catherine-lalonde-1,Storm,storm-112213,2016,Storm,storm-112213,2017,Vintage,vintage-13,2021
 catherine-poirier,Iris,iris-3,2018,Iris,iris-3,2019,Mystik,mystik-4,2015,Storm,storm-112213,2016,Storm,storm-112213,2017,Vintage,vintage-13,2021
 club-ultimate-villeray-1,Vintage,vintage-13,2021
 constance-rancourt,Iris,iris-3,2017,Vintage,vintage-13,2021
@@ -1381,7 +1383,6 @@ vaughn-murphy-1,1778 AT,tbd-207,2019
 will-dumaresq,1778 AT,tbd-207,2019,Borderline,borderline-7,2018,Borderline,borderline,2015,Queen City Kings,mangina,2017
 audrey-lavallee,BoD,bod-1,2019,Cherry Bomb,cherry-bomb-6,2016
 genevieve-merat,BoD,bod-1,2019,Cherry Bomb,cherry-bomb-6,2016,Mystik,mystik-4,2015
-melanie-bosse,BoD,bod-1,2019,Vénus,venus,2015
 naomi-jackson,BoD,bod-1,2019,X-Squad,x-squad-5,2016
 rosemary-carlton,BoD,bod-1,2019,Storm,storm-112213,2016,Vintage,vintage-1,2015,Vintage,vintage-1,2017
 simone-vogel,BoD,bod-1,2019
@@ -1393,10 +1394,12 @@ jean-francois-marcoux,BoD,bod-1,2019,Magma,magma-5,2015
 olivier-thibaudeau-1,BoD,bod-1,2019,Cherry Bomb,cherry-bomb-6,2016
 samuel-arsenault,BoD,bod-1,2019,Cherry Bomb,cherry-bomb-6,2016,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017
 amanda-mills-1,Firefly,firefly-2,2017,Firefly,firefly-2,2019,Mint,mint-1,2015,Mint,mint-1,2016,Mint,mint-1,2018
+amy-tran,Firefly,firefly-2,2018,Firefly,firefly-2,2019
 candice-lui,Firefly,firefly-2,2019,Mint,mint-1,2016,Mint,mint-1,2017,Mint,mint-1,2018
 ellen-truong,Firefly,firefly-2,2019,Mint,mint-1,2018
 jennifer-campbell-1,Firefly,firefly-2,2019,Mint,mint-1,2015,Mint,mint-1,2016,Mint,mint-1,2017,Mint,mint-1,2018
 jingting-ma,Firefly,firefly-2,2019,Mint,mint-1,2018,Nonsuch,nonsuch,2015
+pamela-chalmers,Firefly,firefly-2,2018,Firefly,firefly-2,2019
 stacey-teetaert,Firefly,firefly-2,2019,Mint,mint-1,2015,Mint,mint-1,2016,Mint,mint-1,2017,Mint,mint-1,2018
 valerie-pion,Firefly,firefly-2,2019
 anthony-slater,Firefly,firefly-2,2019,Flood,flood-2,2015
@@ -1447,7 +1450,6 @@ tyler-chochinov,Gaia Sale,gaia-sale,2019,General Strike,general-strike-3,2015,Ge
 weichi-truong,Flood,flood-2,2015,Gaia Sale,gaia-sale,2019,Torque,torque-5,2017
 yacine-bara-1,Flood,flood-2,2015,Gaia Sale,gaia-sale,2019,General Strike,general-strike-3,2017
 annabel-howard,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019
-christie-thomson-1,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Wild,wild-1,2016
 emily-mcconnell,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Surge,surge-1,2015
 heather-mcewen,Happy Campers,happy-campers-1,2019
 jenny-wear,Cannibals,cannibals,2017,Happy Campers,happy-campers-1,2018,Happy Campers,happy-campers-1,2019,Homegirl,homegirl,2016,Surge,surge-1,2015
@@ -1476,7 +1478,6 @@ jeremy-smith-5,Anchor,anchor-ultimate,2017,Kitchen Party,kitchen-party-1,2019
 kendall-sharp,Kitchen Party,kitchen-party-1,2019
 nick-bartlett,Borderline,borderline-7,2018,Kitchen Party,kitchen-party-1,2019
 paul-rogers-1,Kitchen Party,kitchen-party-1,2019
-ryan-stewart-1,Borderline,borderline-7,2018,Kitchen Party,kitchen-party-1,2019
 alexandra-chu,Homegirl,homegirl,2016,Mastadon,mastadon,2018,Mastadon,mastadon,2019
 bri-larson,Mastadon,mastadon,2019
 caren-rose,Homegirl,homegirl,2016,Mastadon,mastadon,2018,Mastadon,mastadon,2019
@@ -1500,11 +1501,9 @@ shawn-obrien,Mastadon,mastadon,2018,Mastadon,mastadon,2019
 shawn-vogels,Fable,fable-1,2017,Mastadon,mastadon,2018,Mastadon,mastadon,2019,Refinery,refinery-1,2016
 amanda-raimbault,Crash,crash-1,2016,Crash,crash-1,2017,Notorious KWG,notorious-kwg,2019
 katrina-parkinson,Crash,crash-1,2017,Notorious KWG,notorious-kwg,2019
-kimberly-tee,Notorious KWG,notorious-kwg,2019,PPF,ppf-6,2018,Wild,wild-1,2015
 aaron-louis,NoBS,nobs,2015,NoBS,nobs,2016,Notorious KWG,notorious-kwg,2019,Silverbacks,the-silverbacks,2018
 brendan-embrey,Notorious KWG,notorious-kwg,2019
 john-eric-pardys,Crash,crash-1,2016,Notorious KWG,notorious-kwg,2019
-jon-berends,Notorious KWG,notorious-kwg,2019
 jordan-richard,Notorious KWG,notorious-kwg,2019
 joshuah-reitzel,Goose,goose-6,2018,Notorious KWG,notorious-kwg,2019
 wayne-root,Notorious KWG,notorious-kwg,2019
@@ -1559,8 +1558,6 @@ michelle-chandler-1,ReUnion,reunion-2,2019,Terra,terra,2015
 pamela-yiu,ReUnion,reunion-2,2019
 sarah-granziol,Lotus,lotus-4,2015,ReUnion,reunion-2,2019,Zen,zen-11,2017
 vikki-shimoda,Max Power,max-power-3,2016,ReUnion,reunion-2,2019,TORO Junior Women,toro-open,2018,Thrift Shop,thrift-shop-1,2017
-andrew-milne,Best Before,best-before,2017,Max Power,team-name-29,2018,Midnight Release,midnight-release,2016,ReUnion,reunion-2,2019,Union,union-4,2015
-chris-bracht,Best Before,best-before,2017,Max Power,team-name-29,2018,Midnight Release,midnight-release,2016,ReUnion,reunion-2,2019
 david-shimoda,Best Before,best-before,2017,Max Power,max-power-3,2016,Max Power,team-name-29,2018,ReUnion,reunion-2,2019
 dilhan-kuru,Best Before,best-before,2017,ReUnion,reunion-2,2019
 gary-paskewich-1,Banana Cream Pie,banana-cream-pie,2017,Max Power,max-power-3,2016,Max Power,team-name-29,2018,ReUnion,reunion-2,2019
@@ -1658,7 +1655,6 @@ samuel-kennedy,Still,still-1,2019
 scott-westwell,Phoenix,phoenix-1,2015,Phoenix,phoenix-1,2017,Still,still-1,2019
 stephen-armitage,Best Before,best-before,2017,Shepherds,shepherds,2015,Still,still-1,2019,TFT,tft,2016
 brad-evans-1,Viper,viper-2,2018,Viper,viper,2019
-brian-wissent,Viper,viper,2019
 james-robinson,Viper,viper-2,2017,Viper,viper-2,2018,Viper,viper,2019
 john-rey,Viper,viper,2019
 miguel-de-avila,Goose,goose-6,2018,Goose,goose-8,2017,Viper,viper,2019
@@ -1688,7 +1684,7 @@ jackie-deller,'Berta,berta-2,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2
 jennifer-nicholls,'Berta,berta-2,2019,Little Lebowski Urban Achievers,little-lebowski-urban-achievers-3,2018,Prairie Fire,dyna-2,2017,Team Fisher Price,team-fisher-price-1,2015
 joyce-wong,'Berta,berta-2,2019
 neilu-rishi,'Berta,berta-2,2019,Mastadon,mastadon,2018
-nicole-desjardins,'Berta,berta-2,2019,Prairie Fire,dyna-2,2017,Wild,wild-1,2015,Wild,wild-1,2016
+nicole-desjardins,'Berta,berta-2,2019,Prairie Fire,dyna-2,2017,Wildish,wild-1,2015,Wildish,wild-1,2016
 stacey-yuen,'Berta,berta-2,2019
 victoria-girardo,'Berta,berta-2,2019,Rogue Hippo,rogue-hippo-5,2017
 wendy-sligl,'Berta,berta-2,2019
@@ -1704,7 +1700,7 @@ jeni-gamracy,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2016
 jennifer-jenkins,Annie Oakley,annie-oakley,2019,MASH,mash-1,2016,Prairie Fire,dyna-2,2015,Spectrum,spectrum-1,2017,Spectrum,spectrum-1,2018
 jennifer-tuffs,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015
 lisa-liang,Annie Oakley,annie-oakley,2019
-mary-ann-clark,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2017,Spectrum,spectrum-1,2018,Wild,wild-1,2016
+mary-ann-clark,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2017,Spectrum,spectrum-1,2018,Wildish,wild-1,2016
 natalya-mcfarlane,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016
 sherry-stewart-ryan,Annie Oakley,annie-oakley,2019,MASH,mash-1,2016
 shirley-tso,Annie Oakley,annie-oakley,2019,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016
@@ -1734,7 +1730,6 @@ natalie-ng,Artemis,artemis-7,2019
 nicole-shortt-2,Artemis,artemis-7,2019
 sarah-hollett,Artemis,artemis-7,2019
 valerie-lefebvre,Artemis,artemis-7,2019
-virginia-watson,Artemis,artemis-7,2019,Wendigo,wendigo-2,2017
 anne-robitaille,Vintage,vintage-12,2019
 caroline-dore,Vega,vega-1,2018,Vintage,vintage-12,2019,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 catherine-gadbois,Storm,storm-112213,2016,Storm,storm-2,2015,Vintage,vintage-12,2019,Vénus,venus,2017
@@ -1746,9 +1741,7 @@ isabelle-toutant,Iris,iris-3,2017,Iris,iris-3,2018,Storm,storm-2,2015,Vintage,vi
 jessica-richard-1,Mystik,mystik-4,2015,Mystik,mystik-4,2016,Storm,storm-112213,2017,Vega,vega-1,2018,Vintage,vintage-12,2019
 joelle-tremblay,Storm,storm-112213,2016,Storm,storm-112213,2017,Storm,storm-2,2015,Vintage,vintage-12,2019
 marie-eve-trudel,Iris,iris-3,2017,Qub,qub-4,2016,Vintage,vintage-12,2019,Vénus,venus,2018
-melanie-prescott-gagnon,Sriracha,sriracha-1,2016,Vintage,vintage-1,2017,Vintage,vintage-12,2019
 anna-kazmierska,Lore,lore,2019
-carolina-vargas,Lily,lily-6,2015,Lore,lore,2019,Thrift Shop,thrift-shop-1,2018,Zen,zen-9,2016
 cassandra-guignion,Lore,lore,2019
 catherine-chao,Lore,lore,2019,The Grind,quick-dirty,2015
 catherine-pelletier,Lore,lore,2019
@@ -1779,12 +1772,10 @@ marie-celine-alexander,lowercase,lowercase-1,2019
 michelle-warren-2,Eclipse,eclipse-1,2017,lowercase,lowercase-1,2019
 rachel-robichaud-1,lowercase,lowercase-1,2019
 rebecca-macpherson,Capitals,capitals-2,2015,PPF,ppf-6,2018,TFT,tft,2016,lowercase,lowercase-1,2019
-val-chiasson,Eclipse,eclipse-1,2017,Raft,raft,2015,lowercase,lowercase-1,2019
 charlene-gervais,Nebula,nebula-1,2019
 clare-gee,Eclipse,eclipse-1,2016,Nebula,nebula-1,2017,Nebula,nebula-1,2019,Stella B,stella-b-2,2015
 elizabeth-newgard,Nebula,nebula-1,2019
 jenn-mcguire,Nebula,nebula-1,2018,Nebula,nebula-1,2019
-marie-ange-gravel,Nebula,nebula-1,2018,Nebula,nebula-1,2019
 marie-claude-lacombe,Eclipse,eclipse-1,2015,Nebula,nebula-1,2017,Nebula,nebula-1,2019
 sophie-laroque-germain,Nebula,nebula-1,2019
 andrea-cheng,Beer Kitty,beer-kitty-1,2018,PNW Basic,basic,2019,Team Fisher Price,team-fisher-price-1,2015
@@ -1940,7 +1931,6 @@ roy-perez-1,Crux,crux,2019
 alex-chin-3,Fable,fable-1,2019
 amadis-wong,Fable,fable-1,2019
 amanda-sheppard,Fable,fable-1,2019,Zen,zen-11,2017,Zen,zen-13,2018
-amy-szeto,Fable,fable-1,2019
 connie-lu,Fable,fable-1,2019
 erika-watanabe,Fable,fable-1,2019
 kayley-hollyer,Fable,fable-1,2019
@@ -1970,8 +1960,6 @@ brandon-lusty-1,Force,force,2015,Force,force,2016,Force,force,2018,Force,force,2
 bryan-spekkers-1,Force,force,2017,Force,force,2018,Force,force,2019,Midnight Release,midnight-release,2016
 david-tran-2,Force,force,2017,Force,force,2018,Force,force,2019
 jamie-bonany-1,Force,force,2018,Force,force,2019
-matt-hofing,Force,force,2015,Force,force,2016,Force,force,2017,Force,force,2018,Force,force,2019
-peter-aloussis,Force,force,2017,Force,force,2018,Force,force,2019
 will-parker,Force,force,2018,Force,force,2019
 amelie-champagne-1,Iceberg,iceberg,2019
 emilie-st-pierre,Iceberg,iceberg,2019,Iris,iris-1,2015,Iris,iris-3,2017
@@ -2005,7 +1993,7 @@ kendra-borgford,Lit,lit-4,2019,Nonsuch,nonsuch,2015,Nonsuch,nonsuch,2016
 leigh-mcnamara,Lit,lit-4,2019
 martha-marko,Lit,lit-4,2019
 rebecca-ankerman,Lit,lit-2,2018,Lit,lit-4,2019,Lit,lit,2016
-sarah-ankerman,Lit,lit-2,2018,Lit,lit-4,2019,Wild,wild-1,2015,Wild,wild-1,2016
+sarah-ankerman,Lit,lit-2,2018,Lit,lit-4,2019,Wildish,wild-1,2015,Wildish,wild-1,2016
 alex-scott,Lit,lit-4,2019,Silverbacks,the-silverbacks,2017,Silverbacks,the-silverbacks,2018
 benjamin-quesnel,Ledge,ledge-1,2015,Lit,lit-2,2018,Lit,lit-4,2019
 evan-shields-1,Lit,lit-4,2019
@@ -2023,6 +2011,7 @@ forrest-wachholz-2,Local 613,local-613-1,2019
 fraser-titley,Local 613,local-613-1,2018,Local 613,local-613-1,2019
 kyle-thompson,Backdraft,backdraft-1,2016,Backdraft,backdraft,2015,Local 613,local-613-1,2019
 mike-cabral,Local 613,local-613-1,2018,Local 613,local-613-1,2019,Local 613,local-613,2016
+breanne-yozenko,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 carissa-ness-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 heather-herms,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 jada-lim,Fusion,fusion-2,2015,Fusion,fusion-2,2016,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
@@ -2030,11 +2019,14 @@ katherine-herms,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-
 sarah-herms,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 selina-liang,PBHG,pretty-boys-and-handsome-girls-2,2019
 shannon-kleysen,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
+braxton-mcintosh-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 el-fatih-jamal-1,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 jarrett-hamm,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
+kyle-thomson,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 nathan-wilson-2,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 samuel-beardsell,Critical Mass,critical-mass-2,2015,Critical Mass,critical-mass-2,2017,General Strike,general-strike-3,2016,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019
 samuel-de-caria,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
+zack-hawley,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,PBHG,pretty-boys-and-handsome-girls-2,2019,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 ariane-pepin-1,Quakers,quakers-1,2019,Qub,qub-4,2018
 cleo-dube-1,Origine Women,origine-1,2018,Quakers,quakers-1,2019,Qub,qub-4,2018
 isabelle-morneau-grenier,Quakers,quakers-1,2019,Qub,qub-4,2016,Qub,qub-4,2017
@@ -2083,12 +2075,11 @@ birkley-davis-2,Nagano '98,nagano-98-1,2016,SOUP,soup-5,2019
 jerry-hwang-1,PPF,ppf-6,2017,PPF,ppf-6,2018,SOUP,soup-5,2019
 lucy-chow,Nagano '98,nagano-98-1,2016,PPF,ppf-6,2018,SOUP,soup-5,2019
 rebecca-chang-1,Nox,nox-1,2018,SOUP,soup-5,2019
-adam-oadonnell,Crash,crash-1,2015,Maverick,maverick-7,2017,Phoenix,phoenix-1,2018,SOUP,soup-5,2019
-james-lewis-3,SOUP,soup-5,2019
 joel-bellavance,Beer Kitty,beer-kitty-1,2018,DNA,dna,2017,Furious George,furious-george-1,2015,Mio Grape,mio-grape,2016,SOUP,soup-5,2019
 owen-armstrong-5,SOUP,soup-5,2019
 samuel-paiva,GOAT,goat-3,2017,Grand Trunk,grand-trunk-4,2015,Grand Trunk,grand-trunk-4,2016,SOUP,soup-5,2019
 scott-graham-2,SOUP,soup-5,2019
+christina-coulombe,Spawn,spawn-2,2019,The Collective,the-collective-5,2018
 jamie-frampton,Spawn,spawn-2,2019
 maggie-mccarthy-1,Spawn,spawn-2,2019
 rebecca-pinsent,Spawn,spawn-2,2019
@@ -2098,7 +2089,6 @@ alex-brewster,Spawn,spawn-2,2019
 calvin-drost,Spawn,spawn-2,2019
 jacob-savoie,Spawn,spawn-2,2019
 jamie-fitzgerald,High Tide Open,team-nb-1,2018,High Tide Women,team-nb-2,2018,Spawn,spawn-2,2019
-jonathan-murray,Spawn,spawn-2,2019
 peter-macdonald-1,Spawn,spawn-2,2019
 quinn-mercer,Spawn,spawn-2,2019
 sean-roach-2,Spawn,spawn-2,2019
@@ -2119,7 +2109,6 @@ alyssa-short,PPF BEEs,ppf-bees-1,2018,Thunder,thunder-5,2019
 aurelie-sinclair,Thunder,thunder-5,2019,Uproar Open,uproar-8,2018
 breanne-cuddington,Thunder,thunder-5,2019
 emily-ling,Thunder,thunder-5,2019
-laura-anne-tuck,Crash,crash-1,2015,Crash,crash-1,2016,Crash,crash-1,2017,Thrift Shop,thrift-shop-1,2018,Thunder,thunder-5,2019
 marcie-chaudet,Thunder,thunder-5,2016,Thunder,thunder-5,2019
 may-nguyen-1,PPF,ppf-6,2017,Thunder,thunder-5,2018,Thunder,thunder-5,2019
 morganna-turner,Thunder,thunder-5,2019
@@ -2127,7 +2116,6 @@ rhiannon-hodgson-1,Thunder,thunder-5,2018,Thunder,thunder-5,2019
 samantha-mccabe,Thunder,thunder-5,2019
 sarah-walther,Thunder,thunder-5,2019
 yvonne-chau,Thunder,thunder-5,2018,Thunder,thunder-5,2019
-adam-van-ymeren,Crash,crash-1,2017,Critical Mass,critical-mass-2,2016,Thunder,thunder-5,2019
 alex-bedley-1,Thunder,thunder-5,2016,Thunder,thunder-5,2018,Thunder,thunder-5,2019
 ben-saleh-1,Goose,goose-6,2018,Thunder,thunder-5,2019
 devon-asemota,Thunder,thunder-5,2019
@@ -2158,8 +2146,11 @@ madeleine-channen,Union,union-8,2019,Zen,zen-11,2017
 stephanie-harper,Local 613,local-613,2016,TOX6ix,tox6ix-3,2018,Union,union-8,2017,Union,union-8,2019
 david-kaufman-1,Union,union-8,2017,Union,union-8,2019
 jeffrey-woo-2,Union,union-8,2019
+keegan-lee-newbury,Union,union-8,2019,Zen,zen-11,2017,Zen,zen-13,2018
+kevin-chao,Blackfish,blackfish-5,2017,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2018,Union,union-8,2019
 kevin-rabichow-1,Union,union-8,2019
 mikael-zappetti,BOAT,boat-1,2017,BOAT,boat-1,2018,Grand Trunk,grand-trunk-4,2015,Union,union-8,2019
+nathaniel-faries,Maverick,maverick-6,2015,Union,union-8,2017,Union,union-8,2019
 nikko-gaston,Trail Mix,trail-mix,2018,Union,union-8,2019
 amanda-kong-1,Flurry,flurry-1,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 amira-maddison,Traffic,traffic-1,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
@@ -2169,7 +2160,7 @@ lorissa-corrie,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls
 mairin-berezan-1,Cannibals,cannibals,2017,Surge,surge-1,2015,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019,Zephyr,zephyr-2,2016
 monica-whitney-brown,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 nekita-sidhho-1,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
-sarah-von-der-weid,Cannibals,cannibals,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019,Wild,wild-1,2015
+sarah-von-der-weid,Cannibals,cannibals,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019,Wildish,wild-1,2015
 alex-beek-1,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 casey-skrepneck,Cannibals,cannibals,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 oliver-telfer,Cannibals,cannibals,2017,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
@@ -2179,8 +2170,6 @@ patrick-church,Blackfish,blackfish-2,2015,Victoria Gulls n' Buoys,victoria-gull-
 peter-galbraith-1,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 trevor-knechtel,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2018,Victoria Gulls n' Buoys,victoria-gull-n-buoys,2019
 angela-yu,Zen,zen-13,2018,Zen,zen-15,2019
-cassie-wong,TOX6ix,tox6ix-1,2017,Zen,zen-15,2019
-jacqui-hayworth,MMV,mmv,2016,TOX6ix,tox6ix-3,2018,Zen,zen-11,2017,Zen,zen-15,2019
 kelly-smith,Zen,zen-15,2019
 rosalind-sham,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019
 sarah-baxendale,Zen,zen-11,2017,Zen,zen-13,2018,Zen,zen-15,2019
@@ -2202,7 +2191,6 @@ everett-greenways,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatb
 john-russell,Alberta Flatball Club,alberta-flatball-club,2019,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017
 justice-paul,Alberta Flatball Club,alberta-flatball-club,2019,Bunny Thugs,bunny-thugs-2,2015,Bunny Thugs,bunny-thugs-2,2016,Bunny Thugs,bunny-thugs-2,2017,Bunny Thugs,bunny-thugs-2,2018
 luke-nealon,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019
-matthew-hoehne,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019
 michael-elliott,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019
 nevin-root-1,Alberta Flatball Club,alberta-flatball-club,2015,Alberta Flatball Club,alberta-flatball-club,2016,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball Club,alberta-flatball-club,2018,Alberta Flatball Club,alberta-flatball-club,2019
 nigel-lendsay-program-director,Alberta Flatball Club,alberta-flatball-club,2019
@@ -2220,7 +2208,6 @@ garret-hollis,Alberta Flatball Club,alberta-flatball-club,2017,Alberta Flatball 
 greg-wentworth,Berta Flatball Club,aberta-flatball-club,2019,Rogue Hippo,rogue-hippo-5,2017
 han-bai,Berta Flatball Club,aberta-flatball-club,2019,Whitefish,whitefish,2018
 jason-kully-1,Alberta Flatball Club,alberta-flatball-club,2018,Berta Flatball Club,aberta-flatball-club,2019
-jayden-platt-1,Berta Flatball Club,aberta-flatball-club,2019,Rogue Hippo,rogue-hippo-6,2018
 jeff-hatton,Berta Flatball Club,aberta-flatball-club,2019,Rogue Hippo,rogue-hippo-6,2018
 jon-billiau,Berta Flatball Club,aberta-flatball-club,2019
 keaton-seaby,Berta Flatball Club,aberta-flatball-club,2019
@@ -2246,12 +2233,12 @@ keegan-freeland-1,Blackfish,blackfish-6,2019,Whitefish,whitefish,2018
 nicholas-lin,Banana Cutters,fight-club-1,2017,Blackfish,blackfish-6,2019,Goomba Gang,best-coast,2018,Mio Grape,mio-grape,2016
 nicholas-okuma,Blackfish,blackfish-5,2018,Blackfish,blackfish-6,2019
 nicolas-sanchez-2,Blackfish,blackfish-6,2019
-ryan-hoy,Banana Cutters,fight-club-1,2017,Blackfish,blackfish-2,2015,Blackfish,blackfish-2,2016,Blackfish,blackfish-6,2019,Goomba Gang,best-coast,2018
 trevor-mccann,Blackfish,blackfish-6,2019
 victor-cheng,Blackfish,blackfish-6,2019,Goomba Gang,best-coast,2018,Mio Grape,mio-grape,2016
 alex-christison,BOAT,boat-1,2019
 andrew-h-2,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2019,Zen,zen-13,2018
 benny-huynh,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2018,BOAT,boat-1,2019
+brian-tran,BOAT,boat-1,2019,Uproar Open,uproar-8,2018
 cameron-knox-1,BOAT,boat-1,2018,BOAT,boat-1,2019
 carlos-zambrano,BOAT,boat-1,2019,Grand Trunk,grand-trunk-4,2018
 danny-collins,BOAT,boat-1,2019
@@ -2260,9 +2247,15 @@ dylan-fonseca,BOAT,boat-1,2019,Energy,energy,2018,ROY,roy-4,2017,ROY,roy-4,2018
 evan-wong,BOAT,boat-1,2018,BOAT,boat-1,2019
 jonah-yang-1,BOAT,boat-1,2019
 jonathan-hsieh-1,BOAT,boat-1,2019
+kavin-sritharan,BOAT,boat-1,2019
+liam-macarthur,BOAT,boat-1,2019,COAT,coat-1,2018
+lucas-mckeown,BOAT,boat-1,2018,BOAT,boat-1,2019
 maharai-mitchell-1,BOAT,boat-1,2019,Uproar Open,uproar-8,2018
+martin-shiu,BOAT,boat-1,2019
 matthew-lam-2,BOAT,boat-1,2019,Maverick,maverick-7,2018
 micah-tam-1,BOAT,boat-1,2019,COAT,coat-1,2018
+micheal-kukucska,BOAT,boat-1,2016,BOAT,boat-1,2017,BOAT,boat-1,2018,BOAT,boat-1,2019,COAT,coat-1,2018
+mohammed-alhadid,BOAT,boat-1,2019,COAT,coat-1,2018
 nolan-mckeown,BOAT,boat-1,2019
 raoul-tanyan,BOAT,boat-1,2019,Max Power,team-name-29,2018,ROY,roy-4,2017
 robert-sun,BOAT,boat-1,2019,TORO Open,toro,2018
@@ -2275,7 +2268,6 @@ antoine-faucher,Club M - Magma,club-m-magma,2019,Titane (Open),titane-open,2018
 arthur-limoges,Club M - Magma,club-m-magma,2019
 charles-guay,Club M - Magma,club-m-magma,2019,Titane (Open),titane-open,2018
 charles-richards,Club M - Magma,club-m-magma,2019,Titane (Open),titane-open,2018
-clubm-ultimate,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018,Club M - Magma,club-m-magma,2019,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2019
 dany-fortin,Cherry Bomb,cherry-bomb-6,2016,Club M - Magma,club-m-magma,2018,Club M - Magma,club-m-magma,2019
 emile-riel-proulx,Club M - Magma,club-m-magma,2019
 etienne-lamarche,Club M - Magma,club-m-magma,2019,Titane (Open),titane-open,2018
@@ -2311,16 +2303,19 @@ mathieu-petit,Club M - Manic,club-m-manic,2019
 mohamed-chrouh,Club M - Magma,club-m-magma,2018,Club M - Manic,club-m-manic,2019
 sebastien-nadon,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2019,FUEL,fuel-1,2016
 zakarie-massi,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018,Club M - Manic,club-m-manic,2019
+alvin-lee-1,COAT,coat-1,2019
 colby-gibbons,COAT,coat-1,2019
 colin-darling,COAT,coat-1,2018,COAT,coat-1,2019
 curtis-reason,COAT,coat-1,2019,Thunder,thunder-5,2017
 drew-robinson,COAT,coat-1,2018,COAT,coat-1,2019
+ganish-narain,COAT,coat-1,2018,COAT,coat-1,2019
 jack-lovett,COAT,coat-1,2019
 jeffrey-he-1,COAT,coat-1,2018,COAT,coat-1,2019
 jonathan-chow-1,COAT,coat-1,2019
 kevin-young-6,COAT,coat-1,2019
 lucas-lyons,COAT,coat-1,2018,COAT,coat-1,2019
 mark-delamasa,COAT,coat-1,2019
+martin-sieniawski,COAT,coat-1,2019
 matthew-ing,COAT,coat-1,2019
 nicholas-landry-1,COAT,coat-1,2019
 noah-burns-1,COAT,coat-1,2019
@@ -2331,7 +2326,9 @@ richard-cheng,COAT,coat-1,2018,COAT,coat-1,2019
 rob-jankowski,COAT,coat-1,2018,COAT,coat-1,2019
 ryan-mckeown-1,COAT,coat-1,2018,COAT,coat-1,2019
 shawn-goyal,COAT,coat-1,2019
+taylor-chung,COAT,coat-1,2019
 wallace-chan-1,COAT,coat-1,2018,COAT,coat-1,2019
+wilson-pan,COAT,coat-1,2019
 natasha-wong,DNA,dna-3,2019,Vintage Women,vertigo-jwomen,2018,Zephyr,zephyr-2,2015
 abeer-lamba,DNA,dna-3,2019,Vortex Open,vortex-2,2018
 aidan-lau,DNA,dna-3,2019,Whitefish,whitefish,2018
@@ -2383,27 +2380,22 @@ nicholas-dacquisto,General Strike,general-strike-3,2015,General Strike,general-s
 ryan-mcdonald-2,General Strike,general-strike-3,2019
 tyler-ganes,Critical Mass,critical-mass-2,2017,Elements,elements,2015,General Strike,general-strike-3,2019,Quest,quest-1,2016
 zachary-goldberg,General Strike,general-strike-3,2015,General Strike,general-strike-3,2016,General Strike,general-strike-3,2017,General Strike,general-strike-3,2019
-adrian-yearwood,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019
 akifumi-muraoka-1,GOAT,goat-3,2019
-ben-pries-1,GOAT,goat-3,2017,GOAT,goat-3,2019
 connor-armstrong-4,GOAT,goat-3,2017,GOAT,goat-3,2019,Grand Trunk,grand-trunk-4,2016
 jeremy-norden,GOAT,goat-3,2017,GOAT,goat-3,2019,Team Fisher Price,team-fisher-price-1,2015
-kieran-charnock,GOAT,goat-3,2019
 mark-lloyd,GOAT,goat-3,2019,General Strike,general-strike-3,2017
 sachin-raina,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019
 thomson-mcknight,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019,Nagano '98,nagano-98-1,2016
 toly-vasilyev-2,GOAT,goat-3,2015,GOAT,goat-3,2017,GOAT,goat-3,2019
 adam-turcotte,BOAT,boat-1,2016,BOAT,boat-1,2018,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-6,2019
 campbell-armstrong-1,Grand Trunk,grand-trunk-6,2019,TORO Open,toro,2018
-daniel-wong-1,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Midnight Release,midnight-release,2016,Union,union-4,2015
 james-mcclean-2,Grand Trunk,grand-trunk-6,2019
+jason-li-1,Grand Trunk,grand-trunk-6,2019
 justin-lem,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2018
-kelvin-huang,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2018
 lawrence-mak-1,BOAT,boat-1,2018,Grand Trunk,grand-trunk-6,2019
 matt-kishi,Grand Trunk,grand-trunk-4,2016,Grand Trunk,grand-trunk-4,2017,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019
 owen-robinson-2,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2017
 pavel-shering,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2018
-riley-lublow,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2017,ROY,roy-4,2018
 torja-istiaque,Grand Trunk,grand-trunk-6,2019,ROY,roy-4,2018
 will-turner-1,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019
 zach-young,Grand Trunk,grand-trunk-4,2018,Grand Trunk,grand-trunk-6,2019,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017
@@ -2412,8 +2404,6 @@ gavin-lee-2,Houndd,houndd-1,2019
 george-su,Houndd,houndd-1,2019
 jake-pilkey,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,Houndd,houndd-1,2019,Legendairy,legendairy,2016
 kenneth-magill,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,Houndd,houndd-1,2019
-ketan-vasudeva,Houndd,houndd-1,2019,Stud,synergy,2018
-kevin-jay,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,Houndd,houndd-1,2019
 nick-ormel,Houndd,houndd-1,2018,Houndd,houndd-1,2019
 noah-bailey-1,Houndd,houndd-1,2019
 ryan-poloz,Backdraft,backdraft-1,2017,Houndd,houndd-1,2018,Houndd,houndd-1,2019,Legendairy,legendairy,2016
@@ -2421,16 +2411,25 @@ stephen-pepler-1,BOAT,boat-1,2016,Backdraft,backdraft,2015,Houndd,houndd-1,2018,
 taylor-los,BOAT,boat-1,2017,BOAT,boat-1,2018,Houndd,houndd-1,2019
 tyrus-jay,Houndd,houndd-1,2019,Stud,synergy,2018
 adam-li,Maverick,maverick-7,2019,ROY,roy-4,2018
+adison-oliver,Goose,goose-8,2017,Maverick,maverick-7,2016,Maverick,maverick-7,2018,Maverick,maverick-7,2019
 brayden-bowler,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019
 calvin-carter,Maverick,maverick-7,2019
 ciaran-buckley,Maverick,maverick-7,2019
+derek-mcconomy,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019
+dinushan-dayarathna,Maverick,maverick-7,2019
 franklin-liu,Goose,goose-6,2018,Maverick,maverick-7,2019
+joel-steinmann,Maverick,maverick-7,2018,Maverick,maverick-7,2019
+john-agda,Maverick,maverick-6,2015,Maverick,maverick-7,2019,Thunder,thunder-5,2016,Thunder,thunder-5,2017,Thunder,thunder-5,2018
+jonathan-moyer,Goose,goose-6,2018,Goose,goose-8,2017,Maverick,maverick-7,2019
 jonathan-nelson-1,Crash,crash-1,2015,Maverick,maverick-7,2019
+ken-dunbar,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019
+marcus-kretz,Goose,goose-6,2018,Maverick,maverick-7,2019
 matthew-wong-3,COAT,coat-1,2018,Maverick,maverick-7,2019
 michael-yu-2,Maverick,maverick-7,2019,Savage Open,savage-open-2,2018
 nathaniel-crane,Maverick,maverick-7,2019
 nick-lemoing,Maverick,maverick-7,2018,Maverick,maverick-7,2019
 sam-wong-4,Maverick,maverick-7,2019
+seth-stevenson,Maverick,maverick-7,2019
 theo-wan,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Maverick,maverick-7,2019
 benjamin-cheer,Ignite,ignite-1,2018,Phoenix,phoenix,2019
 colin-froats,Phoenix,phoenix-1,2015,Phoenix,phoenix-1,2017,Phoenix,phoenix,2019
@@ -2460,11 +2459,11 @@ victor-sauve,Quake,quake-2,2018,Quake,quake-4,2019
 vincent-gamache,Elements,elements,2015,Quake,quake-2,2018,Quake,quake-4,2019
 zacharie-morneau,Origine Open,origine,2018,Quake,quake-4,2019
 brody-mckeown,Regiment,regiment,2018,Regiment,regiment,2019
+colin-mcdonell,Regiment,regiment,2018,Regiment,regiment,2019
 francois-morin,Regiment,regiment,2018,Regiment,regiment,2019
 jordan-kavanagh,Regiment,regiment,2019
 ken-budgell,Regiment,regiment,2018,Regiment,regiment,2019
 michael-williams-4,Regiment,regiment,2019
-mike-pineau,Regiment,regiment,2018,Regiment,regiment,2019
 myles-dooley,Regiment,regiment,2018,Regiment,regiment,2019
 nick-mitchell-3,Regiment,regiment,2019
 rob-fleming,Regiment,regiment,2018,Regiment,regiment,2019
@@ -2473,11 +2472,16 @@ alexander-spafford,ROY,roy-4,2017,ROY,roy-4,2018,ROY,roy-6,2019
 allan-ledesma,COAT,coat-1,2018,ROY,roy-6,2019
 benjamin-tatur-1,ROY,roy-6,2019
 carlos-mo,ROY,roy-6,2019
+eric-ye,ROY,roy-6,2019
+geerthan-srikantharajah,ROY,roy-6,2019
 ian-mcclean-2,ROY,roy-6,2019
+james-ho-1,ROY,roy-6,2019
 jared-westreich,ROY,roy-4,2018,ROY,roy-6,2019
 jethro-wu,ROY,roy-6,2019
 joe-sismondo,ROY,roy-4,2018,ROY,roy-6,2019
 john-xia,ROY,roy-6,2019
+joshua-dong,ROY,roy-6,2019
+justin-kim,ROY,roy-6,2019
 kevin-song-1,ROY,roy-6,2019
 kingsley-hu,ROY,roy-6,2019
 kody-jeung,ROY,roy-6,2019
@@ -2485,12 +2489,12 @@ nathan-lee-4,ROY,roy-6,2019
 richardson-ng,ROY,roy-6,2019
 sharven-muralidharan,Maverick,maverick-7,2016,ROY,roy-4,2017,ROY,roy-4,2018,ROY,roy-6,2019
 william-tan-1,ROY,roy-6,2019
+wilson-wang-1,Goose,goose-6,2018,ROY,roy-6,2019
 andrew-benson-5,RUT,rut-6,2019
 ao-guo,RUT,rut-6,2019
 austin-reimer,RUT,rut-6,2019
 chris-brennan,Ledge,ledge-1,2015,RUT,rut-6,2019
 chris-tuharsky,RUT,rut-6,2019
-cole-digel,Bunny Thugs,bunny-thugs-2,2015,Bunny Thugs,bunny-thugs-2,2016,Bunny Thugs,bunny-thugs-2,2017,Bunny Thugs,bunny-thugs-2,2018,RUT,rut-6,2019
 colin-kuntz,RUT,rut-6,2019
 demitri-hofer-1,RUT,rut-6,2017,RUT,rut-6,2019
 jiajun-ding,RUT,rut-6,2019
@@ -2528,15 +2532,24 @@ rohan-chopra,Shrike,shrike,2019
 shintaro-tsukamoto,Grand Trunk,grand-trunk-4,2016,Shrike,shrike,2017,Shrike,shrike,2019,Uproar Open,uproar-8,2018
 simon-walker,Shrike,shrike,2018,Shrike,shrike,2019
 adam-macdonald-1,Too Bad,too-bad,2019
+arthur-yan,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019,Zen,zen-13,2018
 ben-mussell,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 christopher-wang,Max Power,max-power-3,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
+david-ip,ROY,roy-4,2017,ROY,roy-4,2018,Too Bad,too-bad,2019,Zen,zen-9,2016
+donald-kwok,MMV,mmv,2016,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 elan-swartz-1,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
+gregory-lang,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
+harry-burkman,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 jack-macdonald,Maverick,maverick-7,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
+jay-ramos,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019,Zen,zen-9,2016
+josh-chan,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 josh-mcphie-1,Too Bad,too-bad,2019
 justin-chan,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
 kyle-lam,Too Bad,too-bad,2019,Uproar Open,uproar-8,2018
 maxwell-human,Too Bad,too-bad,2019
 nelson-tuen,Too Bad,too-bad-2,2018,Too Bad,too-bad,2019
+rick-st-jean,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad,2019
+ryan-wilson-1,Too Bad,too-bad,2019
 troy-booth,Too Bad,too-bad,2019
 alex-dunnett,Whiskeyjacks,whiskeyjacks,2019
 bryan-slauko,CarJam,carbon-2,2015,Phantoms,phantoms-2,2016,Spectrum,spectrum-1,2017,Whiskeyjacks,whiskeyjacks,2019
@@ -2549,17 +2562,15 @@ jonathan-mah,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017,Whisk
 justin-han-1,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2019
 keven-marshall,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
 landon-urquhart,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
-mike-szwarz-1,Phantoms,phantoms-2,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
 stephan-wiebe,Whiskeyjacks,whiskeyjacks,2019
 tyler-sobry,Lit,lit-2,2018,Whiskeyjacks,whiskeyjacks,2015,Whiskeyjacks,whiskeyjacks,2016,Whiskeyjacks,whiskeyjacks,2017,Whiskeyjacks,whiskeyjacks,2019
 tyler-williams-1,Phantoms,phantoms-2,2016,Spectrum,spectrum-1,2017,Spectrum,spectrum-1,2018,Whiskeyjacks,whiskeyjacks,2019
-adrianna-rowe-1,6ixers,6ixers,2019,Wild,wild-1,2015,Wild,wild-1,2016
+adrianna-rowe-1,6ixers,6ixers,2019,Wildish,wild-1,2015,Wildish,wild-1,2016
 alena-papayanis,6ixers,6ixers,2019,Terra,terra,2015
 hannah-dawson-1,6ixers,6ixers,2019,Capitals,capitals-2,2015,Nor'Easter,noreaster-2,2016,Stella A,stella-a-2,2017,Stella,stella-10,2018
 jeannette-quach,6ixers,6ixers,2019,Capitals,capitals-2,2015,Nagano '98,nagano-98-1,2016,TOX6ix,tox6ix-3,2018
 jenna-mcleod,6ixers,6ixers,2019
 jessica-chen-3,6ixers,6ixers,2019,Capitals,capitals-2,2015
-kimberly-morin-coulombe,6ixers,6ixers,2019,Iris,iris-1,2015,Iris,iris-3,2017,Iris,iris-3,2018,No In Cut,no-in-cut,2016
 laura-kinoshita,6ixers,6ixers,2019,Capitals,capitals-2,2015
 miriam-tingle,6ixers,6ixers,2019,Capitals,capitals-2,2015,Nagano '98,nagano-98-1,2016
 sarah-innes,6ixers,6ixers,2019,Capitals,capitals-2,2015,Nagano '98,nagano-98-1,2016
@@ -2585,10 +2596,8 @@ alexandra-omand,Flurry,flurry-1,2017,Flurry,flurry-1,2019
 amanda-seacheng,Flurry,flurry-1,2019
 anita-hansen,Flurry,flurry-1,2016,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017,Rogue Hippo,rogue-hippo-6,2018
 courtney-mielnichuk,Flurry,flurry-1,2019
-eden-vanderlaan,Flurry,flurry-1,2019
 elisha-brooks,Flurry,flurry-1,2019
 elizabeth-everitt,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019
-erin-bethune-1,Flurry,flurry-1,2016,Flurry,flurry-1,2019,Rogue Hippo,rogue-hippo-5,2017
 evie-varelas,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019
 jami-parisien,Flurry,flurry-1,2015,Flurry,flurry-1,2016,Flurry,flurry-1,2017,Flurry,flurry-1,2019
 kayla-unrau,Flurry,flurry-1,2015,Flurry,flurry-1,2016,Flurry,flurry-1,2019
@@ -2721,7 +2730,6 @@ breanne-wish,Sneaky House Hippos,sneaky-house-hippos-4,2019,Vortex Women,vortex-
 chantal-costa,Fable,fable-1,2018,Sneaky House Hippos,sneaky-house-hippos-4,2019,Vesta,vesta,2017,Vintage Women,vertigo-jwomen,2018
 emelie-lundstrom,Shhippos,shhippos,2017,Sneaky House Hippos,sneaky-house-hippos-4,2019,Wendigo,wendigo-2,2016
 emily-yuen-1,Banana Cutters,fight-club-1,2017,Sneaky House Hippos,sneaky-house-hippos-4,2019,The Super Friends,the-super-friends-1,2018
-emma-best,Sneaky House Hippos,sneaky-house-hippos-4,2019
 emma-madden-krasnick,Shhippos,shhippos,2017,Sneaky House Hippos,sneaky-house-hippos-4,2019
 esther-au,Goomba Gang,best-coast,2018,Sneaky House Hippos,sneaky-house-hippos-4,2019
 jessie-bell,Beer Kitty,beer-kitty-1,2018,Shhippos,shhippos,2017,Sneaky House Hippos,sneaky-house-hippos-4,2019,Traffic,traffic-2,2015
@@ -2768,24 +2776,23 @@ laura-mason,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019
 laurel-jay-1,Traffic,traffic-1,2017,Traffic,traffic-2,2015,Traffic,traffic-5,2019
 lisa-wong,Shhippos,shhippos,2017,Traffic,traffic-5,2019
 nagisa-fukuoka-2,Traffic,traffic-5,2019
-nicola-parker,Traffic,traffic-5,2019
-elisa-yu,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2019
-elise-tissandier,Prairie Fire,dyna-2,2017,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2019
-emily-bennett,Wild,wild-1,2019
-kira-nagassar,Wild,wild-1,2019
-linda-ganley,MASH,mash-1,2016,Wild,wild-1,2019
-meghanne-uptigrove,Fable,fable-1,2018,Lit,lit,2016,Lit,lit,2017,Wild,wild-1,2019
-melissa-bernstein-1,Fable,fable-1,2018,Wild,wild-1,2019
-mollie-johnson,Wild,wild-1,2019
-monica-walsh,Spectrum,spectrum-1,2018,Wild,wild-1,2019
-natasha-pye,Flurry,flurry-1,2016,Lit,lit-2,2018,Wild,wild-1,2019
-paige-nuttall,Wild,wild-1,2019
-sarah-grundy,Wild,wild-1,2019
-sarah-vooys,Wild,wild-1,2019
-sarah-williamson-urquhart,Wild,wild-1,2019
-shannon-woods-1,Wild,wild-1,2019
-sophia-dayfoot,Wild,wild-1,2015,Wild,wild-1,2016,Wild,wild-1,2019
-tansie-kuang,Wild,wild-1,2019
+elisa-yu,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2019
+elise-tissandier,Prairie Fire,dyna-2,2017,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2019
+emily-bennett,Wildish,wild-1,2019
+kira-nagassar,Wildish,wild-1,2019
+linda-ganley,MASH,mash-1,2016,Wildish,wild-1,2019
+meghanne-uptigrove,Fable,fable-1,2018,Lit,lit,2016,Lit,lit,2017,Wildish,wild-1,2019
+melissa-bernstein-1,Fable,fable-1,2018,Wildish,wild-1,2019
+mollie-johnson,Wildish,wild-1,2019
+monica-walsh,Spectrum,spectrum-1,2018,Wildish,wild-1,2019
+natasha-pye,Flurry,flurry-1,2016,Lit,lit-2,2018,Wildish,wild-1,2019
+paige-nuttall,Wildish,wild-1,2019
+sarah-grundy,Wildish,wild-1,2019
+sarah-vooys,Wildish,wild-1,2019
+sarah-williamson-urquhart,Wildish,wild-1,2019
+shannon-woods-1,Wildish,wild-1,2019
+sophia-dayfoot,Wildish,wild-1,2015,Wildish,wild-1,2016,Wildish,wild-1,2019
+tansie-kuang,Wildish,wild-1,2019
 antoine-demers-bergeron-1,Arsenic (Open),arsenic-open,2018
 antoine-lavigne,Arsenic (Open),arsenic-open,2018,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018
 david-ferbeyre-1,Arsenic (Open),arsenic-open,2018
@@ -2955,6 +2962,7 @@ charlie-ens-1,Rogue Squadron,rogue-squadron-1,2018
 isaac-fortin,Rogue Squadron,rogue-squadron-1,2018
 jacob-jongsma,Rogue Squadron,rogue-squadron-1,2018
 jake-douglas-1,Rogue Squadron,rogue-squadron-1,2018
+jake-voskamp,Rogue Squadron,rogue-squadron-1,2018
 joe-voskamp,Rogue Squadron,rogue-squadron-1,2018
 john-noble,Rogue Squadron,rogue-squadron-1,2018
 michael-parajka,Rogue Squadron,rogue-squadron-1,2018
@@ -3028,6 +3036,7 @@ brody-jay,Stud,synergy,2018
 charlie-smith-3,Stud,synergy,2018
 daniel-bouwma,Stud,synergy,2018
 darby-martin,Stud,synergy,2018
+gavin-lee,Stud,synergy,2018
 james-powers-4,Stud,synergy,2018
 matt-fanciulli,Stud,synergy,2018
 robbie-rodway,Stud,synergy,2018
@@ -3038,7 +3047,6 @@ william-hsu,Stud,synergy,2018
 zachary-smith-11,Stud,synergy,2018
 mael-garcia,Titane (Open),titane-open,2018
 chris-gnam,TORO Open,toro,2018
-eli-park,TORO Open,toro,2018
 evan-phillips-2,Shepherds,shepherds,2015,TORO Open,toro,2018
 jaedan-prescott-brown-1,TORO Open,toro,2018
 jaylord-matalang,TORO Open,toro,2018
@@ -3050,6 +3058,7 @@ khirode-robertson,TORO Open,toro,2018
 lance-birney,TORO Open,toro,2018
 louie-weng-1,TORO Open,toro,2018
 nam-ho,TORO Open,toro,2018
+nawid-mehrpoor,TORO Open,toro,2018
 oliver-stonehouse,TORO Open,toro,2018
 philip-abad,TORO Open,toro,2018
 rob-grundy,Max Power,team-name-29,2018,TORO Open,toro,2018
@@ -3063,7 +3072,6 @@ chris-wakelin-1,Vintage Open,vertigo-1,2018,Vintage Women,vertigo-jwomen,2018,Vo
 hector-vo,Vintage Open,vertigo-1,2018
 jake-jang,Vintage Open,vertigo-1,2018
 johann-ferrera,Vintage Open,vertigo-1,2018
-justin-podnar,Vintage Open,vertigo-1,2018
 kiefer-hogan,Vintage Open,vertigo-1,2018
 koji-suzuki,Vintage Open,vertigo-1,2018
 mark-chow,Vintage Open,vertigo-1,2018
@@ -3115,7 +3123,6 @@ ariane-mcgraw,High Tide Women,team-nb-2,2018
 veronica-ng-1,Banana Cutters,fight-club-1,2017,Mischief Women,mischief-women-1,2018,Zephyr,zephyr-2,2015,Zephyr,zephyr-2,2016
 bryce-paterson,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
 caitlin-cho-1,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
-lindsay-marshall,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
 lisbeth-hildebrand,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
 maya-sykes,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
 yasmin-banares,MOFO (Masters Of Flying Objects) Women's Team,mofo-masters-of-flying-objects-womens-team,2018
@@ -3173,6 +3180,7 @@ noah-bailey,Uproar Open,uproar-8,2018
 oliver-brown-1,Uproar Open,uproar-8,2018
 owen-kolinski,Uproar Open,uproar-8,2018
 pavithran-bala,Uproar Open,uproar-8,2018
+peter-lam,Uproar Open,uproar-8,2018
 raymond-hou,Uproar Open,uproar-8,2018
 ronan-cheung-2,Uproar Open,uproar-8,2018
 thomas-panayiotopoulos,Uproar Open,uproar-8,2018
@@ -3194,6 +3202,7 @@ abbey-howard,Red River Rebellion,red-river-rebellion,2018
 alyssa-ash,Red River Rebellion,red-river-rebellion,2018
 bronwyn-chard,Red River Rebellion,red-river-rebellion,2018
 carol-jean-wong,Red River Rebellion,red-river-rebellion,2018
+emily-cho-2,Red River Rebellion,red-river-rebellion,2018
 grace-harding-1,Red River Rebellion,red-river-rebellion,2018
 kate-ramjug,Red River Rebellion,red-river-rebellion,2018
 madelaine-ramjug,Red River Rebellion,red-river-rebellion,2018
@@ -3225,7 +3234,6 @@ tobi-gauthier-beaudoin,Club M - Manic,club-m-manic,2017,Magma,magma-5,2016,Titan
 brianna-prentice,TORO Junior Women,toro-open,2018
 camila-sivirichi,TORO Junior Women,toro-open,2018
 celine-nguyen,TORO Junior Women,toro-open,2018
-cynthia-deng,TORO Junior Women,toro-open,2018
 doris-zeng,TORO Junior Women,toro-open,2018
 jaidyn-lunn,TORO Junior Women,toro-open,2018
 jenny-zhang,TORO Junior Women,toro-open,2018
@@ -3233,7 +3241,6 @@ katherine-quach,TORO Junior Women,toro-open,2018
 monica-wang,TORO Junior Women,toro-open,2018
 montana-danis,TORO Junior Women,toro-open,2018
 morrow-santocono,TORO Junior Women,toro-open,2018
-rachel-cooc,TORO Junior Women,toro-open,2018
 reissa-lee-chan,TORO Junior Women,toro-open,2018
 tracey-dao,TORO Junior Women,toro-open,2018
 annie-chang,Vintage Women,vertigo-jwomen,2018
@@ -3386,6 +3393,7 @@ rob-lee,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018
 roudy-parenteau,Club M - MESA,club-m-mesa,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018,Sriracha,sriracha-1,2016
 ryan-jarema,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2016,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018,NSOM 2,nsom-2-1,2017,NSOM,nsom-4,2015
 sacha-loutfi,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018
+simon-vervaet,Club M - MESA,club-m-mesa,2017,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2018
 dallas-ingbrigtson,Queen City Kings,mangina,2017,Queen City Kings,mangina,2018
 graham-haines,Queen City Kings,mangina,2017,Queen City Kings,mangina,2018
 kevin-hynd,Queen City Kings,mangina,2018
@@ -3442,6 +3450,7 @@ melanie-weir,Mint,mint-1,2018
 michelle-chrisp,Mint,mint-1,2017,Mint,mint-1,2018
 sara-jane-milne,Mint,mint-1,2015,Mint,mint-1,2016,Mint,mint-1,2018
 shelly-roy-1,Mint,mint-1,2018
+amanda-clarke-2,Nebula,nebula-1,2018
 amy-mckay-1,Nebula,nebula-1,2018
 janet-ibit,Nebula,nebula-1,2018
 jessica-brichta,Nebula,nebula-1,2017,Nebula,nebula-1,2018,Stella B,stella-b-2,2015
@@ -3468,7 +3477,6 @@ sarah-macquarrie,Thrift Shop,thrift-shop-1,2018
 seana-lindenthaler,Thrift Shop,thrift-shop-1,2018
 stephanie-higgins,TFT,tft,2016,Thrift Shop,thrift-shop-1,2018
 andrew-portwine,Thrift Shop,thrift-shop-1,2018
-amelie-bleau,Cherry Bomb,cherry-bomb-6,2016,Vega,vega-1,2018,X-Squad,x-squad-5,2017
 amelie-piche-richard,Vega,vega-1,2018,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 annick-martin,Storm,storm-112213,2016,Storm,storm-112213,2017,Storm,storm-2,2015,Vega,vega-1,2018
 aurelie-reynaud-1,Vega,vega-1,2018
@@ -3480,8 +3488,8 @@ kim-parizeault,Vega,vega-1,2018
 laurence-demers-rivard,Mystik,mystik-4,2015,Storm,storm-112213,2017,Vega,vega-1,2018,Vénus,venus,2016
 marlene-boisvert,Vega,vega-1,2018,X-Squad,x-squad-5,2017
 melodie-rousseau-1,Vega,vega-1,2018
+murielle-chapuis,Vega,vega-1,2018,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 stephanie-castonguay,Vega,vega-1,2018,Vénus,venus,2016,Vénus,venus,2017
-tanya-estwick-lepage,Vega,vega-1,2018,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 to-linh-nguyen,Vega,vega-1,2018,Vénus,venus,2016,Vénus,venus,2017
 candice-chan-1,Beer Kitty,beer-kitty-1,2018,Team Fisher Price,team-fisher-price-1,2015
 christy-mader,Beer Kitty,beer-kitty-1,2018,Team Fisher Price,team-fisher-price-1,2015
@@ -3535,10 +3543,8 @@ sean-karner-1,Crux,crux,2018
 christine-liu-1,Fable,fable-1,2017,Fable,fable-1,2018
 jenna-mcdonald,Fable,fable-1,2017,Fable,fable-1,2018
 kaitlyn-harper,Fable,fable-1,2018,Shhippos,shhippos,2017
-sarah-cawston-stewart-1,Fable,fable-1,2017,Fable,fable-1,2018,Wendigo,wendigo-2,2016,Zephyr,zephyr-2,2015
 eric-huynh-1,Fable,fable-1,2018,Refinery,refinery-1,2016
 mark-bustin,Fable,fable-1,2017,Fable,fable-1,2018,NoBS,nobs,2016
-michael-luongo,Fable,fable-1,2017,Fable,fable-1,2018
 tanner-marshall,Fable,fable-1,2017,Fable,fable-1,2018
 victor-tran,Fable,fable-1,2018
 rebecca-robitaille-2,Force,force,2018
@@ -3572,6 +3578,7 @@ kerry-lake,Local 613,local-613-1,2018,Local 613,local-613,2016
 ben-yeung,Local 613,local-613-1,2018
 colin-bell,Local 613,local-613-1,2018
 kyle-plumb,Local 613,local-613-1,2018,Local 613,local-613,2016
+matt-rothwell,Local 613,local-613-1,2018,Local 613,local-613,2016
 alex-newton,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 jackie-chommany,PBHG,pretty-boys-and-handsome-girls-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 maria-doria-1,Fusion,fusion-2,2017,PBHG,pretty-boys-and-handsome-girls-2,2018
@@ -3684,6 +3691,7 @@ cedric-aubut,Club M - Magma,club-m-magma,2018
 charles-trepanier-bettez-2,Club M - Magma,club-m-magma,2018
 daniel-heredia,Club M - Magma,club-m-magma,2018
 felix-lapointe,Club M - Magma,club-m-magma,2018
+francois-duchesneau,Club M - Magma,club-m-magma,2018
 jean-philippe-auger,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018
 jeremy-chiniara,Club M - Magma,club-m-magma,2017,Club M - Magma,club-m-magma,2018
 jeremy-lagace,Club M - Magma,club-m-magma,2018
@@ -3696,8 +3704,6 @@ charles-bariteau,Club M - Manic,club-m-manic,2018
 felix-theroux-joncas,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018
 francis-laviolette,Club M - Magma,club-m-magma,2017,Club M - Manic,club-m-manic,2018
 frederic-lemieux,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018,Magma,magma-5,2015
-julien-poitras-plante,Club M - Manic,club-m-manic,2018
-liam-mckeown,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018
 marc-andre-duchesneau,Club M - Manic,club-m-manic,2017,Club M - Manic,club-m-manic,2018,Magma,magma-5,2015,Magma,magma-5,2016
 nicolas-bouillon,Club M - Manic,club-m-manic,2018
 philip-jacob-frigon,Club M - Manic,club-m-manic,2018,Magma,magma-5,2015
@@ -3732,7 +3738,6 @@ sam-lanesmith,COAT,coat-1,2018
 wei-peng-jiang-1,COAT,coat-1,2018
 zuxin-wang-1,COAT,coat-1,2018
 damian-lirette,Goose,goose-6,2018
-dan-bennett,Goose,goose-6,2018
 drew-carrick,Goose,goose-6,2018
 heyang-guo,Goose,goose-6,2018
 jd-sherman,Goose,goose-6,2018
@@ -3756,6 +3761,8 @@ alex-taccone,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick
 giorgio-cabrera,Maverick,maverick-7,2018
 jeremie-gabor,Maverick,maverick-7,2018,NADS,nads,2017
 joshua-bone,Maverick,maverick-7,2017,Maverick,maverick-7,2018,Skerj,skerj,2016
+justin-degeer-1,Maverick,maverick-7,2018,Thunder,thunder-5,2017
+kyle-vandeemter,Maverick,maverick-7,2016,Maverick,maverick-7,2017,Maverick,maverick-7,2018
 mike-danh,Maverick,maverick-7,2018
 neil-grzegorczyk,Maverick,maverick-7,2017,Maverick,maverick-7,2018
 philip-cheung,Maverick,maverick-7,2018
@@ -3769,6 +3776,7 @@ jeff-smith-2,NADS,nads,2017,NADS,nads,2018
 jeffrey-graham,NADS,nads,2018
 joel-vallee,NADS,nads,2017,NADS,nads,2018
 mike-yu-2,NADS,nads,2018
+neal-mckinnon,NADS,nads,2017,NADS,nads,2018
 ryan-daley,NADS,nads,2017,NADS,nads,2018
 ryan-devuono,NADS,nads,2017,NADS,nads,2018
 scotty-nicholls,NADS,nads,2017,NADS,nads,2018
@@ -3828,6 +3836,7 @@ kevin-lam-3,Too Bad,too-bad-2,2016,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018
 oscar-bodzeta,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018
 peter-mclachlan,NADS,nads,2017,Too Bad,too-bad-2,2018
 richard-macklem,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018
+ryan-walsh-2,Too Bad,too-bad-2,2018
 steven-jefferys-1,Too Bad,too-bad-2,2017,Too Bad,too-bad-2,2018
 tom-kelly-1,Crash,crash-1,2016,Too Bad,too-bad-2,2018
 ali-jamal,Refinery,refinery-1,2016,Whitefish,whitefish,2018
@@ -3874,7 +3883,6 @@ steven-hunter-1,Foxx,foxx,2018
 alexandra-picard,Iris,iris-1,2015,Iris,iris-3,2018
 greta-melega,Iris,iris-3,2018
 maude-gagne,Iris,iris-3,2018
-shaunagh-howard,Iris,iris-3,2017,Iris,iris-3,2018,Vénus,venus,2015
 alina-wong,Koi,koi-2,2018,Wendigo,wendigo-2,2017
 amanda-yang-1,Koi,koi-2,2018,Wendigo,wendigo-2,2017
 diana-chin,Koi,koi-2,2018
@@ -3920,7 +3928,6 @@ alison-van,PPF BEEs,ppf-bees-1,2018
 brevna-balachandran,PPF BEEs,ppf-bees-1,2018
 darcy-nelson,PPF BEEs,ppf-bees-1,2018
 emma-thorpe-2,PPF BEEs,ppf-bees-1,2018
-hannah-gordon,PPF BEEs,ppf-bees-1,2018
 jennifer-osborne,PPF BEEs,ppf-bees-1,2018
 laura-beecraft,PPF BEEs,ppf-bees-1,2018
 marina-baldassare,PPF BEEs,ppf-bees-1,2018
@@ -4021,7 +4028,6 @@ michael-good-1,Banana Cream Pie,banana-cream-pie,2017,NoBS,nobs,2016
 noah-goldstein-1,Banana Cream Pie,banana-cream-pie,2017,Too Bad,too-bad-2,2015,Too Bad,too-bad-2,2016
 paul-hamilton-2,Banana Cream Pie,banana-cream-pie,2017
 scott-belair,Banana Cream Pie,banana-cream-pie,2017
-sean-hutchins,Banana Cream Pie,banana-cream-pie,2017
 anita-verma,Bingo & Chill,bingo-chill,2017
 bonnie-ketcheson,Bingo & Chill,bingo-chill,2017
 bromley-switzer,Bingo & Chill,bingo-chill,2017,Prairie Fire,dyna-2,2015
@@ -4054,7 +4060,7 @@ maximilian-hegel,Firefly,firefly-2,2017,Intrepid,intrepid,2015,Intrepid,intrepid
 patrick-hunter,Firefly,firefly-2,2017
 troy-kindret,Firefly,firefly-2,2017,Intrepid,intrepid,2016
 christine-millar,Spectrum,spectrum-1,2017
-jini-penugonde,Prairie Fire,dyna-2,2015,Spectrum,spectrum-1,2017,Wild,wild-1,2016
+jini-penugonde,Prairie Fire,dyna-2,2015,Spectrum,spectrum-1,2017,Wildish,wild-1,2016
 melanie-sard,Spectrum,spectrum-1,2017
 danny-ko,Phantoms,phantoms-2,2016,Spectrum,spectrum-1,2017
 dave-campbell,Spectrum,spectrum-1,2017
@@ -4109,7 +4115,6 @@ nick-klimowicz,Iron Crow,iron-crow,2017,IronCrow 2015,ironcrow-2015,2015
 ryan-katz-rosene,Iron Crow,iron-crow,2017,Nor'Easter,noreaster-2,2016,Raft,raft,2015
 seton-stiebert,Iron Crow,iron-crow,2017,Shepherds,shepherds,2015
 thomas-ferguson,Iron Crow,iron-crow,2017,Shrike,shrike,2015
-tom-newman,Iron Crow,iron-crow,2017,IronCrow 2015,ironcrow-2015,2015
 trevor-pound,Iron Crow,iron-crow,2017,IronCrow 2015,ironcrow-2015,2015
 christian-monette,Montreal Old Star,montreal-old-star,2016,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM,nsom-4,2015
 hugo-lefrancois,Montreal Old Star,montreal-old-star,2016,NSOM 1,nothing-sexier-than-old-montrealers-nsom,2017,NSOM,nsom-4,2015
@@ -4196,11 +4201,11 @@ jennifer-cluthe,Eclipse,eclipse-1,2017
 julia-laforge,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2016,Eclipse,eclipse-1,2017
 justine-price,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2016,Eclipse,eclipse-1,2017
 lauren-murphy,Eclipse,eclipse-1,2017
-maya-popovic,Eclipse,eclipse-1,2015,Eclipse,eclipse-1,2017
 amanda-humphries,Mint,mint-1,2017
 bridget-obrien-1,Mint,mint-1,2017
 keira-bulloch,Mint,mint-1,2017
 meredith-bara,Mint,mint-1,2017
+anick-neron,Nebula,nebula-1,2017
 bridget-berry,Nebula,nebula-1,2017
 carrie-anne-whyte,Nebula,nebula-1,2017
 deanne-spiers,Nebula,nebula-1,2017
@@ -4216,9 +4221,9 @@ heather-adams-1,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017,Terra,terra,20
 holly-murray,Prairie Fire,dyna-2,2015,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017
 kathleen-merx,Prairie Fire,dyna-2,2017
 laura-brown-1,Prairie Fire,dyna-2,2017
-laura-harding,Prairie Fire,dyna-2,2017,Wild,wild-1,2016
+laura-harding,Prairie Fire,dyna-2,2017,Wildish,wild-1,2016
 liesl-ellis,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017
-martha-paterson,Prairie Fire,dyna-2,2017,Wild,wild-1,2016
+martha-paterson,Prairie Fire,dyna-2,2017,Wildish,wild-1,2016
 melanie-wrigglesworth,Prairie Fire,dyna-2,2017
 stephanie-ma,Prairie Fire,dyna-2,2016,Prairie Fire,dyna-2,2017
 caroline-foisy,The Collective,the-collective-5,2017
@@ -4252,7 +4257,6 @@ julie-tremblay,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
 laura-martinez-lung,X-Squad,x-squad-5,2017
 melanie-lamontagne,X-Squad,x-squad-5,2017
 sandrina-sauve,X-Squad,x-squad-5,2016,X-Squad,x-squad-5,2017
-sayeh-jolan,X-Squad,x-squad-5,2017
 stephanie-bosse,X-Squad,x-squad-5,2017
 vicki-maheux,Vénus,venus,2015,Vénus,venus,2016,X-Squad,x-squad-5,2017
 amanda-bettle,Anchor,anchor-ultimate,2017
@@ -4308,7 +4312,6 @@ bowen-liu,Fable,fable-1,2017
 henry-jue,Fable,fable-1,2017
 kevin-michael-roque,Fable,fable-1,2017
 paul-young-2,Fable,fable-1,2017,Jerk Factory,pogey-train,2015,Refinery,refinery-1,2016
-william-ieong,Fable,fable-1,2017
 aaron-kucherawy,Force,force,2017,Midnight Release,midnight-release,2016
 jamie-bonany,Force,force,2015,Force,force,2016,Force,force,2017
 luke-ogrady-1,Force,force,2016,Force,force,2017
@@ -4334,9 +4337,7 @@ morgan-hides,Lit,lit,2017
 taylor-friesen,Lit,lit,2016,Lit,lit,2017
 jane-hirose-1,PBHG,pretty-boys-and-handsome-girls-2,2017,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 katya-mackling,PBHG,pretty-boys-and-handsome-girls-2,2017,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
-olivia-zhou,PBHG,pretty-boys-and-handsome-girls-2,2017
 shayla-refvik,PBHG,pretty-boys-and-handsome-girls-2,2017
-elliot-wong,General Strike,general-strike-3,2015,PBHG,pretty-boys-and-handsome-girls-2,2017,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016
 jamaal-winston,PBHG,pretty-boys-and-handsome-girls-2,2017,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls-1,2016,Pretty Boys and Handsome Girls,pretty-boys-and-handsome-girls,2015
 mark-striemer,Nonsuch,nonsuch,2016,PBHG,pretty-boys-and-handsome-girls-2,2017
 raymond-cao,Nonsuch,nonsuch,2015,Nonsuch,nonsuch,2016,PBHG,pretty-boys-and-handsome-girls-2,2017
@@ -4353,7 +4354,6 @@ tyler-mulcock,Raft,raft-3,2017
 emily-weisbrot,Rogue Hippo,rogue-hippo-5,2017
 taryn-haluza-delay,Flurry,flurry-1,2016,Rogue Hippo,rogue-hippo-5,2017
 graham-troughton,Flurry,flurry-1,2016,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
-justin-lussier-1,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
 nolan-rettie,Rogue Hippo,rogue-hippo-3,2015,Rogue Hippo,rogue-hippo-5,2017
 april-woods,Sting,sting-1,2017
 brooke-anderson,Sting,sting-1,2017
@@ -4482,7 +4482,6 @@ samuel-rouleau,Gentlement's Club 2,gentlements-club-2-1,2017
 simon-lapointe,Gentlement's Club 2,gentlements-club-2-1,2017
 simon-verret,Gentlement's Club 2,gentlements-club-2-1,2017
 tong-zhang,Gentlement's Club 2,gentlements-club-2-1,2017
-andrew-ouchterlony,GOAT,goat-3,2015,GOAT,goat-3,2017
 derek-fan,GOAT,goat-3,2017,Grand Trunk,grand-trunk-4,2015,Grand Trunk,grand-trunk-4,2016
 geoffrey-powell,GOAT,goat-3,2015,GOAT,goat-3,2017
 jonathan-edwards-1,GOAT,goat-3,2017,Nagano '98,nagano-98-1,2016
@@ -4512,6 +4511,7 @@ jonathon-hallett-1,Maverick,maverick-7,2016,Maverick,maverick-7,2017
 marcus-laferriere,Maverick,maverick-7,2017
 maynald-savatdy,Maverick,maverick-7,2017
 mike-wyrebek,Maverick,maverick-7,2016,Maverick,maverick-7,2017,The Grind,quick-dirty,2015
+zachary-anderson,Maverick,maverick-7,2016,Maverick,maverick-7,2017
 jake-saunders,Mockingbird,mockingbird,2017
 jean-guillemette,Mockingbird,mockingbird,2017
 kevin-groulx,Mockingbird,mockingbird,2017
@@ -4680,7 +4680,6 @@ marianne-cote-allard,Qub,qub-4,2016,Qub,qub-4,2017
 marie-louise-marquis,Qub,qub-4,2016,Qub,qub-4,2017
 maude-brodeur-1,Qub,qub-4,2017
 sandrine-bussieres,Qub,qub-4,2016,Qub,qub-4,2017
-elizabeth-weld,Salty,salty-4,2017
 emma-parsons,Salty,salty-4,2017
 erin-pitman,Salty,salty-4,2017
 helena-sparavalo,Salty,salty-4,2017
@@ -4711,7 +4710,6 @@ lauryn-rohde,Stella B,stella-b-3,2017
 meredith-robson,Stella B,stella-b-2,2015,Stella B,stella-b-3,2017
 sandra-hanson,Stella B,stella-b-2,2015,Stella B,stella-b-3,2017
 anne-marie-boisvert,Mystik,mystik-4,2015,Mystik,mystik-4,2016,Storm,storm-112213,2017
-catherine-lalonde-1,Storm,storm-112213,2016,Storm,storm-112213,2017
 diana-cardenas,Storm,storm-112213,2017,X-Squad,x-squad-5,2016
 eve-mass-1,Storm,storm-112213,2017
 amanda-poppe-1,Force,force,2015,Tempest,team-01-1375,2016,Tempest,team-01-1375,2017
@@ -4973,7 +4971,6 @@ kerry-foley,Skerj,skerj,2016
 laura-joldersma,Lily,lily-6,2015,Skerj,skerj,2016
 adam-lazenby-1,Skerj,skerj,2016
 ian-gough,Skerj,skerj,2016
-jon-david,Skerj,skerj,2016
 liam-kinzie-1,Skerj,skerj,2016
 matthew-adams,Skerj,skerj,2016
 matthew-gaster-1,Skerj,skerj,2016
@@ -5079,7 +5076,6 @@ brett-prairie,Republic,republic-2,2016
 darius-kinney,Republic,republic-2,2016
 dwight-milford,Republic,republic-2,2016
 james-rogers,Republic,republic-2,2016
-jesse-sinclair-1,Republic,republic-2,2016
 joel-calton,Republic,republic-2,2016
 johnny-wentworth,Republic,republic-2,2016
 kent-maynard,Republic,republic-2,2016
@@ -5255,11 +5251,11 @@ myfannwy-pope,Wendigo,wendigo-2,2016
 rachelle-divina,Wendigo,wendigo-2,2016
 sharon-yeung,Wendigo,wendigo-2,2016
 zaneta-lo,Wendigo,wendigo-2,2016
-emma-billington,Wild,wild-1,2016
-hailey-mcinnis,Wild,wild-1,2015,Wild,wild-1,2016
-sarah-ursulan,Wild,wild-1,2015,Wild,wild-1,2016
-yvonne-woods-1,Wild,wild-1,2016
-zoe-zegers,Wild,wild-1,2016
+emma-billington,Wildish,wild-1,2016
+hailey-mcinnis,Wildish,wild-1,2015,Wildish,wild-1,2016
+sarah-ursulan,Wildish,wild-1,2015,Wildish,wild-1,2016
+yvonne-woods-1,Wildish,wild-1,2016
+zoe-zegers,Wildish,wild-1,2016
 dasha-gritsaenko,Zephyr,zephyr-2,2015,Zephyr,zephyr-2,2016
 emily-ip,Zephyr,zephyr-2,2016
 karen-wright-1,Zephyr,zephyr-2,2015,Zephyr,zephyr-2,2016
@@ -5309,7 +5305,6 @@ justin-mulcahy-1,Muriqui,vancouver-masters,2015
 kirk-savage,Muriqui,vancouver-masters,2015
 marc-roberts,Muriqui,vancouver-masters,2015
 matt-deane,Muriqui,vancouver-masters,2015
-matt-doyle,Muriqui,vancouver-masters,2015
 mike-grant,Muriqui,vancouver-masters,2015
 pete-atkinson,Muriqui,vancouver-masters,2015
 ryan-knowles,Muriqui,vancouver-masters,2015
@@ -5438,7 +5433,6 @@ kevin-boreskie,General Strike,general-strike-3,2015
 sean-fainman,General Strike,general-strike-3,2015
 derek-alexander,GOAT,goat-3,2015
 gordon-harrison,GOAT,goat-3,2015
-michael-jones-4,GOAT,goat-3,2015
 nima-mostaghimi,GOAT,goat-3,2015
 phil-watanabe,GOAT,goat-3,2015
 greg-mallett-1,Grand Trunk,grand-trunk-4,2015
@@ -5501,7 +5495,6 @@ amanda-auyeung,PPF,ppf-5,2015
 carly-fraser,PPF,ppf-5,2015
 jessica-benson-1,PPF,ppf-5,2015
 nyssa-biedermann,PPF,ppf-5,2015
-samantha-esteves,PPF,ppf-5,2015
 anna-blinder,Stella A,stella-a-2,2015
 sheila-ball,Stella A,stella-a-2,2015
 susan-boratynska,Stella A,stella-a-2,2015
@@ -5520,8 +5513,8 @@ yayuk-joffres,Traffic,traffic-2,2015
 catherine-ogrady,Vénus,venus,2015
 chantal-mandeville,Vénus,venus,2015
 jessica-chen-1,Vénus,venus,2015
-jana-makar,Wild,wild-1,2015
-kim-taylor,Wild,wild-1,2015
+jana-makar,Wildish,wild-1,2015
+kim-taylor,Wildish,wild-1,2015
 evelyn-chan,Zephyr,zephyr-2,2015
 michelle-martin,Zephyr,zephyr-2,2015
 mridula-swayampakula,Zephyr,zephyr-2,2015
