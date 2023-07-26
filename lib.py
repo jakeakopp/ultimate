@@ -38,7 +38,7 @@ def download_page(url, cachefilename, tsid_cookie=None, tsid_required=False):
 
   cookies = dict()
   if (tsid_cookie is not None) and (tsid_cookie != ''):
-    cookies['tsid'] = tsid_cookie
+    cookies['tssid'] = tsid_cookie
 
   response = requests.get(url, cookies=cookies, verify=False)
   if response.status_code == 404:
@@ -121,7 +121,7 @@ def process_team(team_div, year, tsid, all_teams, all_players=None):
   clusters = team_div.find_all(attrs={'class': 'gender-cluster'})
   for cluster in clusters:
     gender = 'F'
-    if cluster.find_all('h5')[0].get_text().startswith('Male'):
+    if cluster.find_all('h5')[0].get_text().startswith('Ma'):
       gender = 'M'
     players = cluster.find_all('a')
     for player in players:

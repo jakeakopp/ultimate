@@ -24,6 +24,7 @@ processed_franchises = dict()
 
 def create_franchise(name, url):
   # Match anything ending in a dash and one or two digits.
+  # TODO: Exception for 'dinner-at-4'.
   m = re.match('(.*)-\d\d?$', url)
   if m is None:
     return lib.Franchise(name, url)
@@ -121,7 +122,7 @@ def find_past_teams(team, players, players_to_teams, players_to_franchises):
 
 def _parse_args():
   parser = argparse.ArgumentParser()
-  parser.add_argument('--years', type=str, default='2019',
+  parser.add_argument('--years', type=str, default='2023',
                       help='Comma-separated years to print reports for.')
   parser.add_argument(
       '--tsid_cookie', type=str, default='',
@@ -169,8 +170,13 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
 #TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
 urls = [
+('CUC_Masters_2023', 2023, url_prefix + '2023-cuc-masters/teams'),
+('CUC_2023', 2023, url_prefix + '2023-cuc-series-senior/teams'),
+('CUC_Masters_2022', 2022, url_prefix + '2022-cuc-masters/teams'),
+('CUC_2022', 2022, url_prefix + '2022-cuc-seniors/teams'),
 ('UC_Invite_2021', 2021, url_prefix + 'uc-invitational-senior/teams'),
 ('UC_Invite_2021_Masters', 2021, url_prefix + 'uc-invitational-masters/teams'),
+('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams'),
 ('CUC2019', 2019, url_prefix + '2019-cuc-adult-series/teams'),
 ('CUC2018', 2018, url_prefix + 'cuc-2018-series/teams'),
 ('CUC2017', 2017, url_prefix + 'cuc-series/teams'),
