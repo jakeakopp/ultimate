@@ -170,6 +170,8 @@ def write_parsed_data(parsed_data_dir, players_to_teams, teams_to_players,
 #TODO: URLs for other tournaments? University? 4s?
 url_prefix = 'https://canadianultimate.com/en_ca/e/'
 urls = [
+('CUC_Masters_2024', 2024, url_prefix + '2024-cuc-series-masters/teams'),
+('CUC_2024', 2024, url_prefix + '2024-cuc-series-senior/teams'),
 ('CUC_Masters_2023', 2023, url_prefix + '2023-cuc-masters/teams'),
 ('CUC_2023', 2023, url_prefix + '2023-cuc-series-senior/teams'),
 ('CUC_Masters_2022', 2022, url_prefix + '2022-cuc-masters/teams'),
